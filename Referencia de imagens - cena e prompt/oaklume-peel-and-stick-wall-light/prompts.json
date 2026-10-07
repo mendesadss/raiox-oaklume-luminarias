@@ -1,0 +1,142 @@
+{
+  "product_handle": "oaklume-peel-and-stick-wall-light",
+  "competitor": "pridola.com",
+  "competitor_product_title": "WIRELESS WALL SCONCES (SET OF 2)",
+  "competitor_page": "https://pridola.com/products/wall-sconces",
+  "competitor_json": "https://pridola.com/products/wall-sconces.js",
+  "real_carousel_count": 57,
+  "downloaded_carousel_count": 8,
+  "amostrado": true,
+  "files": [
+    {
+      "position": 1,
+      "original_index_no_carrossel_real": 1,
+      "file": "carrossel-concorrente/referencia-01.png",
+      "source_image_url": "https://cdn.shopify.com/s/files/1/0797/7405/6790/files/V2Wallsconcesgold_3.png?v=1730974475",
+      "alt": null,
+      "bytes": 1218322
+    },
+    {
+      "position": 2,
+      "original_index_no_carrossel_real": 9,
+      "file": "carrossel-concorrente/referencia-02.png",
+      "source_image_url": "https://cdn.shopify.com/s/files/1/0797/7405/6790/files/Entry_Hall.png?v=1760599564",
+      "alt": null,
+      "bytes": 1833217
+    },
+    {
+      "position": 3,
+      "original_index_no_carrossel_real": 17,
+      "file": "carrossel-concorrente/referencia-03.png",
+      "source_image_url": "https://cdn.shopify.com/s/files/1/0797/7405/6790/files/Lamp_og_white_updv1.png?v=1770669491",
+      "alt": null,
+      "bytes": 3007944
+    },
+    {
+      "position": 4,
+      "original_index_no_carrossel_real": 25,
+      "file": "carrossel-concorrente/referencia-04.png",
+      "source_image_url": "https://cdn.shopify.com/s/files/1/0797/7405/6790/files/Cylindrical_sconces_gold_5efaf6d7-9542-4057-a357-603a648080c4.png?v=1788770615",
+      "alt": null,
+      "bytes": 1301669
+    },
+    {
+      "position": 5,
+      "original_index_no_carrossel_real": 33,
+      "file": "carrossel-concorrente/referencia-05.png",
+      "source_image_url": "https://cdn.shopify.com/s/files/1/0797/7405/6790/files/hf_20260825_062006_008239f4-fbbf-4b1d-97d1-7740c7e31587.png?v=1788770864",
+      "alt": null,
+      "bytes": 5548488
+    },
+    {
+      "position": 6,
+      "original_index_no_carrossel_real": 41,
+      "file": "carrossel-concorrente/referencia-06.png",
+      "source_image_url": "https://cdn.shopify.com/s/files/1/0797/7405/6790/files/Shade4black_9d33525e-7804-45e5-a6d8-2f8977340fe9.png?v=1788771261",
+      "alt": null,
+      "bytes": 1534401
+    },
+    {
+      "position": 7,
+      "original_index_no_carrossel_real": 49,
+      "file": "carrossel-concorrente/referencia-07.jpg",
+      "source_image_url": "https://cdn.shopify.com/s/files/1/0797/7405/6790/files/2.3_d12a99b7-760f-42ef-b2d0-ff97c90402b9.jpg?v=1788771552",
+      "alt": null,
+      "bytes": 950596
+    },
+    {
+      "position": 8,
+      "original_index_no_carrossel_real": 57,
+      "file": "carrossel-concorrente/referencia-08.png",
+      "source_image_url": "https://cdn.shopify.com/s/files/1/0797/7405/6790/files/Shade5silver2_f76f2106-9428-4b0f-929b-5b0bb31e3b0f.png?v=1788771802",
+      "alt": null,
+      "bytes": 1289850
+    }
+  ],
+  "references": [
+    {
+      "position": 1,
+      "type": "Competitor carousel image 1 of 8",
+      "description": "Competitor carousel image 1 of 8, from the pridola.com PDP.",
+      "reference_file": "Referencia de imagens - cena e prompt/oaklume-peel-and-stick-wall-light/carrossel-concorrente/referencia-01.png",
+      "source_image_url": "https://cdn.shopify.com/s/files/1/0797/7405/6790/files/V2Wallsconcesgold_3.png?v=1730974475",
+      "prompt": "Create one premium e-commerce PDP image for Oaklume. This is image 1 of 8 in the Oaklume Peel-and-Stick Wall Light carousel (scene: \"Competitor carousel image 1 of 8\").\n\nREFERENCE HIERARCHY\n1. Use the attached competitor scene reference only for composition, camera position, crop, visual rhythm, lighting logic, body pose and product-to-frame ratio.\n2. Use the separately attached Oaklume Peel-and-Stick Wall Light Product Master photographs as the sole authority for the product itself.\n3. If the two references conflict, the Product Master always wins for every physical product detail.\n\nART DIRECTION\nReproduce the composition, camera framing, crop, lighting direction and mood of the attached competitor reference image (scene: \"Competitor carousel image 1 of 8\", from pridola.com). Build a premium, confident visual language for Oaklume. The image should feel refined and intentional, never juvenile, overly technical or generic-dropship. Use the Oaklume palette naturally: #2F3A2E as the primary brand color, #F7F3EC as a clean neutral background, #4F6B45 as a controlled accent (CTAs, highlights), #C9873A only as a small pop of color (never dominating the frame).\n\nPRODUCT FIDELITY\nPreserve the exact Oaklume Peel-and-Stick Wall Light silhouette, materials, hardware, seams, colors and proportions shown in the separate Oaklume Peel-and-Stick Wall Light Product Master photographs. Show A wall light that sticks on in seconds: no wiring, no electrician, no holes.. Do not add, remove, enlarge or redesign any functional element. Do not invent pockets, closures, certifications, labels, textures, seams or accessories beyond what the Product Master shows. Maintain plausible scale, gravity, tension, material behavior and contact shadows.\n\nBRAND AND LEGAL CLEANUP\nRemove all competitor logos, trademarks, distinctive competitor prints, patches, watermarks and readable brand text from the reference. Do not imitate proprietary artwork, mascots or packaging design. Apply only the approved Oaklume identity when a brand mark is genuinely visible and physically plausible. Do not place promotional copy, prices, reviews or unverified technical claims inside the image.\n\nQUALITY CONTROL\nPhotorealistic commercial photography, natural anatomy, correct fingers/hands when present, realistic material response, accurate reflections, clean color separation, high micro-detail at the focal plane, restrained sharpening, no CGI gloss, no surreal elements and no visual clutter. Deliver a single finished image at 2048 x 2048 px (or 1600 x 2000 px for on-body lifestyle scenes), sRGB, with safe crop margins for mobile and desktop."
+    },
+    {
+      "position": 2,
+      "type": "Competitor carousel image 2 of 8",
+      "description": "Competitor carousel image 2 of 8, from the pridola.com PDP.",
+      "reference_file": "Referencia de imagens - cena e prompt/oaklume-peel-and-stick-wall-light/carrossel-concorrente/referencia-02.png",
+      "source_image_url": "https://cdn.shopify.com/s/files/1/0797/7405/6790/files/Entry_Hall.png?v=1760599564",
+      "prompt": "Create one premium e-commerce PDP image for Oaklume. This is image 2 of 8 in the Oaklume Peel-and-Stick Wall Light carousel (scene: \"Competitor carousel image 2 of 8\").\n\nREFERENCE HIERARCHY\n1. Use the attached competitor scene reference only for composition, camera position, crop, visual rhythm, lighting logic, body pose and product-to-frame ratio.\n2. Use the separately attached Oaklume Peel-and-Stick Wall Light Product Master photographs as the sole authority for the product itself.\n3. If the two references conflict, the Product Master always wins for every physical product detail.\n\nART DIRECTION\nReproduce the composition, camera framing, crop, lighting direction and mood of the attached competitor reference image (scene: \"Competitor carousel image 2 of 8\", from pridola.com). Build a premium, confident visual language for Oaklume. The image should feel refined and intentional, never juvenile, overly technical or generic-dropship. Use the Oaklume palette naturally: #2F3A2E as the primary brand color, #F7F3EC as a clean neutral background, #4F6B45 as a controlled accent (CTAs, highlights), #C9873A only as a small pop of color (never dominating the frame).\n\nPRODUCT FIDELITY\nPreserve the exact Oaklume Peel-and-Stick Wall Light silhouette, materials, hardware, seams, colors and proportions shown in the separate Oaklume Peel-and-Stick Wall Light Product Master photographs. Show A wall light that sticks on in seconds: no wiring, no electrician, no holes.. Do not add, remove, enlarge or redesign any functional element. Do not invent pockets, closures, certifications, labels, textures, seams or accessories beyond what the Product Master shows. Maintain plausible scale, gravity, tension, material behavior and contact shadows.\n\nBRAND AND LEGAL CLEANUP\nRemove all competitor logos, trademarks, distinctive competitor prints, patches, watermarks and readable brand text from the reference. Do not imitate proprietary artwork, mascots or packaging design. Apply only the approved Oaklume identity when a brand mark is genuinely visible and physically plausible. Do not place promotional copy, prices, reviews or unverified technical claims inside the image.\n\nQUALITY CONTROL\nPhotorealistic commercial photography, natural anatomy, correct fingers/hands when present, realistic material response, accurate reflections, clean color separation, high micro-detail at the focal plane, restrained sharpening, no CGI gloss, no surreal elements and no visual clutter. Deliver a single finished image at 2048 x 2048 px (or 1600 x 2000 px for on-body lifestyle scenes), sRGB, with safe crop margins for mobile and desktop."
+    },
+    {
+      "position": 3,
+      "type": "Competitor carousel image 3 of 8",
+      "description": "Competitor carousel image 3 of 8, from the pridola.com PDP.",
+      "reference_file": "Referencia de imagens - cena e prompt/oaklume-peel-and-stick-wall-light/carrossel-concorrente/referencia-03.png",
+      "source_image_url": "https://cdn.shopify.com/s/files/1/0797/7405/6790/files/Lamp_og_white_updv1.png?v=1770669491",
+      "prompt": "Create one premium e-commerce PDP image for Oaklume. This is image 3 of 8 in the Oaklume Peel-and-Stick Wall Light carousel (scene: \"Competitor carousel image 3 of 8\").\n\nREFERENCE HIERARCHY\n1. Use the attached competitor scene reference only for composition, camera position, crop, visual rhythm, lighting logic, body pose and product-to-frame ratio.\n2. Use the separately attached Oaklume Peel-and-Stick Wall Light Product Master photographs as the sole authority for the product itself.\n3. If the two references conflict, the Product Master always wins for every physical product detail.\n\nART DIRECTION\nReproduce the composition, camera framing, crop, lighting direction and mood of the attached competitor reference image (scene: \"Competitor carousel image 3 of 8\", from pridola.com). Build a premium, confident visual language for Oaklume. The image should feel refined and intentional, never juvenile, overly technical or generic-dropship. Use the Oaklume palette naturally: #2F3A2E as the primary brand color, #F7F3EC as a clean neutral background, #4F6B45 as a controlled accent (CTAs, highlights), #C9873A only as a small pop of color (never dominating the frame).\n\nPRODUCT FIDELITY\nPreserve the exact Oaklume Peel-and-Stick Wall Light silhouette, materials, hardware, seams, colors and proportions shown in the separate Oaklume Peel-and-Stick Wall Light Product Master photographs. Show A wall light that sticks on in seconds: no wiring, no electrician, no holes.. Do not add, remove, enlarge or redesign any functional element. Do not invent pockets, closures, certifications, labels, textures, seams or accessories beyond what the Product Master shows. Maintain plausible scale, gravity, tension, material behavior and contact shadows.\n\nBRAND AND LEGAL CLEANUP\nRemove all competitor logos, trademarks, distinctive competitor prints, patches, watermarks and readable brand text from the reference. Do not imitate proprietary artwork, mascots or packaging design. Apply only the approved Oaklume identity when a brand mark is genuinely visible and physically plausible. Do not place promotional copy, prices, reviews or unverified technical claims inside the image.\n\nQUALITY CONTROL\nPhotorealistic commercial photography, natural anatomy, correct fingers/hands when present, realistic material response, accurate reflections, clean color separation, high micro-detail at the focal plane, restrained sharpening, no CGI gloss, no surreal elements and no visual clutter. Deliver a single finished image at 2048 x 2048 px (or 1600 x 2000 px for on-body lifestyle scenes), sRGB, with safe crop margins for mobile and desktop."
+    },
+    {
+      "position": 4,
+      "type": "Competitor carousel image 4 of 8",
+      "description": "Competitor carousel image 4 of 8, from the pridola.com PDP.",
+      "reference_file": "Referencia de imagens - cena e prompt/oaklume-peel-and-stick-wall-light/carrossel-concorrente/referencia-04.png",
+      "source_image_url": "https://cdn.shopify.com/s/files/1/0797/7405/6790/files/Cylindrical_sconces_gold_5efaf6d7-9542-4057-a357-603a648080c4.png?v=1788770615",
+      "prompt": "Create one premium e-commerce PDP image for Oaklume. This is image 4 of 8 in the Oaklume Peel-and-Stick Wall Light carousel (scene: \"Competitor carousel image 4 of 8\").\n\nREFERENCE HIERARCHY\n1. Use the attached competitor scene reference only for composition, camera position, crop, visual rhythm, lighting logic, body pose and product-to-frame ratio.\n2. Use the separately attached Oaklume Peel-and-Stick Wall Light Product Master photographs as the sole authority for the product itself.\n3. If the two references conflict, the Product Master always wins for every physical product detail.\n\nART DIRECTION\nReproduce the composition, camera framing, crop, lighting direction and mood of the attached competitor reference image (scene: \"Competitor carousel image 4 of 8\", from pridola.com). Build a premium, confident visual language for Oaklume. The image should feel refined and intentional, never juvenile, overly technical or generic-dropship. Use the Oaklume palette naturally: #2F3A2E as the primary brand color, #F7F3EC as a clean neutral background, #4F6B45 as a controlled accent (CTAs, highlights), #C9873A only as a small pop of color (never dominating the frame).\n\nPRODUCT FIDELITY\nPreserve the exact Oaklume Peel-and-Stick Wall Light silhouette, materials, hardware, seams, colors and proportions shown in the separate Oaklume Peel-and-Stick Wall Light Product Master photographs. Show A wall light that sticks on in seconds: no wiring, no electrician, no holes.. Do not add, remove, enlarge or redesign any functional element. Do not invent pockets, closures, certifications, labels, textures, seams or accessories beyond what the Product Master shows. Maintain plausible scale, gravity, tension, material behavior and contact shadows.\n\nBRAND AND LEGAL CLEANUP\nRemove all competitor logos, trademarks, distinctive competitor prints, patches, watermarks and readable brand text from the reference. Do not imitate proprietary artwork, mascots or packaging design. Apply only the approved Oaklume identity when a brand mark is genuinely visible and physically plausible. Do not place promotional copy, prices, reviews or unverified technical claims inside the image.\n\nQUALITY CONTROL\nPhotorealistic commercial photography, natural anatomy, correct fingers/hands when present, realistic material response, accurate reflections, clean color separation, high micro-detail at the focal plane, restrained sharpening, no CGI gloss, no surreal elements and no visual clutter. Deliver a single finished image at 2048 x 2048 px (or 1600 x 2000 px for on-body lifestyle scenes), sRGB, with safe crop margins for mobile and desktop."
+    },
+    {
+      "position": 5,
+      "type": "Competitor carousel image 5 of 8",
+      "description": "Competitor carousel image 5 of 8, from the pridola.com PDP.",
+      "reference_file": "Referencia de imagens - cena e prompt/oaklume-peel-and-stick-wall-light/carrossel-concorrente/referencia-05.png",
+      "source_image_url": "https://cdn.shopify.com/s/files/1/0797/7405/6790/files/hf_20260825_062006_008239f4-fbbf-4b1d-97d1-7740c7e31587.png?v=1788770864",
+      "prompt": "Create one premium e-commerce PDP image for Oaklume. This is image 5 of 8 in the Oaklume Peel-and-Stick Wall Light carousel (scene: \"Competitor carousel image 5 of 8\").\n\nREFERENCE HIERARCHY\n1. Use the attached competitor scene reference only for composition, camera position, crop, visual rhythm, lighting logic, body pose and product-to-frame ratio.\n2. Use the separately attached Oaklume Peel-and-Stick Wall Light Product Master photographs as the sole authority for the product itself.\n3. If the two references conflict, the Product Master always wins for every physical product detail.\n\nART DIRECTION\nReproduce the composition, camera framing, crop, lighting direction and mood of the attached competitor reference image (scene: \"Competitor carousel image 5 of 8\", from pridola.com). Build a premium, confident visual language for Oaklume. The image should feel refined and intentional, never juvenile, overly technical or generic-dropship. Use the Oaklume palette naturally: #2F3A2E as the primary brand color, #F7F3EC as a clean neutral background, #4F6B45 as a controlled accent (CTAs, highlights), #C9873A only as a small pop of color (never dominating the frame).\n\nPRODUCT FIDELITY\nPreserve the exact Oaklume Peel-and-Stick Wall Light silhouette, materials, hardware, seams, colors and proportions shown in the separate Oaklume Peel-and-Stick Wall Light Product Master photographs. Show A wall light that sticks on in seconds: no wiring, no electrician, no holes.. Do not add, remove, enlarge or redesign any functional element. Do not invent pockets, closures, certifications, labels, textures, seams or accessories beyond what the Product Master shows. Maintain plausible scale, gravity, tension, material behavior and contact shadows.\n\nBRAND AND LEGAL CLEANUP\nRemove all competitor logos, trademarks, distinctive competitor prints, patches, watermarks and readable brand text from the reference. Do not imitate proprietary artwork, mascots or packaging design. Apply only the approved Oaklume identity when a brand mark is genuinely visible and physically plausible. Do not place promotional copy, prices, reviews or unverified technical claims inside the image.\n\nQUALITY CONTROL\nPhotorealistic commercial photography, natural anatomy, correct fingers/hands when present, realistic material response, accurate reflections, clean color separation, high micro-detail at the focal plane, restrained sharpening, no CGI gloss, no surreal elements and no visual clutter. Deliver a single finished image at 2048 x 2048 px (or 1600 x 2000 px for on-body lifestyle scenes), sRGB, with safe crop margins for mobile and desktop."
+    },
+    {
+      "position": 6,
+      "type": "Competitor carousel image 6 of 8",
+      "description": "Competitor carousel image 6 of 8, from the pridola.com PDP.",
+      "reference_file": "Referencia de imagens - cena e prompt/oaklume-peel-and-stick-wall-light/carrossel-concorrente/referencia-06.png",
+      "source_image_url": "https://cdn.shopify.com/s/files/1/0797/7405/6790/files/Shade4black_9d33525e-7804-45e5-a6d8-2f8977340fe9.png?v=1788771261",
+      "prompt": "Create one premium e-commerce PDP image for Oaklume. This is image 6 of 8 in the Oaklume Peel-and-Stick Wall Light carousel (scene: \"Competitor carousel image 6 of 8\").\n\nREFERENCE HIERARCHY\n1. Use the attached competitor scene reference only for composition, camera position, crop, visual rhythm, lighting logic, body pose and product-to-frame ratio.\n2. Use the separately attached Oaklume Peel-and-Stick Wall Light Product Master photographs as the sole authority for the product itself.\n3. If the two references conflict, the Product Master always wins for every physical product detail.\n\nART DIRECTION\nReproduce the composition, camera framing, crop, lighting direction and mood of the attached competitor reference image (scene: \"Competitor carousel image 6 of 8\", from pridola.com). Build a premium, confident visual language for Oaklume. The image should feel refined and intentional, never juvenile, overly technical or generic-dropship. Use the Oaklume palette naturally: #2F3A2E as the primary brand color, #F7F3EC as a clean neutral background, #4F6B45 as a controlled accent (CTAs, highlights), #C9873A only as a small pop of color (never dominating the frame).\n\nPRODUCT FIDELITY\nPreserve the exact Oaklume Peel-and-Stick Wall Light silhouette, materials, hardware, seams, colors and proportions shown in the separate Oaklume Peel-and-Stick Wall Light Product Master photographs. Show A wall light that sticks on in seconds: no wiring, no electrician, no holes.. Do not add, remove, enlarge or redesign any functional element. Do not invent pockets, closures, certifications, labels, textures, seams or accessories beyond what the Product Master shows. Maintain plausible scale, gravity, tension, material behavior and contact shadows.\n\nBRAND AND LEGAL CLEANUP\nRemove all competitor logos, trademarks, distinctive competitor prints, patches, watermarks and readable brand text from the reference. Do not imitate proprietary artwork, mascots or packaging design. Apply only the approved Oaklume identity when a brand mark is genuinely visible and physically plausible. Do not place promotional copy, prices, reviews or unverified technical claims inside the image.\n\nQUALITY CONTROL\nPhotorealistic commercial photography, natural anatomy, correct fingers/hands when present, realistic material response, accurate reflections, clean color separation, high micro-detail at the focal plane, restrained sharpening, no CGI gloss, no surreal elements and no visual clutter. Deliver a single finished image at 2048 x 2048 px (or 1600 x 2000 px for on-body lifestyle scenes), sRGB, with safe crop margins for mobile and desktop."
+    },
+    {
+      "position": 7,
+      "type": "Competitor carousel image 7 of 8",
+      "description": "Competitor carousel image 7 of 8, from the pridola.com PDP.",
+      "reference_file": "Referencia de imagens - cena e prompt/oaklume-peel-and-stick-wall-light/carrossel-concorrente/referencia-07.jpg",
+      "source_image_url": "https://cdn.shopify.com/s/files/1/0797/7405/6790/files/2.3_d12a99b7-760f-42ef-b2d0-ff97c90402b9.jpg?v=1788771552",
+      "prompt": "Create one premium e-commerce PDP image for Oaklume. This is image 7 of 8 in the Oaklume Peel-and-Stick Wall Light carousel (scene: \"Competitor carousel image 7 of 8\").\n\nREFERENCE HIERARCHY\n1. Use the attached competitor scene reference only for composition, camera position, crop, visual rhythm, lighting logic, body pose and product-to-frame ratio.\n2. Use the separately attached Oaklume Peel-and-Stick Wall Light Product Master photographs as the sole authority for the product itself.\n3. If the two references conflict, the Product Master always wins for every physical product detail.\n\nART DIRECTION\nReproduce the composition, camera framing, crop, lighting direction and mood of the attached competitor reference image (scene: \"Competitor carousel image 7 of 8\", from pridola.com). Build a premium, confident visual language for Oaklume. The image should feel refined and intentional, never juvenile, overly technical or generic-dropship. Use the Oaklume palette naturally: #2F3A2E as the primary brand color, #F7F3EC as a clean neutral background, #4F6B45 as a controlled accent (CTAs, highlights), #C9873A only as a small pop of color (never dominating the frame).\n\nPRODUCT FIDELITY\nPreserve the exact Oaklume Peel-and-Stick Wall Light silhouette, materials, hardware, seams, colors and proportions shown in the separate Oaklume Peel-and-Stick Wall Light Product Master photographs. Show A wall light that sticks on in seconds: no wiring, no electrician, no holes.. Do not add, remove, enlarge or redesign any functional element. Do not invent pockets, closures, certifications, labels, textures, seams or accessories beyond what the Product Master shows. Maintain plausible scale, gravity, tension, material behavior and contact shadows.\n\nBRAND AND LEGAL CLEANUP\nRemove all competitor logos, trademarks, distinctive competitor prints, patches, watermarks and readable brand text from the reference. Do not imitate proprietary artwork, mascots or packaging design. Apply only the approved Oaklume identity when a brand mark is genuinely visible and physically plausible. Do not place promotional copy, prices, reviews or unverified technical claims inside the image.\n\nQUALITY CONTROL\nPhotorealistic commercial photography, natural anatomy, correct fingers/hands when present, realistic material response, accurate reflections, clean color separation, high micro-detail at the focal plane, restrained sharpening, no CGI gloss, no surreal elements and no visual clutter. Deliver a single finished image at 2048 x 2048 px (or 1600 x 2000 px for on-body lifestyle scenes), sRGB, with safe crop margins for mobile and desktop."
+    },
+    {
+      "position": 8,
+      "type": "Competitor carousel image 8 of 8",
+      "description": "Competitor carousel image 8 of 8, from the pridola.com PDP.",
+      "reference_file": "Referencia de imagens - cena e prompt/oaklume-peel-and-stick-wall-light/carrossel-concorrente/referencia-08.png",
+      "source_image_url": "https://cdn.shopify.com/s/files/1/0797/7405/6790/files/Shade5silver2_f76f2106-9428-4b0f-929b-5b0bb31e3b0f.png?v=1788771802",
+      "prompt": "Create one premium e-commerce PDP image for Oaklume. This is image 8 of 8 in the Oaklume Peel-and-Stick Wall Light carousel (scene: \"Competitor carousel image 8 of 8\").\n\nREFERENCE HIERARCHY\n1. Use the attached competitor scene reference only for composition, camera position, crop, visual rhythm, lighting logic, body pose and product-to-frame ratio.\n2. Use the separately attached Oaklume Peel-and-Stick Wall Light Product Master photographs as the sole authority for the product itself.\n3. If the two references conflict, the Product Master always wins for every physical product detail.\n\nART DIRECTION\nReproduce the composition, camera framing, crop, lighting direction and mood of the attached competitor reference image (scene: \"Competitor carousel image 8 of 8\", from pridola.com). Build a premium, confident visual language for Oaklume. The image should feel refined and intentional, never juvenile, overly technical or generic-dropship. Use the Oaklume palette naturally: #2F3A2E as the primary brand color, #F7F3EC as a clean neutral background, #4F6B45 as a controlled accent (CTAs, highlights), #C9873A only as a small pop of color (never dominating the frame).\n\nPRODUCT FIDELITY\nPreserve the exact Oaklume Peel-and-Stick Wall Light silhouette, materials, hardware, seams, colors and proportions shown in the separate Oaklume Peel-and-Stick Wall Light Product Master photographs. Show A wall light that sticks on in seconds: no wiring, no electrician, no holes.. Do not add, remove, enlarge or redesign any functional element. Do not invent pockets, closures, certifications, labels, textures, seams or accessories beyond what the Product Master shows. Maintain plausible scale, gravity, tension, material behavior and contact shadows.\n\nBRAND AND LEGAL CLEANUP\nRemove all competitor logos, trademarks, distinctive competitor prints, patches, watermarks and readable brand text from the reference. Do not imitate proprietary artwork, mascots or packaging design. Apply only the approved Oaklume identity when a brand mark is genuinely visible and physically plausible. Do not place promotional copy, prices, reviews or unverified technical claims inside the image.\n\nQUALITY CONTROL\nPhotorealistic commercial photography, natural anatomy, correct fingers/hands when present, realistic material response, accurate reflections, clean color separation, high micro-detail at the focal plane, restrained sharpening, no CGI gloss, no surreal elements and no visual clutter. Deliver a single finished image at 2048 x 2048 px (or 1600 x 2000 px for on-body lifestyle scenes), sRGB, with safe crop margins for mobile and desktop."
+    }
+  ]
+}

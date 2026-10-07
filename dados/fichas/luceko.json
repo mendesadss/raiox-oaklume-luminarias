@@ -1,0 +1,133 @@
+{
+  "slug": "luceko",
+  "nome": "luceko.com",
+  "dominios": [
+    "luceko.com"
+  ],
+  "pais": "nao_verificado",
+  "trafego": {
+    "medido": false,
+    "motivo_leitor": "o SimilarWeb não tem dado deste domínio (tráfego abaixo do limiar da fonte)",
+    "rotulo": "não medido"
+  },
+  "catalogo": {
+    "produtos_vistos": 10,
+    "preco_mediana": {
+      "USD": 77.99
+    },
+    "ritmo_de_lancamento": "Primeiro produto cadastrado em 2025-04-30 (MODERN TABLE LAMP), o mais novo em 2026-04-24."
+  },
+  "loja": {
+    "plataforma": "Shopify (o catálogo público respondeu)",
+    "meios_de_pagamento": [],
+    "frete": "Frete grátis (barra do site); processamento 1 a 3 dias úteis, rastreio pode levar até 5 dias",
+    "garantia_e_troca": "30 dias para devolução, item sem uso",
+    "prazo_de_entrega_declarado": "Frete grátis (barra do site); processamento 1 a 3 dias úteis, rastreio pode levar até 5 dias",
+    "apps": "klaviyo, judge.me, aftersell",
+    "pixels": "nenhum visto no código da página"
+  },
+  "midia_paga": {
+    "angulos": [
+      "Anúncios ativos pela URL na Biblioteca da Meta (todos os países, 2026-10-06): 72 ativos e 1820 no histórico das páginas da loja. amostra 100% da página Luceko, moeda AUD (alvo Austrália); criativos \"Free Mystery Gifts\", \"Make Your Home Look 10X Better\"; piso é da amostra (50 de 72), histórico 1.820 mostra rotação forte"
+    ],
+    "ativos_pela_url": 72,
+    "historico_pela_url": 1820,
+    "sobrevivencia_pct": 4,
+    "page_ids": [
+      "649926298201656"
+    ]
+  },
+  "top10": [
+    {
+      "handle": "luceko-light-bulb",
+      "titulo": "LUCEKO LIGHT BULB",
+      "preco": 14.99,
+      "url": "https://luceko.com/products/luceko-light-bulb"
+    },
+    {
+      "handle": "modern-table-lamp",
+      "titulo": "MODERN TABLE LAMP",
+      "preco": 89.99,
+      "url": "https://luceko.com/products/modern-table-lamp"
+    },
+    {
+      "handle": "wireless-bottle-lamp",
+      "titulo": "WIRELESS BOTTLE LAMP",
+      "preco": 39.99,
+      "url": "https://luceko.com/products/wireless-bottle-lamp"
+    },
+    {
+      "handle": "crystal-lantern-table-lamp",
+      "titulo": "CRYSTAL LANTERN TABLE LAMP",
+      "preco": 77.99,
+      "url": "https://luceko.com/products/crystal-lantern-table-lamp"
+    },
+    {
+      "handle": "cordless-wall-sconces",
+      "titulo": "CORDLESS WALL SCONCES (SET OF 2)",
+      "preco": 95.99,
+      "url": "https://luceko.com/products/cordless-wall-sconces"
+    },
+    {
+      "handle": "lunaro-table-lamp",
+      "titulo": "LUNARO TABLE LAMP",
+      "preco": 159.99,
+      "url": "https://luceko.com/products/lunaro-table-lamp"
+    },
+    {
+      "handle": "led-rechargeable-wall-light-sconce",
+      "titulo": "LED Rechargeable Wall Light/Sconce",
+      "preco": 52.99,
+      "url": "https://luceko.com/products/led-rechargeable-wall-light-sconce"
+    },
+    {
+      "handle": "lumis-pathway-lights",
+      "titulo": "Lumis Pathway Lights",
+      "preco": 59.99,
+      "url": "https://luceko.com/products/lumis-pathway-lights"
+    },
+    {
+      "handle": "wavy-wireless-bottle-lamp",
+      "titulo": "WAVY WIRELESS BOTTLE LAMP",
+      "preco": 49.99,
+      "url": "https://luceko.com/products/wavy-wireless-bottle-lamp"
+    },
+    {
+      "handle": "wireless-modern-wall-lights-set-of-2",
+      "titulo": "WIRELESS MODERN WALL LIGHTS (SET OF 2)",
+      "preco": 199.99,
+      "url": "https://luceko.com/products/wireless-modern-wall-lights-set-of-2"
+    }
+  ],
+  "produto_campeao": {
+    "titulo": "LUCEKO LIGHT BULB",
+    "preco": 14.99,
+    "moeda": "USD",
+    "url": "https://luceko.com/products/luceko-light-bulb",
+    "por_que_e_o_campeao": "Primeiro produto da ordem \"mais vendido\" da própria loja, lida em 06/10/2026 (não traz quantidade vendida)."
+  },
+  "dados_nao_obtidos": [
+    {
+      "dado": "Venda e faturamento",
+      "motivo": "ninguém publica venda de loja privada",
+      "o_que_foi_tentado": "visitas por mês do SimilarWeb e preço do catálogo"
+    }
+  ],
+  "pais_origem_provavel": "Austrália (anúncios em dólar australiano)",
+  "o_que_vende": "10 produtos: luminária de mesa sem fio, de garrafa, lanterna de cristal e lâmpada, mediana de US$ 52,99.",
+  "classificacao": {
+    "modelo": "dropship_puro",
+    "veredito": "OBSERVAR",
+    "nivel_de_execucao": "iniciante",
+    "por_que": "Catálogo de 10 luminárias sem fio, igual ao tamanho da Oaklume, com 72 anúncios ativos e 1.820 no histórico, mas tráfego abaixo do limiar do SimilarWeb. Serve de prova de que catálogo pequeno roda na Meta, não de molde de escala.",
+    "o_que_o_veredito_cobre": "Tamanho de catálogo e mix (mesa, garrafa, lanterna). Sem tráfego medido, não cobre resultado.",
+    "defensabilidade": "ARBITRAGEM: produto de fábrica sem marca própria forte.",
+    "scorecard": {}
+  },
+  "o_que_copiar": [
+    "Catálogo curto de luminárias sem fio com uma lâmpada de complemento"
+  ],
+  "o_que_nao_copiar": [
+    "Acessório barato como primeiro da lista de mais vendidos"
+  ]
+}

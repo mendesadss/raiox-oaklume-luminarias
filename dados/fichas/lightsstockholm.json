@@ -1,0 +1,149 @@
+{
+  "slug": "lightsstockholm",
+  "nome": "lightsstockholm.com",
+  "dominios": [
+    "lightsstockholm.com"
+  ],
+  "pais": "nao_verificado",
+  "trafego": {
+    "medido": true,
+    "rotulo": "último mês do SimilarWeb",
+    "busca_paga_pct": {
+      "lightsstockholm.com": 8.7
+    },
+    "busca_organica_pct": {
+      "lightsstockholm.com": 29.4
+    },
+    "canal_1": "busca paga 8,7%, busca orgânica 29,4%, acesso direto 21,2%, rede social paga 11,9%",
+    "ressalva": "Estimativa do SimilarWeb (dado de extensão). Meses anteriores: 352 e 2.999. Não é receita.",
+    "visitas_como_escrito": {
+      "lightsstockholm.com": "16K (último mês)"
+    },
+    "variacao_ultimo_mes_pct": 424.4
+  },
+  "catalogo": {
+    "produtos_vistos": 75,
+    "preco_mediana": {
+      "USD": 99
+    },
+    "ritmo_de_lancamento": "Primeiro produto cadastrado em 2024-01-03 (Japan – Crystal Rechargeable Table Lamp), o mais novo em 2026-09-19."
+  },
+  "loja": {
+    "plataforma": "Shopify (o catálogo público respondeu)",
+    "meios_de_pagamento": [],
+    "frete": "7 a 14 dias úteis em média; EMS até 40 dias úteis, correio padrão da China 7 a 40; envio de vários países",
+    "garantia_e_troca": "30 dias, reembolso sem o frete; devolução para armazém Naishi (China)",
+    "prazo_de_entrega_declarado": "7 a 14 dias úteis em média; EMS até 40 dias úteis, correio padrão da China 7 a 40; envio de vários países",
+    "apps": "klaviyo, judge.me, trustpilot",
+    "pixels": "ga4 G-083QPRBNDV, gads AW-16915785511, tiktok"
+  },
+  "midia_paga": {
+    "angulos": [
+      "Anúncios ativos pela URL na Biblioteca da Meta (todos os países, 2026-10-06): 317 ativos e 11679 no histórico das páginas da loja. USD, todos iniciados de 04 a 06/10/2026 na amostra de 50 (rotação diária de criativos); criativos \"Buy 1 Get 1 Free\", \"4.9/5 20.000+ clients\", Halloween"
+    ],
+    "ativos_pela_url": 317,
+    "historico_pela_url": 11679,
+    "sobrevivencia_pct": 2.7,
+    "page_ids": [
+      "101463322882949",
+      "480954971764670"
+    ]
+  },
+  "top10": [
+    {
+      "handle": "lamp",
+      "titulo": "Stockholm Table Lamp",
+      "preco": 109,
+      "url": "https://lightsstockholm.com/products/lamp"
+    },
+    {
+      "handle": "table-lamp-helsinki-1",
+      "titulo": "Helsinki Table Lamp",
+      "preco": 99,
+      "url": "https://lightsstockholm.com/products/table-lamp-helsinki-1"
+    },
+    {
+      "handle": "table-lamp-amsterdam",
+      "titulo": "Amsterdam Table Lamp",
+      "preco": 109,
+      "url": "https://lightsstockholm.com/products/table-lamp-amsterdam"
+    },
+    {
+      "handle": "table-lamp-budapest",
+      "titulo": "Budapest Table Lamp",
+      "preco": 109.99,
+      "url": "https://lightsstockholm.com/products/table-lamp-budapest"
+    },
+    {
+      "handle": "copenhagen-table-lamp",
+      "titulo": "Copenhagen Table Lamp",
+      "preco": 139,
+      "url": "https://lightsstockholm.com/products/copenhagen-table-lamp"
+    },
+    {
+      "handle": "prague-table-lamp",
+      "titulo": "Prague Table Lamp",
+      "preco": 129,
+      "url": "https://lightsstockholm.com/products/prague-table-lamp"
+    },
+    {
+      "handle": "table-lamp-tokyo",
+      "titulo": "Tokyo Table Lamp",
+      "preco": 129.99,
+      "url": "https://lightsstockholm.com/products/table-lamp-tokyo"
+    },
+    {
+      "handle": "table-lamp-oslo-1",
+      "titulo": "Oslo Table Lamp",
+      "preco": 79,
+      "url": "https://lightsstockholm.com/products/table-lamp-oslo-1"
+    },
+    {
+      "handle": "yokohama-table-lamp",
+      "titulo": "Yokohama Table Lamp",
+      "preco": 99.99,
+      "url": "https://lightsstockholm.com/products/yokohama-table-lamp"
+    },
+    {
+      "handle": "table-lamp-dublin",
+      "titulo": "Dublin Table Lamp",
+      "preco": 84.99,
+      "url": "https://lightsstockholm.com/products/table-lamp-dublin"
+    }
+  ],
+  "produto_campeao": {
+    "titulo": "Stockholm Table Lamp",
+    "preco": 109,
+    "moeda": "USD",
+    "url": "https://lightsstockholm.com/products/lamp",
+    "por_que_e_o_campeao": "Primeiro produto da ordem \"mais vendido\" da própria loja, lida em 06/10/2026 (não traz quantidade vendida)."
+  },
+  "dados_nao_obtidos": [
+    {
+      "dado": "Venda e faturamento",
+      "motivo": "ninguém publica venda de loja privada",
+      "o_que_foi_tentado": "visitas por mês do SimilarWeb e preço do catálogo"
+    }
+  ],
+  "pais_origem_provavel": "Fachada no Reino Unido (escritório em Londres), armazém na China",
+  "o_que_vende": "75 produtos: luminárias de mesa de design com nome de cidade (Helsinki, Amsterdam, Budapest) e cúpulas plissadas, mediana de US$ 99.",
+  "classificacao": {
+    "modelo": "dropship_puro",
+    "veredito": "MODELAR",
+    "nivel_de_execucao": "avancado",
+    "por_que": "É a loja que mais escala no nicho: 317 anúncios ativos e 11.679 no histórico das duas páginas, anúncio ativo há 453 dias na rolagem do Reino Unido e 15.726 visitas no último mês (de 352 dois meses antes). Vende luminária de mesa a US$ 99 a 109 com \"compre 1, leve 2\" e envia da China em 7 a 40 dias.",
+    "o_que_o_veredito_cobre": "Oferta de luminária premium em par (\"compre 1, leve 2\"), nome de coleção por cidade e rotação diária de criativos na Meta. Não cobre o prazo de 7 a 40 dias nem a fachada em Londres.",
+    "defensabilidade": "ARBITRAGEM COM MARCA: catálogo de fábrica com nome próprio; 21.2% de acesso direto.",
+    "scorecard": {}
+  },
+  "o_que_copiar": [
+    "Oferta em par no preço de uma luminária premium",
+    "Coleção com nome de cidade em cada modelo",
+    "Rotação de criativos (anúncios novos todo dia)"
+  ],
+  "o_que_nao_copiar": [
+    "Prazo de 7 a 40 dias úteis com envio da China",
+    "Alegação de \"20.000+ clientes\" sem prova pública",
+    "Escritório de fachada no Reino Unido"
+  ]
+}

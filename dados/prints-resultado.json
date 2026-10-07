@@ -1,0 +1,173 @@
+{
+  "lojas": {
+    "lightsstockholm": {
+      "capturas": [
+        {
+          "tipo": "home",
+          "ok": true
+        },
+        {
+          "tipo": "pdp",
+          "ok": true
+        },
+        {
+          "tipo": "carrinho",
+          "ok": true
+        },
+        {
+          "tipo": "home-celular",
+          "ok": false
+        },
+        {
+          "tipo": "pdp-celular",
+          "ok": false
+        }
+      ]
+    },
+    "pridola": {
+      "capturas": [
+        {
+          "tipo": "home",
+          "ok": true
+        },
+        {
+          "tipo": "pdp",
+          "ok": true
+        },
+        {
+          "tipo": "carrinho",
+          "ok": true
+        },
+        {
+          "tipo": "home-celular",
+          "ok": false
+        },
+        {
+          "tipo": "pdp-celular",
+          "ok": false
+        }
+      ]
+    },
+    "vykker": {
+      "capturas": [
+        {
+          "tipo": "home",
+          "ok": true
+        },
+        {
+          "tipo": "pdp",
+          "ok": true
+        },
+        {
+          "tipo": "carrinho",
+          "ok": true
+        },
+        {
+          "tipo": "home-celular",
+          "ok": false
+        },
+        {
+          "tipo": "pdp-celular",
+          "ok": false
+        }
+      ]
+    },
+    "oaklume": {
+      "capturas": [
+        {
+          "tipo": "home",
+          "ok": true
+        },
+        {
+          "tipo": "pdp",
+          "ok": true
+        },
+        {
+          "tipo": "carrinho",
+          "ok": true
+        },
+        {
+          "tipo": "home-celular",
+          "ok": false
+        },
+        {
+          "tipo": "pdp-celular",
+          "ok": false
+        }
+      ]
+    },
+    "lightscordless": {
+      "capturas": [
+        {
+          "tipo": "home",
+          "ok": true
+        },
+        {
+          "tipo": "pdp",
+          "ok": true
+        },
+        {
+          "tipo": "carrinho",
+          "ok": true
+        },
+        {
+          "tipo": "home-celular",
+          "ok": false
+        },
+        {
+          "tipo": "pdp-celular",
+          "ok": false
+        }
+      ]
+    },
+    "taplight": {
+      "capturas": [
+        {
+          "tipo": "home",
+          "ok": true
+        },
+        {
+          "tipo": "pdp",
+          "ok": true
+        },
+        {
+          "tipo": "carrinho",
+          "ok": true
+        },
+        {
+          "tipo": "home-celular",
+          "ok": false
+        },
+        {
+          "tipo": "pdp-celular",
+          "ok": false
+        }
+      ]
+    },
+    "luceko": {
+      "capturas": [
+        {
+          "tipo": "home",
+          "ok": true
+        },
+        {
+          "tipo": "pdp",
+          "ok": true
+        },
+        {
+          "tipo": "carrinho",
+          "ok": true
+        },
+        {
+          "tipo": "home-celular",
+          "ok": false
+        },
+        {
+          "tipo": "pdp-celular",
+          "ok": false
+        }
+      ]
+    }
+  },
+  "conferencia_visual": "Prints tirados por script da skill em 06/10/2026: home, página do produto campeão e carrinho com item. Conferidos pelo tamanho do arquivo, sem leitura por pessoa."
+}

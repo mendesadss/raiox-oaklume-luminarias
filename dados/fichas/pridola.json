@@ -1,0 +1,134 @@
+{
+  "slug": "pridola",
+  "nome": "pridola.com",
+  "dominios": [
+    "pridola.com"
+  ],
+  "pais": "nao_verificado",
+  "trafego": {
+    "medido": false,
+    "motivo_leitor": "o SimilarWeb não tem dado deste domínio (tráfego abaixo do limiar da fonte)",
+    "rotulo": "não medido"
+  },
+  "catalogo": {
+    "produtos_vistos": 47,
+    "preco_mediana": {
+      "USD": 59.99
+    },
+    "ritmo_de_lancamento": "Primeiro produto cadastrado em 2024-04-02 (WIRELESS WALL SCONCES (SET OF 2)), o mais novo em 2026-09-11."
+  },
+  "loja": {
+    "plataforma": "Shopify (o catálogo público respondeu)",
+    "meios_de_pagamento": [
+      "Shopify Payments e Shop Pay (vistos no código)"
+    ],
+    "frete": "Prazo = processamento + trânsito (texto das taxas não lido por completo); app de seguro de envio (US$ 1 a 5)",
+    "garantia_e_troca": "30 dias, só com aprovação prévia pelo chat",
+    "prazo_de_entrega_declarado": "Prazo = processamento + trânsito (texto das taxas não lido por completo); app de seguro de envio (US$ 1 a 5)",
+    "apps": "klaviyo, loox, stamped, recart/postscript, shopify_payments_shoppay",
+    "pixels": "meta_pixel, ga4 G-LG6X4ZDJ9W, pinterest"
+  },
+  "midia_paga": {
+    "angulos": [
+      "Anúncios ativos pela URL na Biblioteca da Meta (todos os países, 2026-10-06): 0 ativos e 30 no histórico das páginas da loja. domínio pridola.com devolve 0 ativos (a loja redireciona para pridola.co); busca \"pridola\"/\"pridola.co\" devolve cerca de 1.893 ativos, mas é busca por texto e mistura menções; páginas próprias Pridola Design e Pridola's Design, USD, criativo \"Wall Lights That Don't Wreck Your Walls\" iniciado em out/2026; histórico 30 do domínio: mais antigo na amostra 2025-10-26 (EnvieDéco FR, EUR)"
+    ],
+    "ativos_pela_url": 0,
+    "historico_pela_url": 30,
+    "sobrevivencia_pct": 0,
+    "page_ids": [
+      "201772889686546",
+      "107626672145487",
+      "287191851138110",
+      "649712804894101"
+    ]
+  },
+  "top10": [
+    {
+      "handle": "wall-sconces",
+      "titulo": "WIRELESS WALL SCONCES (SET OF 2)",
+      "preco": 59.99,
+      "url": "https://pridola.com/products/wall-sconces"
+    },
+    {
+      "handle": "tradlose-lyspaerer-x2",
+      "titulo": "PRIDOLA WIRELESS RECHARGEABLE LIGHT BULBS (SET OF 2)",
+      "preco": 69.99,
+      "url": "https://pridola.com/products/tradlose-lyspaerer-x2"
+    },
+    {
+      "handle": "pridola-dualport-extra-fast-charger",
+      "titulo": "PRIDOLA BULBS EXTRA FAST CHARGER (DUALPORT)",
+      "preco": 24.99,
+      "url": "https://pridola.com/products/pridola-dualport-extra-fast-charger"
+    },
+    {
+      "handle": "extra-strong-adhesive-patches-set-of-2",
+      "titulo": "PRIDOLA SECURESTICK ADHESIVE PATCHES (SET OF 2)",
+      "preco": 19.99,
+      "url": "https://pridola.com/products/extra-strong-adhesive-patches-set-of-2"
+    },
+    {
+      "handle": "natural-wireless-wall-sconce",
+      "titulo": "NATURAL WIRELESS WALL SCONCE",
+      "preco": 59.99,
+      "url": "https://pridola.com/products/natural-wireless-wall-sconce"
+    },
+    {
+      "handle": "modern-table-lamp",
+      "titulo": "MODERN TABLE LAMP",
+      "preco": 69.99,
+      "url": "https://pridola.com/products/modern-table-lamp"
+    },
+    {
+      "handle": "wireless-sand-wall-sconces-set-of-2",
+      "titulo": "WIRELESS SAND WALL SCONCES (SET OF 2)",
+      "preco": 59.99,
+      "url": "https://pridola.com/products/wireless-sand-wall-sconces-set-of-2"
+    },
+    {
+      "handle": "wireless-cylindrical-wall-sconces-set-of-2-2-bulbs-free",
+      "titulo": "WIRELESS CYLINDRICAL WALL SCONCES (SET OF 2)",
+      "preco": 59.99,
+      "url": "https://pridola.com/products/wireless-cylindrical-wall-sconces-set-of-2-2-bulbs-free"
+    },
+    {
+      "handle": "wireless-wall-sconces-set-of-2",
+      "titulo": "WIRELESS WALL SCONCES ( SET OF 2 )",
+      "preco": 59.99,
+      "url": "https://pridola.com/products/wireless-wall-sconces-set-of-2"
+    }
+  ],
+  "produto_campeao": {
+    "titulo": "WIRELESS WALL SCONCES (SET OF 2)",
+    "preco": 59.99,
+    "moeda": "USD",
+    "url": "https://pridola.com/products/wall-sconces",
+    "por_que_e_o_campeao": "Primeiro produto da ordem \"mais vendido\" da própria loja, lida em 06/10/2026 (não traz quantidade vendida)."
+  },
+  "dados_nao_obtidos": [
+    {
+      "dado": "Venda e faturamento",
+      "motivo": "ninguém publica venda de loja privada",
+      "o_que_foi_tentado": "visitas por mês do SimilarWeb e preço do catálogo"
+    }
+  ],
+  "pais_origem_provavel": "Estados Unidos e Dinamarca (vendor Pridola.dk); domínio redireciona para pridola.co",
+  "o_que_vende": "47 produtos: arandela sem fio recarregável (par por US$ 59,99), lâmpada recarregável e carregador, mais itens de casa.",
+  "classificacao": {
+    "modelo": "dropship_de_marca",
+    "veredito": "MODELAR",
+    "nivel_de_execucao": "medio",
+    "por_que": "É a concorrente direta da luminária de parede: na contagem por termo do grupo inglês, a Pridola Design teve 626 anúncios alcançando os EUA e 649 o Reino Unido, a maior presença britânica do nicho. Vende a arandela em par a US$ 59,99. A busca pelo domínio voltou 0 ativos (o domínio redireciona), então a contagem por loja é a do termo, não a da URL.",
+    "o_que_o_veredito_cobre": "Arandela sem fio em par, lâmpada recarregável como complemento e presença forte no Reino Unido. Não cobre os itens de casa fora do nicho.",
+    "defensabilidade": "DROPSHIP DE MARCA: nome próprio e revista de marca no catálogo.",
+    "scorecard": {}
+  },
+  "o_que_copiar": [
+    "Arandela vendida em par (duas por um preço)",
+    "Lâmpada recarregável e carregador como complemento do pedido"
+  ],
+  "o_que_nao_copiar": [
+    "Devolução só com aprovação prévia pelo chat",
+    "Seguro de envio pago no carrinho"
+  ]
+}

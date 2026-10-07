@@ -1,0 +1,76 @@
+{
+  "product_handle": "oaklume-dome-cordless-table-lamp",
+  "competitor": "lightscordless.com",
+  "competitor_product_title": "Kendal™",
+  "competitor_page": "https://lightscordless.com/products/cordless-table-lamp",
+  "competitor_json": "https://lightscordless.com/products/cordless-table-lamp.js",
+  "real_carousel_count": 19,
+  "downloaded_carousel_count": 8,
+  "amostrado": true,
+  "files": [
+    {
+      "position": 1,
+      "original_index_no_carrossel_real": 1,
+      "file": "carrossel-concorrente/referencia-01.jpg",
+      "source_image_url": "https://cdn.shopify.com/s/files/1/0699/1678/6978/products/kendallightscordless-896703.jpg?v=1681615846",
+      "alt": "Kendal™ - Lightscordless",
+      "bytes": 133263
+    },
+    {
+      "position": 2,
+      "original_index_no_carrossel_real": 4,
+      "file": "carrossel-concorrente/referencia-02.jpg",
+      "source_image_url": "https://cdn.shopify.com/s/files/1/0699/1678/6978/products/kendallightscordless-120041.jpg?v=1681615846",
+      "alt": "Kendal™ - Lightscordless",
+      "bytes": 256928
+    },
+    {
+      "position": 3,
+      "original_index_no_carrossel_real": 6,
+      "file": "carrossel-concorrente/referencia-03.jpg",
+      "source_image_url": "https://cdn.shopify.com/s/files/1/0699/1678/6978/products/kendallightscordless-291558.jpg?v=1681615846",
+      "alt": "Kendal™ - Lightscordless",
+      "bytes": 101566
+    },
+    {
+      "position": 4,
+      "original_index_no_carrossel_real": 9,
+      "file": "carrossel-concorrente/referencia-04.jpg",
+      "source_image_url": "https://cdn.shopify.com/s/files/1/0699/1678/6978/products/kendallightscordless-924944.jpg?v=1681615846",
+      "alt": "Kendal™ - Lightscordless",
+      "bytes": 187001
+    },
+    {
+      "position": 5,
+      "original_index_no_carrossel_real": 11,
+      "file": "carrossel-concorrente/referencia-05.jpg",
+      "source_image_url": "https://cdn.shopify.com/s/files/1/0699/1678/6978/products/kendallightscordless-696685.jpg?v=1681615846",
+      "alt": "Kendal™ - Lightscordless",
+      "bytes": 101094
+    },
+    {
+      "position": 6,
+      "original_index_no_carrossel_real": 14,
+      "file": "carrossel-concorrente/referencia-06.jpg",
+      "source_image_url": "https://cdn.shopify.com/s/files/1/0699/1678/6978/products/O1CN01Bd2u2h27BftN9OrXO__2215530947759-0-cib.jpg?v=1681793650",
+      "alt": null,
+      "bytes": 78096
+    },
+    {
+      "position": 7,
+      "original_index_no_carrossel_real": 16,
+      "file": "carrossel-concorrente/referencia-07.png",
+      "source_image_url": "https://cdn.shopify.com/s/files/1/0699/1678/6978/products/Goldchm3a.png?v=1681794149",
+      "alt": null,
+      "bytes": 618442
+    },
+    {
+      "position": 8,
+      "original_index_no_carrossel_real": 19,
+      "file": "carrossel-concorrente/referencia-08.png",
+      "source_image_url": "https://cdn.shopify.com/s/files/1/0699/1678/6978/products/goldchm3a_1.png?v=1681794404",
+      "alt": null,
+      "bytes": 487364
+    }
+  ]
+}

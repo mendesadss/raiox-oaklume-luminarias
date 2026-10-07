@@ -1,0 +1,76 @@
+{
+  "product_handle": "oaklume-peel-and-stick-wall-light",
+  "competitor": "pridola.com",
+  "competitor_product_title": "WIRELESS WALL SCONCES (SET OF 2)",
+  "competitor_page": "https://pridola.com/products/wall-sconces",
+  "competitor_json": "https://pridola.com/products/wall-sconces.js",
+  "real_carousel_count": 57,
+  "downloaded_carousel_count": 8,
+  "amostrado": true,
+  "files": [
+    {
+      "position": 1,
+      "original_index_no_carrossel_real": 1,
+      "file": "carrossel-concorrente/referencia-01.png",
+      "source_image_url": "https://cdn.shopify.com/s/files/1/0797/7405/6790/files/V2Wallsconcesgold_3.png?v=1730974475",
+      "alt": null,
+      "bytes": 1218322
+    },
+    {
+      "position": 2,
+      "original_index_no_carrossel_real": 9,
+      "file": "carrossel-concorrente/referencia-02.png",
+      "source_image_url": "https://cdn.shopify.com/s/files/1/0797/7405/6790/files/Entry_Hall.png?v=1760599564",
+      "alt": null,
+      "bytes": 1833217
+    },
+    {
+      "position": 3,
+      "original_index_no_carrossel_real": 17,
+      "file": "carrossel-concorrente/referencia-03.png",
+      "source_image_url": "https://cdn.shopify.com/s/files/1/0797/7405/6790/files/Lamp_og_white_updv1.png?v=1770669491",
+      "alt": null,
+      "bytes": 3007944
+    },
+    {
+      "position": 4,
+      "original_index_no_carrossel_real": 25,
+      "file": "carrossel-concorrente/referencia-04.png",
+      "source_image_url": "https://cdn.shopify.com/s/files/1/0797/7405/6790/files/Cylindrical_sconces_gold_5efaf6d7-9542-4057-a357-603a648080c4.png?v=1788770615",
+      "alt": null,
+      "bytes": 1301669
+    },
+    {
+      "position": 5,
+      "original_index_no_carrossel_real": 33,
+      "file": "carrossel-concorrente/referencia-05.png",
+      "source_image_url": "https://cdn.shopify.com/s/files/1/0797/7405/6790/files/hf_20260825_062006_008239f4-fbbf-4b1d-97d1-7740c7e31587.png?v=1788770864",
+      "alt": null,
+      "bytes": 5548488
+    },
+    {
+      "position": 6,
+      "original_index_no_carrossel_real": 41,
+      "file": "carrossel-concorrente/referencia-06.png",
+      "source_image_url": "https://cdn.shopify.com/s/files/1/0797/7405/6790/files/Shade4black_9d33525e-7804-45e5-a6d8-2f8977340fe9.png?v=1788771261",
+      "alt": null,
+      "bytes": 1534401
+    },
+    {
+      "position": 7,
+      "original_index_no_carrossel_real": 49,
+      "file": "carrossel-concorrente/referencia-07.jpg",
+      "source_image_url": "https://cdn.shopify.com/s/files/1/0797/7405/6790/files/2.3_d12a99b7-760f-42ef-b2d0-ff97c90402b9.jpg?v=1788771552",
+      "alt": null,
+      "bytes": 950596
+    },
+    {
+      "position": 8,
+      "original_index_no_carrossel_real": 57,
+      "file": "carrossel-concorrente/referencia-08.png",
+      "source_image_url": "https://cdn.shopify.com/s/files/1/0797/7405/6790/files/Shade5silver2_f76f2106-9428-4b0f-929b-5b0bb31e3b0f.png?v=1788771802",
+      "alt": null,
+      "bytes": 1289850
+    }
+  ]
+}

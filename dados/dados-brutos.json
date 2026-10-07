@@ -1,0 +1,65 @@
+{
+  "_nota": "Resumo para o revisor de consistência: números das fichas e decisão de país.",
+  "lojas": [
+    {
+      "slug": "oaklume",
+      "dominio": "oaklumehome.com",
+      "ativos": 5,
+      "historico": 5,
+      "sobrevivencia_pct": 100,
+      "veredito": "OBSERVAR"
+    },
+    {
+      "slug": "lightsstockholm",
+      "dominio": "lightsstockholm.com",
+      "ativos": 317,
+      "historico": 11679,
+      "sobrevivencia_pct": 2.7,
+      "veredito": "MODELAR"
+    },
+    {
+      "slug": "lightscordless",
+      "dominio": "lightscordless.com",
+      "ativos": 17,
+      "historico": 65,
+      "sobrevivencia_pct": 26.2,
+      "veredito": "MODELAR"
+    },
+    {
+      "slug": "vykker",
+      "dominio": "vykker.com",
+      "ativos": 86,
+      "historico": 1695,
+      "sobrevivencia_pct": 5.1,
+      "veredito": "MODELAR"
+    },
+    {
+      "slug": "pridola",
+      "dominio": "pridola.com",
+      "ativos": 0,
+      "historico": 30,
+      "sobrevivencia_pct": 0,
+      "veredito": "MODELAR"
+    },
+    {
+      "slug": "luceko",
+      "dominio": "luceko.com",
+      "ativos": 72,
+      "historico": 1820,
+      "sobrevivencia_pct": 4,
+      "veredito": "OBSERVAR"
+    },
+    {
+      "slug": "taplight",
+      "dominio": "tap-light.de",
+      "ativos": 34,
+      "historico": 846,
+      "sobrevivencia_pct": 4,
+      "veredito": "MODELAR"
+    }
+  ],
+  "decisao_mercado": {
+    "pais": "Reino Unido",
+    "moeda": "GBP"
+  }
+}

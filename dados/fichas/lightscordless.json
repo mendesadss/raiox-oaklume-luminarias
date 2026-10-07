@@ -1,0 +1,137 @@
+{
+  "slug": "lightscordless",
+  "nome": "lightscordless.com",
+  "dominios": [
+    "lightscordless.com"
+  ],
+  "pais": "US",
+  "trafego": {
+    "medido": true,
+    "rotulo": "último mês do SimilarWeb",
+    "busca_paga_pct": {
+      "lightscordless.com": 45.6
+    },
+    "busca_organica_pct": {
+      "lightscordless.com": 12.3
+    },
+    "canal_1": "busca paga 45,6%, busca orgânica 12,3%, acesso direto 8,9%, rede social paga 1,8%",
+    "ressalva": "Estimativa do SimilarWeb (dado de extensão). Meses anteriores: 39.628 e 28.547. Não é receita.",
+    "visitas_como_escrito": {
+      "lightscordless.com": "27K (último mês)"
+    },
+    "variacao_ultimo_mes_pct": -4.1
+  },
+  "catalogo": {
+    "produtos_vistos": 119,
+    "preco_mediana": {
+      "USD": 58.99
+    },
+    "ritmo_de_lancamento": "Primeiro produto cadastrado em 2023-01-06 (Bedside Touch Table Lamp), o mais novo em 2026-06-25."
+  },
+  "loja": {
+    "plataforma": "Shopify (o catálogo público respondeu)",
+    "meios_de_pagamento": [
+      "Shopify Payments e Shop Pay (vistos no código)"
+    ],
+    "frete": "Processamento em até 2 dias úteis, frete padrão grátis (texto das taxas truncado), prazo de trânsito não lido",
+    "garantia_e_troca": "30 dias para devolução",
+    "prazo_de_entrega_declarado": "Processamento em até 2 dias úteis, frete padrão grátis (texto das taxas truncado), prazo de trânsito não lido",
+    "apps": "klaviyo, loox, shopify_payments_shoppay",
+    "pixels": "ga4 G-MH2DQPZSRS, gads AW-11117361676"
+  },
+  "midia_paga": {
+    "angulos": [
+      "Anúncios ativos pela URL na Biblioteca da Meta (todos os países, 2026-10-06): 17 ativos e 65 no histórico das páginas da loja. amostra 100% da página Lightscordless, USD; histórico mais antigo visto na amostra (50 de 65): 2026-01-23; criativos recentes: \"Museum Look. Renter-Friendly\", \"48-Hour Battery\", picture lights"
+    ],
+    "ativos_pela_url": 17,
+    "historico_pela_url": 65,
+    "sobrevivencia_pct": 26.2,
+    "page_ids": [
+      "111378241841484"
+    ]
+  },
+  "top10": [
+    {
+      "handle": "solar-powered-outdoor-lantern-lights",
+      "titulo": "Lightscordless™, Solar-Powered Outdoor Lantern Lights",
+      "preco": 58.99,
+      "url": "https://lightscordless.com/products/solar-powered-outdoor-lantern-lights"
+    },
+    {
+      "handle": "portable-table-lamp",
+      "titulo": "Luminara™",
+      "preco": 58.95,
+      "url": "https://lightscordless.com/products/portable-table-lamp"
+    },
+    {
+      "handle": "cordless-table-lamp",
+      "titulo": "Kendal™",
+      "preco": 58.95,
+      "url": "https://lightscordless.com/products/cordless-table-lamp"
+    },
+    {
+      "handle": "thinker-lamp",
+      "titulo": "Thinker™ Lamp",
+      "preco": 49.95,
+      "url": "https://lightscordless.com/products/thinker-lamp"
+    },
+    {
+      "handle": "sleek-nightstand-illuminator",
+      "titulo": "Wireless Touch Switch Harmony Lamp",
+      "preco": 58.95,
+      "url": "https://lightscordless.com/products/sleek-nightstand-illuminator"
+    },
+    {
+      "handle": "led-retro-fabric-cordless-table-lamp",
+      "titulo": "LED Retro Fabric Cordless Table Lamp",
+      "preco": 59.99,
+      "url": "https://lightscordless.com/products/led-retro-fabric-cordless-table-lamp"
+    },
+    {
+      "handle": "motion-sensor-light",
+      "titulo": "LumoSense™ LED Motion Sensor Lights",
+      "preco": 45.95,
+      "url": "https://lightscordless.com/products/motion-sensor-light"
+    },
+    {
+      "handle": "mini-luminar",
+      "titulo": "Mini Luminar",
+      "preco": 58.99,
+      "url": "https://lightscordless.com/products/mini-luminar"
+    }
+  ],
+  "produto_campeao": {
+    "titulo": "Lightscordless™, Solar-Powered Outdoor Lantern Lights",
+    "preco": 58.99,
+    "moeda": "USD",
+    "url": "https://lightscordless.com/products/solar-powered-outdoor-lantern-lights",
+    "por_que_e_o_campeao": "Primeiro produto da ordem \"mais vendido\" da própria loja, lida em 06/10/2026 (não traz quantidade vendida)."
+  },
+  "dados_nao_obtidos": [
+    {
+      "dado": "Venda e faturamento",
+      "motivo": "ninguém publica venda de loja privada",
+      "o_que_foi_tentado": "visitas por mês do SimilarWeb e preço do catálogo"
+    }
+  ],
+  "pais_origem_provavel": "Estados Unidos",
+  "o_que_vende": "119 produtos: luminárias de mesa sem fio (Kendal, Luminara, Thinker) e lanternas solares, mediana de US$ 58,99.",
+  "classificacao": {
+    "modelo": "dropship_de_marca",
+    "veredito": "MODELAR",
+    "nivel_de_execucao": "medio",
+    "por_que": "É o molde de Google do nicho: 27.387 visitas no último mês, 45.6% de busca paga e 1.8% de rede social paga, com a tag do Google Ads instalada. Vende luminária sem fio a US$ 49 a 59, o mesmo degrau da Oaklume.",
+    "o_que_o_veredito_cobre": "Canal Google (Shopping e pesquisa) com luminária sem fio de US$ 50 a 60 e nome próprio por modelo. Não cobre as lanternas solares de jardim, outro nicho.",
+    "defensabilidade": "ARBITRAGEM DE BUSCA: 12.3% de orgânico; vive de anúncio no Google.",
+    "scorecard": {}
+  },
+  "o_que_copiar": [
+    "Google como canal principal para luminária sem fio de US$ 50 a 60",
+    "Nome curto por modelo (Kendal, Luminara)",
+    "Devolução de 30 dias"
+  ],
+  "o_que_nao_copiar": [
+    "Símbolo ™ em nome de produto sem registro",
+    "Misturar jardim solar no mesmo catálogo"
+  ]
+}

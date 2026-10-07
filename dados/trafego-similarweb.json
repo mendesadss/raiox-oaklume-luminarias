@@ -1,0 +1,101 @@
+{
+  "mes_referencia": "2026-09",
+  "fonte": "SimilarWeb pela Apify (dado de extensão), medido em 26/09 e 06/10/2026",
+  "limite": "Estimativa de visitas por mês (não é receita). 5 dos 18 domínios ficaram abaixo do limiar da fonte, entre eles a Oaklume e a Pridola.",
+  "medidos": {
+    "lightsstockholm.com": {
+      "visitas_rotulo_da_pagina": "16K (último mês)",
+      "variacao_ultimo_mes_pct": 424.4,
+      "rejeicao_pct": 49.9,
+      "paises": []
+    },
+    "vykker.com": {
+      "visitas_rotulo_da_pagina": "3K (último mês)",
+      "variacao_ultimo_mes_pct": 2.2,
+      "rejeicao_pct": 75.1,
+      "paises": [
+        {
+          "pais": "US",
+          "fatia_pct": 100
+        }
+      ]
+    },
+    "lightscordless.com": {
+      "visitas_rotulo_da_pagina": "27K (último mês)",
+      "variacao_ultimo_mes_pct": -4.1,
+      "rejeicao_pct": 64.3,
+      "paises": [
+        {
+          "pais": "US",
+          "fatia_pct": 89.4
+        },
+        {
+          "pais": "CA",
+          "fatia_pct": 10.6
+        }
+      ]
+    },
+    "tap-light.de": {
+      "visitas_rotulo_da_pagina": "15K (último mês)",
+      "variacao_ultimo_mes_pct": 198.6,
+      "rejeicao_pct": 90.3,
+      "paises": [
+        {
+          "pais": "DE",
+          "fatia_pct": 100
+        }
+      ]
+    }
+  },
+  "concorrentes_locais": {
+    "metodo": "SimilarWeb das 18 lojas da rodada",
+    "limite": "só os 3 a 5 maiores países de cada site entram",
+    "leitura": [
+      "Nenhuma das lojas medidas tem o Reino Unido como primeiro país, só a Insight Cordless Lighting (fabricante para restaurantes, 34% do Reino Unido): o mercado britânico é atendido por lojas americanas e por varejo."
+    ],
+    "lojas": [
+      {
+        "dominio": "kiyohome.com",
+        "pais": "GB",
+        "o_que_vende": "luminária",
+        "visitas_rotulo": "7K",
+        "visitas_no_mes": 6615,
+        "abaixo_do_limiar": false,
+        "pais_principal": {
+          "pais": "US",
+          "fatia_pct": 93.3
+        },
+        "canais_pct": {
+          "direto": 22.7,
+          "busca_organica": 34.3,
+          "busca_paga": 8.4,
+          "social_pago": 4.5
+        },
+        "catalogo": {
+          "produtos": null
+        }
+      },
+      {
+        "dominio": "insightcordlesslighting.com",
+        "pais": "GB",
+        "o_que_vende": "lâmpadas de mesa recarregáveis sem fio para hotelaria e residência, com bases de carga Qi, abajures e peças de reposição",
+        "visitas_rotulo": "13K",
+        "visitas_no_mes": 12517,
+        "abaixo_do_limiar": false,
+        "pais_principal": {
+          "pais": "US",
+          "fatia_pct": 66.3
+        },
+        "canais_pct": {
+          "direto": 20.7,
+          "busca_organica": 29.2,
+          "busca_paga": 13.1,
+          "social_pago": 5.3
+        },
+        "catalogo": {
+          "produtos": 82
+        }
+      }
+    ]
+  }
+}

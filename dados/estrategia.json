@@ -1,0 +1,108 @@
+{
+  "oportunidade": {
+    "uma_frase": "Levar a Oaklume para o Reino Unido em libra, em inglês, com a luminária de parede sem fio de herói, vendida em par pela Meta, e o Google Shopping só para a parede.",
+    "o_que_os_dados_sustentam": [
+      "O Reino Unido tem 69.190 buscas por mês nos 9 produtos, mais que os EUA (62.200) com um quinto da população.",
+      "rechargeable wall light: 33.100 buscas, Planejador +49% no ano e Trends +93% em 12 meses.",
+      "Lance de topo mediano de R$ 3,37 no Reino Unido contra R$ 8,06 nos EUA."
+    ],
+    "o_que_os_dados_nao_sustentam": [
+      "Venda no preço atual pelo Shopping: o varejo britânico vende luminária sem fio de £ 20 a 35.",
+      "Custo final do modelo usado pela Oaklume.",
+      "Que a lanterna e a bistrô vendam no Reino Unido: rechargeable lantern tem 720 buscas e restaurant table lamp 480."
+    ]
+  },
+  "catalogo": {
+    "teto": "Os 5 produtos atuais; produto novo só com procura medida",
+    "sem_preco_riscado": "Sem preço riscado inventado nem contador de escassez: o Merchant reprova."
+  },
+  "escada_de_oferta": {
+    "degraus": [
+      {
+        "degrau": "Produto principal",
+        "o_que_e": "Luminária de parede adesiva sem fio a £ 42,90 (custo de £ 9,52, mediana de busca a conferir)",
+        "preco": [
+          42.9,
+          42.9
+        ]
+      },
+      {
+        "degrau": "Complemento do pedido (order bump)",
+        "o_que_e": "Segunda luminária de parede a £ 32,90 (as paredes pedem par; a Pridola vende o par)",
+        "preco": [
+          32.9,
+          32.9
+        ]
+      },
+      {
+        "degrau": "Oferta depois do carrinho (upsell)",
+        "o_que_e": "Luminária de mesa de cúpula a £ 59,90",
+        "preco": [
+          59.9,
+          59.9
+        ]
+      }
+    ],
+    "valor_medio_do_pedido_projetado": 49.18
+  },
+  "teste": {
+    "duracao": "30 dias",
+    "preparacao": "Depois dos quatro consertos da loja e da amostra.",
+    "cronograma": [
+      {
+        "dias": "1 a 2",
+        "fazer": "Mercado do Reino Unido em libra, páginas de frete e devolução, pixel da Meta e tag do Google"
+      },
+      {
+        "dias": "2 a 4",
+        "fazer": "Conferir no checkout o custo das 5 luminárias com endereço britânico e comprar a amostra da parede"
+      },
+      {
+        "dias": "4 a 7",
+        "fazer": "Home e página da luminária de parede com o par como complemento; fotos acesas sem fio à vista"
+      },
+      {
+        "dias": "7 a 21",
+        "fazer": "Meta no Reino Unido com 3 a 5 criativos da parede e da cúpula; sem mexer por 7 dias"
+      },
+      {
+        "dias": "14 a 30",
+        "fazer": "Merchant e Shopping só com a luminária de parede; anotar pedidos, custo e clique todo dia"
+      }
+    ],
+    "prazo_total": "30 dias",
+    "orcamento_minimo": "não definido: verba do teste é decisão sua",
+    "regua_de_parada": [
+      {
+        "sinal": "Custo por venda",
+        "alerta": "acima de £ 25,16",
+        "parada": "acima de £ 31,45 depois de 3 semanas"
+      },
+      {
+        "sinal": "Conversão da loja",
+        "alerta": "abaixo de 1,08%",
+        "parada": "abaixo de 1,62% depois de 3 semanas"
+      },
+      {
+        "sinal": "Reprovação no Merchant",
+        "alerta": "qualquer aviso",
+        "parada": "parar e corrigir antes de gastar"
+      }
+    ]
+  },
+  "entrega_e_politicas": {
+    "padrao_observado": {
+      "frete": "frete grátis acima de um valor e 7 a 14 dias úteis nas lojas que enviam da China; devolução de 30 dias"
+    },
+    "o_que_a_loja_escreve": {
+      "prazo": "o prazo real da amostra, igual no site, no feed e no Merchant",
+      "devolucao": "30 noites de teste em casa, como a loja já promete"
+    },
+    "por_que": "Prazo ou política diferente entre o site e o Merchant é gatilho de reprovação."
+  },
+  "quando_entrar": {
+    "ciclo_do_pais": "ESCALANDO",
+    "interpretacao": "Os termos de luminária recarregável do Reino Unido têm pico de setembro a novembro e crescem de 26% a 93% em 12 meses no Trends: entrar agora pega a estação. Leitura do analista sobre o Trends, não venda."
+  },
+  "premissa_culpada": "Se der errado, olhe primeiro o custo real do modelo da Oaklume no checkout e depois a conversão, que precisa passar de 1,08% no clique do meio da faixa."
+}

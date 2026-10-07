@@ -1,0 +1,906 @@
+{
+  "gerado_em": "2026-10-06",
+  "moeda": "GBP",
+  "regra": "preço = preço atual da loja convertido (BCE), terminando em ,90; custo = maior entre os países com 5+ anúncios no AliExpress; frete £ 2,99 abaixo de £ 10; taxa 4,5%",
+  "linhas": [
+    {
+      "id": "parede",
+      "i": 2,
+      "nome": "Luminária de parede adesiva sem fio",
+      "titulo": "Oaklume Peel-and-Stick Wall Light",
+      "tipo": "Wall Light",
+      "plan": "rechargeable wall light",
+      "plan_alt": "battery wall sconce",
+      "shop": {
+        "termo": "rechargeable wall light",
+        "ofertas": 55,
+        "varejo_pct": 80,
+        "marca_pct": 2,
+        "p25": 24.97,
+        "mediana": 31.98,
+        "p75": 45,
+        "independentes": [
+          "Debenhams £30",
+          "Pooky £80",
+          "Direct Trade Supplies £21.89"
+        ]
+      },
+      "tr": "rechargeable wall light",
+      "usd": 57,
+      "oak": "oaklume-peel-and-stick-wall-light",
+      "col": "wall-lights",
+      "custos_gbp": {
+        "US": 5.94,
+        "GB": 6.02,
+        "DE": 5.13,
+        "NL": 6.19,
+        "FR": 6.53
+      },
+      "n_ali": {
+        "US": 6,
+        "GB": 6,
+        "DE": 6,
+        "NL": 6,
+        "FR": 6
+      },
+      "custo": 6.53,
+      "frete": 2.99,
+      "custo_total": 9.52,
+      "preco": 42.9,
+      "margem": 31.45,
+      "margem_pct": 73,
+      "roas_empate": 1.36,
+      "preco_oaklume_usd": 57,
+      "vol": 33100,
+      "yoy": 0.49,
+      "mud3m": 0.82,
+      "vol_alt": 720,
+      "cpc_brl": [
+        1.07,
+        3.37
+      ],
+      "cpc_gbp": [
+        0.16,
+        0.51
+      ],
+      "amz": {
+        "termo": "battery operated wall sconce",
+        "vendas": 2800,
+        "preco_mediano": 41.42,
+        "com_selo": 8
+      },
+      "amz_us": {
+        "termo": "battery operated wall sconce",
+        "vendas": 16500,
+        "preco_mediano": 38.99
+      },
+      "trends": {
+        "sazonal": "moderada",
+        "pico": [
+          "set",
+          "ago"
+        ],
+        "c12": 93,
+        "sinal_baixo": false,
+        "indice_mes": [
+          1.02,
+          1.1,
+          1.02,
+          0.86,
+          0.84,
+          0.74,
+          0.79,
+          1.43,
+          1.46,
+          0.88,
+          1.06,
+          0.83
+        ],
+        "subir": "início de jul (5 semanas antes do pico de set)"
+      },
+      "acima_amazon": true,
+      "acima_shopping": true,
+      "ali_top": "https://www.aliexpress.com/item/1005009414717257.html"
+    },
+    {
+      "id": "cupula",
+      "i": 0,
+      "nome": "Luminária de mesa sem fio de cúpula",
+      "titulo": "Oaklume Dome Cordless Table Lamp",
+      "tipo": "Table Lamp",
+      "plan": "rechargeable table lamp",
+      "plan_alt": "cordless table lamp",
+      "shop": {
+        "termo": "rechargeable table lamp",
+        "ofertas": 55,
+        "varejo_pct": 91,
+        "marca_pct": 0,
+        "p25": 21.25,
+        "mediana": 25,
+        "p75": 39.5,
+        "independentes": [
+          "Pooky £100",
+          "Debenhams £26",
+          "Habitat £25"
+        ]
+      },
+      "tr": "rechargeable table lamp",
+      "usd": 79,
+      "oak": "oaklume-dome-cordless-table-lamp",
+      "col": "table-lamps",
+      "custos_gbp": {
+        "US": 3.9,
+        "GB": 4,
+        "DE": 9.16,
+        "NL": 6.32,
+        "FR": 5.64
+      },
+      "n_ali": {
+        "US": 6,
+        "GB": 6,
+        "DE": 6,
+        "NL": 6,
+        "FR": 6
+      },
+      "custo": 9.16,
+      "frete": 2.99,
+      "custo_total": 12.15,
+      "preco": 59.9,
+      "margem": 45.05,
+      "margem_pct": 75,
+      "roas_empate": 1.33,
+      "preco_oaklume_usd": 79,
+      "vol": 14800,
+      "yoy": 0.49,
+      "mud3m": 0.83,
+      "vol_alt": 2900,
+      "cpc_brl": [
+        0.95,
+        3.21
+      ],
+      "cpc_gbp": [
+        0.14,
+        0.49
+      ],
+      "amz": {
+        "termo": "cordless table lamp",
+        "vendas": 6800,
+        "preco_mediano": 16.52,
+        "com_selo": 9
+      },
+      "amz_us": {
+        "termo": "cordless table lamp",
+        "vendas": 20000,
+        "preco_mediano": 25.33
+      },
+      "trends": {
+        "sazonal": "forte",
+        "pico": [
+          "set",
+          "nov"
+        ],
+        "c12": 72,
+        "sinal_baixo": false,
+        "indice_mes": [
+          1.05,
+          1.06,
+          0.93,
+          0.77,
+          0.69,
+          0.58,
+          0.78,
+          1.23,
+          1.53,
+          1.01,
+          1.36,
+          1.05
+        ],
+        "subir": "início de jul (5 semanas antes do pico de set)"
+      },
+      "acima_amazon": true,
+      "acima_shopping": true,
+      "ali_top": "https://www.aliexpress.com/item/1005009297533485.html"
+    },
+    {
+      "id": "leitura",
+      "i": 3,
+      "nome": "Luminária de leitura e quebra-cabeça",
+      "titulo": "Oaklume Task Light for Puzzles & Reading",
+      "tipo": "Task Lamp",
+      "plan": "reading light",
+      "plan_alt": "puzzle lamp",
+      "shop": {
+        "termo": "puzzle lamp",
+        "ofertas": 55,
+        "varejo_pct": 49,
+        "marca_pct": 2,
+        "p25": 15.57,
+        "mediana": 20.99,
+        "p75": 29.99,
+        "independentes": [
+          "Science Museum Shop £18",
+          "ManoMano.co.uk £20.99-31.6",
+          "SDJ Sports £30.9",
+          "Diffusione Luce Shop £234",
+          "LampCommerce £173-493",
+          "u-buy.co.uk £11-32",
+          "Home Glamorous Furnitures £1395",
+          "Mulberry Bush £19.99"
+        ]
+      },
+      "tr": "puzzle lamp",
+      "usd": 49,
+      "oak": "oaklume-task-light",
+      "col": "reading-lights",
+      "custo_suspeito": true,
+      "custos_gbp": {
+        "US": 4.19,
+        "GB": 4.99,
+        "DE": 5.32,
+        "NL": 14.96,
+        "FR": 23.33
+      },
+      "n_ali": {
+        "US": 4,
+        "GB": 3,
+        "DE": 4,
+        "NL": 2,
+        "FR": 1
+      },
+      "custo": 5.32,
+      "frete": 2.99,
+      "custo_total": 8.31,
+      "preco": 36.9,
+      "margem": 26.93,
+      "margem_pct": 73,
+      "roas_empate": 1.37,
+      "preco_oaklume_usd": 49,
+      "vol": 6600,
+      "yoy": 0,
+      "mud3m": 0.5,
+      "vol_alt": 170,
+      "cpc_brl": [
+        0.93,
+        14.9
+      ],
+      "cpc_gbp": [
+        0.14,
+        2.26
+      ],
+      "amz": {
+        "termo": "puzzle lamp",
+        "vendas": 9900,
+        "preco_mediano": 13.16,
+        "com_selo": 10
+      },
+      "amz_us": {
+        "termo": "puzzle lamp",
+        "vendas": 25500,
+        "preco_mediano": 24.92
+      },
+      "trends": {
+        "sazonal": "forte",
+        "pico": [
+          "fev",
+          "out"
+        ],
+        "c12": 508,
+        "sinal_baixo": true,
+        "indice_mes": [
+          0,
+          4.01,
+          1.24,
+          0,
+          0,
+          0,
+          0.94,
+          0,
+          1.23,
+          2.58,
+          0,
+          2.11
+        ],
+        "subir": "início de dez (5 semanas antes do pico de fev)"
+      },
+      "acima_amazon": true,
+      "acima_shopping": true,
+      "ali_top": "https://www.aliexpress.com/item/1005007987877327.html"
+    },
+    {
+      "id": "bistro",
+      "i": 4,
+      "nome": "Luminária bistrô sem fio",
+      "titulo": "Oaklume Bistro Cordless Table Lamp",
+      "tipo": "Table Lamp",
+      "plan": "restaurant table lamp",
+      "plan_alt": "bistro lamp",
+      "shop": {
+        "termo": "restaurant table lamp cordless",
+        "ofertas": 57,
+        "varejo_pct": 58,
+        "marca_pct": 4,
+        "p25": 25.99,
+        "mediana": 34.99,
+        "p75": 49.99,
+        "independentes": [
+          "Insight Cordless Lighting £49-69",
+          "Cooksmill £27.55",
+          "Giftology London £25.99",
+          "Buzz Catering £27.6-32.18",
+          "Workplace Products £35.98-38.7",
+          "Heaton Catering Equipment £38.26",
+          "Stephens Catering Equipment £34.76",
+          "Restaurant Supply Store £82.09",
+          "Nisbets.co.uk £17.98",
+          "Lumes Design £59.54"
+        ]
+      },
+      "tr": null,
+      "usd": 69,
+      "oak": "oaklume-bistro-cordless-table-lamp",
+      "col": "table-lamps",
+      "custos_gbp": {
+        "US": 7.56,
+        "GB": 7.84,
+        "DE": 10.3,
+        "NL": 12.13,
+        "FR": 10.56
+      },
+      "n_ali": {
+        "US": 6,
+        "GB": 6,
+        "DE": 6,
+        "NL": 6,
+        "FR": 6
+      },
+      "custo": 12.13,
+      "frete": 0,
+      "custo_total": 12.13,
+      "preco": 51.9,
+      "margem": 37.43,
+      "margem_pct": 72,
+      "roas_empate": 1.39,
+      "preco_oaklume_usd": 69,
+      "vol": 480,
+      "yoy": 0.5,
+      "mud3m": 0.85,
+      "vol_alt": 10,
+      "cpc_brl": [
+        3.9,
+        10.91
+      ],
+      "cpc_gbp": [
+        0.59,
+        1.65
+      ],
+      "amz": {
+        "termo": "restaurant table lamp cordless",
+        "vendas": 100,
+        "preco_mediano": 33.07,
+        "com_selo": 2
+      },
+      "amz_us": {
+        "termo": "restaurant table lamp cordless",
+        "vendas": 14100,
+        "preco_mediano": 33.19
+      },
+      "trends": null,
+      "acima_amazon": true,
+      "acima_shopping": true,
+      "ali_top": "https://www.aliexpress.com/item/1005007792382416.html"
+    },
+    {
+      "id": "lanterna",
+      "i": 1,
+      "nome": "Lanterna decorativa sem fio",
+      "titulo": "Oaklume Cordless Lantern",
+      "tipo": "Table Lamp",
+      "plan": "rechargeable lantern",
+      "plan_alt": "cordless lantern",
+      "shop": {
+        "termo": "rechargeable lantern lamp",
+        "ofertas": 55,
+        "varejo_pct": 67,
+        "marca_pct": 5,
+        "p25": 13.4,
+        "mediana": 18.9,
+        "p75": 29.99,
+        "independentes": [
+          "Millets £7-31",
+          "H&B Style £48",
+          "Debenhams £16.96-29.99",
+          "Best Deal £33.25",
+          "Robert Dyas £24.99",
+          "Happy Homewares £12.5",
+          "Mountain Warehouse £5.99",
+          "Springfields.co.uk £9.99",
+          "Pooky £300",
+          "Cotswold Outdoor £32.5"
+        ]
+      },
+      "tr": null,
+      "usd": 89,
+      "oak": "oaklume-cordless-lantern",
+      "col": "table-lamps",
+      "custo_suspeito": true,
+      "custos_gbp": {
+        "US": 7.92,
+        "GB": 9.37,
+        "DE": 4.02,
+        "NL": 4.79,
+        "FR": 4.19
+      },
+      "n_ali": {
+        "US": 6,
+        "GB": 6,
+        "DE": 6,
+        "NL": 6,
+        "FR": 6
+      },
+      "custo": 9.37,
+      "frete": 2.99,
+      "custo_total": 12.36,
+      "preco": 66.9,
+      "margem": 51.53,
+      "margem_pct": 77,
+      "roas_empate": 1.3,
+      "preco_oaklume_usd": 89,
+      "vol": 720,
+      "yoy": 0.22,
+      "mud3m": 0.5,
+      "vol_alt": 10,
+      "cpc_brl": [
+        0.68,
+        2.78
+      ],
+      "cpc_gbp": [
+        0.1,
+        0.42
+      ],
+      "amz": {
+        "termo": "rechargeable lantern lamp",
+        "vendas": 6700,
+        "preco_mediano": 15.14,
+        "com_selo": 8
+      },
+      "amz_us": {
+        "termo": "rechargeable lantern lamp",
+        "vendas": 21200,
+        "preco_mediano": 19.99
+      },
+      "trends": null,
+      "acima_amazon": true,
+      "acima_shopping": true,
+      "ali_top": "https://www.aliexpress.com/item/1005007504068124.html"
+    }
+  ],
+  "paises": [
+    {
+      "pais": "US",
+      "nome": "Estados Unidos",
+      "idioma": "en",
+      "porta": "ingles",
+      "bloco": "A",
+      "volume": 62200,
+      "produtos_1000": 9,
+      "cpc_topo_mediano_brl": 8.06,
+      "amazon_vendas_piso": 97300,
+      "meta": {
+        "termo": "cordless table lamp",
+        "total": 506,
+        "nicho": 34,
+        "lojas": 9
+      }
+    },
+    {
+      "pais": "GB",
+      "nome": "Reino Unido",
+      "idioma": "en",
+      "porta": "ingles",
+      "bloco": "A",
+      "volume": 69190,
+      "produtos_1000": 6,
+      "cpc_topo_mediano_brl": 3.37,
+      "amazon_vendas_piso": 26300,
+      "meta": {
+        "termo": "cordless table lamp",
+        "total": 391,
+        "nicho": 66,
+        "lojas": 7
+      }
+    },
+    {
+      "pais": "CA",
+      "nome": "Canadá",
+      "idioma": "en",
+      "porta": "ingles",
+      "bloco": "A",
+      "volume": 8170,
+      "produtos_1000": 4,
+      "cpc_topo_mediano_brl": 3.9,
+      "amazon_vendas_piso": null,
+      "meta": {
+        "termo": "cordless table lamp",
+        "total": 346,
+        "nicho": 58,
+        "lojas": null
+      }
+    },
+    {
+      "pais": "AU",
+      "nome": "Austrália",
+      "idioma": "en",
+      "porta": "ingles",
+      "bloco": "A",
+      "volume": 16840,
+      "produtos_1000": 5,
+      "cpc_topo_mediano_brl": 5.52,
+      "amazon_vendas_piso": null,
+      "meta": {
+        "termo": "cordless table lamp",
+        "total": 317,
+        "nicho": 66,
+        "lojas": null
+      }
+    },
+    {
+      "pais": "IE",
+      "nome": "Irlanda",
+      "idioma": "en",
+      "porta": "ingles",
+      "bloco": "A",
+      "volume": 3630,
+      "produtos_1000": 1,
+      "cpc_topo_mediano_brl": 2.69,
+      "amazon_vendas_piso": null,
+      "meta": {
+        "termo": "cordless table lamp",
+        "total": 206,
+        "nicho": 62,
+        "lojas": null
+      }
+    },
+    {
+      "pais": "NZ",
+      "nome": "Nova Zelândia",
+      "idioma": "en",
+      "porta": "ingles",
+      "bloco": "A",
+      "volume": 1950,
+      "produtos_1000": 0,
+      "cpc_topo_mediano_brl": 6.44,
+      "amazon_vendas_piso": null,
+      "meta": {
+        "termo": "cordless table lamp",
+        "total": 128,
+        "nicho": 32,
+        "lojas": null
+      }
+    },
+    {
+      "pais": "DE",
+      "nome": "Alemanha",
+      "idioma": "de",
+      "porta": "norte",
+      "bloco": "B",
+      "volume": 51240,
+      "produtos_1000": 8,
+      "cpc_topo_mediano_brl": 5.81,
+      "amazon_vendas_piso": 20500,
+      "meta": {
+        "termo": "akku wandleuchte",
+        "total": 16,
+        "nicho": 62,
+        "lojas": 4
+      }
+    },
+    {
+      "pais": "AT",
+      "nome": "Áustria",
+      "idioma": "de",
+      "porta": "norte",
+      "bloco": "B",
+      "volume": 3230,
+      "produtos_1000": 1,
+      "cpc_topo_mediano_brl": 5.12,
+      "amazon_vendas_piso": null,
+      "meta": {
+        "termo": "termos alemães",
+        "total": 7,
+        "nicho": null,
+        "lojas": 1
+      }
+    },
+    {
+      "pais": "CH",
+      "nome": "Suíça",
+      "idioma": "de",
+      "porta": "norte",
+      "bloco": "B",
+      "volume": 4110,
+      "produtos_1000": 1,
+      "cpc_topo_mediano_brl": 8.54,
+      "amazon_vendas_piso": null,
+      "meta": {
+        "termo": "termos alemães",
+        "total": 7,
+        "nicho": null,
+        "lojas": 1
+      }
+    },
+    {
+      "pais": "NL",
+      "nome": "Países Baixos",
+      "idioma": "nl",
+      "porta": "norte",
+      "bloco": "B",
+      "volume": 17220,
+      "produtos_1000": 5,
+      "cpc_topo_mediano_brl": 3.34,
+      "amazon_vendas_piso": 500,
+      "meta": {
+        "termo": "oplaadbare wandlamp",
+        "total": 33,
+        "nicho": 80,
+        "lojas": 6
+      }
+    },
+    {
+      "pais": "BE",
+      "nome": "Bélgica",
+      "idioma": "nl",
+      "porta": "norte",
+      "bloco": "B",
+      "volume": 3840,
+      "produtos_1000": 2,
+      "cpc_topo_mediano_brl": 3.25,
+      "amazon_vendas_piso": null,
+      "meta": {
+        "termo": "oplaadbare wandlamp",
+        "total": 14,
+        "nicho": 75,
+        "lojas": 4
+      }
+    },
+    {
+      "pais": "FR",
+      "nome": "França",
+      "idioma": "fr",
+      "porta": "latina",
+      "bloco": "B",
+      "volume": 42790,
+      "produtos_1000": 5,
+      "cpc_topo_mediano_brl": 3.04,
+      "amazon_vendas_piso": 7950,
+      "meta": {
+        "termo": "lampe de table sans fil",
+        "total": 165,
+        "nicho": 66,
+        "lojas": 2
+      }
+    },
+    {
+      "pais": "ES",
+      "nome": "Espanha",
+      "idioma": "es",
+      "porta": "latina",
+      "bloco": "B",
+      "volume": 9260,
+      "produtos_1000": 5,
+      "cpc_topo_mediano_brl": 1.84,
+      "amazon_vendas_piso": null,
+      "meta": {
+        "termo": "lámpara recargable",
+        "total": 98,
+        "nicho": 6,
+        "lojas": 2
+      }
+    },
+    {
+      "pais": "IT",
+      "nome": "Itália",
+      "idioma": "it",
+      "porta": "latina",
+      "bloco": "B",
+      "volume": 13190,
+      "produtos_1000": 5,
+      "cpc_topo_mediano_brl": 1.81,
+      "amazon_vendas_piso": null,
+      "meta": {
+        "termo": "lampada ricaricabile",
+        "total": 116,
+        "nicho": 28,
+        "lojas": 4
+      }
+    },
+    {
+      "pais": "PT",
+      "nome": "Portugal",
+      "idioma": "pt",
+      "porta": "latina",
+      "bloco": "B",
+      "volume": 2130,
+      "produtos_1000": 1,
+      "cpc_topo_mediano_brl": 2.06,
+      "amazon_vendas_piso": null,
+      "meta": {
+        "termo": "candeeiro recarregável",
+        "total": 24,
+        "nicho": 21,
+        "lojas": 2
+      }
+    },
+    {
+      "pais": "SE",
+      "nome": "Suécia",
+      "idioma": "sv",
+      "porta": "norte",
+      "bloco": "B",
+      "volume": 10710,
+      "produtos_1000": 3,
+      "cpc_topo_mediano_brl": 2.81,
+      "amazon_vendas_piso": null,
+      "meta": {
+        "termo": "sladdlös bordslampa",
+        "total": 38,
+        "nicho": 68,
+        "lojas": 3
+      }
+    },
+    {
+      "pais": "DK",
+      "nome": "Dinamarca",
+      "idioma": "da",
+      "porta": "norte",
+      "bloco": "B",
+      "volume": 6830,
+      "produtos_1000": 3,
+      "cpc_topo_mediano_brl": 4.57,
+      "amazon_vendas_piso": null,
+      "meta": {
+        "termo": "genopladelig bordlampe",
+        "total": 23,
+        "nicho": 61,
+        "lojas": 5
+      }
+    },
+    {
+      "pais": "NO",
+      "nome": "Noruega",
+      "idioma": "no",
+      "porta": "norte",
+      "bloco": "B",
+      "volume": 6540,
+      "produtos_1000": 2,
+      "cpc_topo_mediano_brl": 5.05,
+      "amazon_vendas_piso": null,
+      "meta": {
+        "termo": "oppladbar bordlampe",
+        "total": 6,
+        "nicho": 83,
+        "lojas": 2
+      }
+    },
+    {
+      "pais": "PL",
+      "nome": "Polônia",
+      "idioma": "pl",
+      "porta": "norte",
+      "bloco": "B",
+      "volume": 18910,
+      "produtos_1000": 6,
+      "cpc_topo_mediano_brl": 1.76,
+      "amazon_vendas_piso": null,
+      "meta": {
+        "termo": "lampka bezprzewodowa",
+        "total": 41,
+        "nicho": 24,
+        "lojas": null
+      }
+    }
+  ],
+  "placar": {
+    "GB": {
+      "notas": {
+        "margem_e_aquisicao": 4,
+        "demanda_suficiente": 5,
+        "concorrencia_do_aluno": 3,
+        "facilidade_do_canal": 4,
+        "pagamento_entrega_suporte": null,
+        "esforco_idioma_producao": 5
+      },
+      "conhecido": 71,
+      "minimo": 71,
+      "maximo": 86,
+      "faixa": "71 a 86",
+      "sem_dado": [
+        "pagamento_entrega_suporte"
+      ],
+      "completo": false,
+      "razao": "Demanda: 69.190 buscas por mês nos 9 produtos (a maior do radar), com a luminária de parede recarregável em 33.100 e a de mesa recarregável em 14.800, as duas subindo (Trends +93% e +72% em 12 meses). Clique: lance de topo mediano de R$ 3,37 (metade do americano). Concorrência: 391 anúncios ativos em cordless table lamp na Meta (66% do nicho) e 297 em rechargeable wall light (cerca de 34% do nicho: Pridola, The Card & Tile Club, LuvianPros, mais a Temu), Shopping dominado por varejo a preço baixo. Idioma: inglês, a loja atual serve sem tradução. Entrega: não verificada."
+    },
+    "US": {
+      "notas": {
+        "margem_e_aquisicao": 3,
+        "demanda_suficiente": 4,
+        "concorrencia_do_aluno": 2,
+        "facilidade_do_canal": 4,
+        "pagamento_entrega_suporte": null,
+        "esforco_idioma_producao": 5
+      },
+      "conhecido": 59,
+      "minimo": 59,
+      "maximo": 74,
+      "faixa": "59 a 74",
+      "sem_dado": [
+        "pagamento_entrega_suporte"
+      ],
+      "completo": false,
+      "razao": "Demanda: 62.200 buscas por mês e o maior piso de vendas na Amazon (97.300 por mês nos 5 produtos). Clique: lance de topo mediano de R$ 8,06, 2 a 3 vezes o britânico. Concorrência: as mesmas lojas da Meta britânica (Pridola, Breck + Fox, Stockholm-Lights) e mais Wooj e Kiyo Home, só americanas. Preço: Shopping com mediana de US$ 68,00 em cordless table lamp e só 33% de varejo, o que combina com o preço atual da Oaklume. Entrega: não verificada."
+    },
+    "DE": {
+      "notas": {
+        "margem_e_aquisicao": 3,
+        "demanda_suficiente": 3,
+        "concorrencia_do_aluno": 4,
+        "facilidade_do_canal": 3,
+        "pagamento_entrega_suporte": null,
+        "esforco_idioma_producao": 2
+      },
+      "conhecido": 52,
+      "minimo": 52,
+      "maximo": 67,
+      "faixa": "52 a 67",
+      "sem_dado": [
+        "pagamento_entrega_suporte"
+      ],
+      "completo": false,
+      "razao": "Demanda: 51.240 buscas por mês, a maior da Europa continental, mas leselampe (14.800) é luminária de leitura em geral, com e sem fio, e o Trends de kabellose tischlampe caiu 70% em 12 meses (sinal baixo). Concorrência: quase ninguém na Meta (2 a 16 anúncios por termo); a tap-light.de prova o modelo de Google (cerca de 15 mil visitas, 26% de busca paga). Shopping com 60 a 80% de varejo e mediana de € 25 a 30. Idioma: alemão (tradução e atendimento). Entrega: não verificada."
+    }
+  },
+  "heroi": "parede",
+  "cambio": {
+    "EUR": {
+      "EUR": 1,
+      "USD": 1.1269,
+      "GBP": 0.8488,
+      "BRL": 5.5991,
+      "SEK": 11.2425,
+      "DKK": 7.4747,
+      "NOK": 10.778,
+      "PLN": 4.365,
+      "CHF": 0.9359,
+      "CAD": 1.6058,
+      "AUD": 1.614,
+      "NZD": 2.0061
+    },
+    "USD": {
+      "EUR": 0.88739,
+      "USD": 1,
+      "GBP": 0.75322,
+      "BRL": 4.96859,
+      "SEK": 9.97648,
+      "DKK": 6.63298,
+      "NOK": 9.56429,
+      "PLN": 3.87346,
+      "CHF": 0.83051,
+      "CAD": 1.42497,
+      "AUD": 1.43225,
+      "NZD": 1.78019
+    },
+    "GBP": {
+      "EUR": 1.17813,
+      "USD": 1.32764,
+      "GBP": 1,
+      "BRL": 6.59649,
+      "SEK": 13.24517,
+      "DKK": 8.8062,
+      "NOK": 12.69793,
+      "PLN": 5.14255,
+      "CHF": 1.10262,
+      "CAD": 1.89185,
+      "AUD": 1.90151,
+      "NZD": 2.36345
+    }
+  }
+}

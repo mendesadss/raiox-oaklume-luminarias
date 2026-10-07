@@ -1,0 +1,142 @@
+{
+  "product_handle": "oaklume-task-light",
+  "competitor": "vykker.com",
+  "competitor_product_title": "The EMBAR Puzzle Lamp",
+  "competitor_page": "https://vykker.com/products/embarpuzzle",
+  "competitor_json": "https://vykker.com/products/embarpuzzle.js",
+  "real_carousel_count": 13,
+  "downloaded_carousel_count": 8,
+  "amostrado": true,
+  "files": [
+    {
+      "position": 1,
+      "original_index_no_carrossel_real": 1,
+      "file": "carrossel-concorrente/referencia-01.jpg",
+      "source_image_url": "https://cdn.shopify.com/s/files/1/0835/0416/9271/files/2026-03-2608.09.14_1.jpg?v=1774537796",
+      "alt": null,
+      "bytes": 82367
+    },
+    {
+      "position": 2,
+      "original_index_no_carrossel_real": 3,
+      "file": "carrossel-concorrente/referencia-02.png",
+      "source_image_url": "https://cdn.shopify.com/s/files/1/0835/0416/9271/files/11_1.png?v=1775089433",
+      "alt": null,
+      "bytes": 353592
+    },
+    {
+      "position": 3,
+      "original_index_no_carrossel_real": 4,
+      "file": "carrossel-concorrente/referencia-03.jpg",
+      "source_image_url": "https://cdn.shopify.com/s/files/1/0835/0416/9271/files/generated-1774461870576_1.jpg?v=1775089433",
+      "alt": null,
+      "bytes": 203063
+    },
+    {
+      "position": 4,
+      "original_index_no_carrossel_real": 6,
+      "file": "carrossel-concorrente/referencia-04.jpg",
+      "source_image_url": "https://cdn.shopify.com/s/files/1/0835/0416/9271/files/generated-1774461869324_1.jpg?v=1775089433",
+      "alt": null,
+      "bytes": 82249
+    },
+    {
+      "position": 5,
+      "original_index_no_carrossel_real": 8,
+      "file": "carrossel-concorrente/referencia-05.png",
+      "source_image_url": "https://cdn.shopify.com/s/files/1/0835/0416/9271/files/picture_response_57dbae35-926f-4bd5-9a56-db4493558a89_1_3.png?v=1775089433",
+      "alt": null,
+      "bytes": 430763
+    },
+    {
+      "position": 6,
+      "original_index_no_carrossel_real": 10,
+      "file": "carrossel-concorrente/referencia-06.png",
+      "source_image_url": "https://cdn.shopify.com/s/files/1/0835/0416/9271/files/picture_response_e1b36c61-7f08-4a5c-ab64-73dc2795130f_1_1.png?v=1775089433",
+      "alt": null,
+      "bytes": 414332
+    },
+    {
+      "position": 7,
+      "original_index_no_carrossel_real": 11,
+      "file": "carrossel-concorrente/referencia-07.png",
+      "source_image_url": "https://cdn.shopify.com/s/files/1/0835/0416/9271/files/picture_response_bf474aac-a053-4bf5-ad01-aa929efeff2c_1.png?v=1775089433",
+      "alt": null,
+      "bytes": 413997
+    },
+    {
+      "position": 8,
+      "original_index_no_carrossel_real": 13,
+      "file": "carrossel-concorrente/referencia-08.png",
+      "source_image_url": "https://cdn.shopify.com/s/files/1/0835/0416/9271/files/picture_response_4b4fba26-f9a9-4e65-a7f1-5747ecff6731_1.png?v=1775089433",
+      "alt": null,
+      "bytes": 441364
+    }
+  ],
+  "references": [
+    {
+      "position": 1,
+      "type": "Competitor carousel image 1 of 8",
+      "description": "Competitor carousel image 1 of 8, from the vykker.com PDP.",
+      "reference_file": "Referencia de imagens - cena e prompt/oaklume-task-light/carrossel-concorrente/referencia-01.jpg",
+      "source_image_url": "https://cdn.shopify.com/s/files/1/0835/0416/9271/files/2026-03-2608.09.14_1.jpg?v=1774537796",
+      "prompt": "Create one premium e-commerce PDP image for Oaklume. This is image 1 of 8 in the Oaklume Task Light for Puzzles & Reading carousel (scene: \"Competitor carousel image 1 of 8\").\n\nREFERENCE HIERARCHY\n1. Use the attached competitor scene reference only for composition, camera position, crop, visual rhythm, lighting logic, body pose and product-to-frame ratio.\n2. Use the separately attached Oaklume Task Light for Puzzles & Reading Product Master photographs as the sole authority for the product itself.\n3. If the two references conflict, the Product Master always wins for every physical product detail.\n\nART DIRECTION\nReproduce the composition, camera framing, crop, lighting direction and mood of the attached competitor reference image (scene: \"Competitor carousel image 1 of 8\", from vykker.com). Build a premium, confident visual language for Oaklume. The image should feel refined and intentional, never juvenile, overly technical or generic-dropship. Use the Oaklume palette naturally: #2F3A2E as the primary brand color, #F7F3EC as a clean neutral background, #4F6B45 as a controlled accent (CTAs, highlights), #C9873A only as a small pop of color (never dominating the frame).\n\nPRODUCT FIDELITY\nPreserve the exact Oaklume Task Light for Puzzles & Reading silhouette, materials, hardware, seams, colors and proportions shown in the separate Oaklume Task Light for Puzzles & Reading Product Master photographs. Show Bright, even light over the puzzle or the page, with no cable across the table.. Do not add, remove, enlarge or redesign any functional element. Do not invent pockets, closures, certifications, labels, textures, seams or accessories beyond what the Product Master shows. Maintain plausible scale, gravity, tension, material behavior and contact shadows.\n\nBRAND AND LEGAL CLEANUP\nRemove all competitor logos, trademarks, distinctive competitor prints, patches, watermarks and readable brand text from the reference. Do not imitate proprietary artwork, mascots or packaging design. Apply only the approved Oaklume identity when a brand mark is genuinely visible and physically plausible. Do not place promotional copy, prices, reviews or unverified technical claims inside the image.\n\nQUALITY CONTROL\nPhotorealistic commercial photography, natural anatomy, correct fingers/hands when present, realistic material response, accurate reflections, clean color separation, high micro-detail at the focal plane, restrained sharpening, no CGI gloss, no surreal elements and no visual clutter. Deliver a single finished image at 2048 x 2048 px (or 1600 x 2000 px for on-body lifestyle scenes), sRGB, with safe crop margins for mobile and desktop."
+    },
+    {
+      "position": 2,
+      "type": "Competitor carousel image 2 of 8",
+      "description": "Competitor carousel image 2 of 8, from the vykker.com PDP.",
+      "reference_file": "Referencia de imagens - cena e prompt/oaklume-task-light/carrossel-concorrente/referencia-02.png",
+      "source_image_url": "https://cdn.shopify.com/s/files/1/0835/0416/9271/files/11_1.png?v=1775089433",
+      "prompt": "Create one premium e-commerce PDP image for Oaklume. This is image 2 of 8 in the Oaklume Task Light for Puzzles & Reading carousel (scene: \"Competitor carousel image 2 of 8\").\n\nREFERENCE HIERARCHY\n1. Use the attached competitor scene reference only for composition, camera position, crop, visual rhythm, lighting logic, body pose and product-to-frame ratio.\n2. Use the separately attached Oaklume Task Light for Puzzles & Reading Product Master photographs as the sole authority for the product itself.\n3. If the two references conflict, the Product Master always wins for every physical product detail.\n\nART DIRECTION\nReproduce the composition, camera framing, crop, lighting direction and mood of the attached competitor reference image (scene: \"Competitor carousel image 2 of 8\", from vykker.com). Build a premium, confident visual language for Oaklume. The image should feel refined and intentional, never juvenile, overly technical or generic-dropship. Use the Oaklume palette naturally: #2F3A2E as the primary brand color, #F7F3EC as a clean neutral background, #4F6B45 as a controlled accent (CTAs, highlights), #C9873A only as a small pop of color (never dominating the frame).\n\nPRODUCT FIDELITY\nPreserve the exact Oaklume Task Light for Puzzles & Reading silhouette, materials, hardware, seams, colors and proportions shown in the separate Oaklume Task Light for Puzzles & Reading Product Master photographs. Show Bright, even light over the puzzle or the page, with no cable across the table.. Do not add, remove, enlarge or redesign any functional element. Do not invent pockets, closures, certifications, labels, textures, seams or accessories beyond what the Product Master shows. Maintain plausible scale, gravity, tension, material behavior and contact shadows.\n\nBRAND AND LEGAL CLEANUP\nRemove all competitor logos, trademarks, distinctive competitor prints, patches, watermarks and readable brand text from the reference. Do not imitate proprietary artwork, mascots or packaging design. Apply only the approved Oaklume identity when a brand mark is genuinely visible and physically plausible. Do not place promotional copy, prices, reviews or unverified technical claims inside the image.\n\nQUALITY CONTROL\nPhotorealistic commercial photography, natural anatomy, correct fingers/hands when present, realistic material response, accurate reflections, clean color separation, high micro-detail at the focal plane, restrained sharpening, no CGI gloss, no surreal elements and no visual clutter. Deliver a single finished image at 2048 x 2048 px (or 1600 x 2000 px for on-body lifestyle scenes), sRGB, with safe crop margins for mobile and desktop."
+    },
+    {
+      "position": 3,
+      "type": "Competitor carousel image 3 of 8",
+      "description": "Competitor carousel image 3 of 8, from the vykker.com PDP.",
+      "reference_file": "Referencia de imagens - cena e prompt/oaklume-task-light/carrossel-concorrente/referencia-03.jpg",
+      "source_image_url": "https://cdn.shopify.com/s/files/1/0835/0416/9271/files/generated-1774461870576_1.jpg?v=1775089433",
+      "prompt": "Create one premium e-commerce PDP image for Oaklume. This is image 3 of 8 in the Oaklume Task Light for Puzzles & Reading carousel (scene: \"Competitor carousel image 3 of 8\").\n\nREFERENCE HIERARCHY\n1. Use the attached competitor scene reference only for composition, camera position, crop, visual rhythm, lighting logic, body pose and product-to-frame ratio.\n2. Use the separately attached Oaklume Task Light for Puzzles & Reading Product Master photographs as the sole authority for the product itself.\n3. If the two references conflict, the Product Master always wins for every physical product detail.\n\nART DIRECTION\nReproduce the composition, camera framing, crop, lighting direction and mood of the attached competitor reference image (scene: \"Competitor carousel image 3 of 8\", from vykker.com). Build a premium, confident visual language for Oaklume. The image should feel refined and intentional, never juvenile, overly technical or generic-dropship. Use the Oaklume palette naturally: #2F3A2E as the primary brand color, #F7F3EC as a clean neutral background, #4F6B45 as a controlled accent (CTAs, highlights), #C9873A only as a small pop of color (never dominating the frame).\n\nPRODUCT FIDELITY\nPreserve the exact Oaklume Task Light for Puzzles & Reading silhouette, materials, hardware, seams, colors and proportions shown in the separate Oaklume Task Light for Puzzles & Reading Product Master photographs. Show Bright, even light over the puzzle or the page, with no cable across the table.. Do not add, remove, enlarge or redesign any functional element. Do not invent pockets, closures, certifications, labels, textures, seams or accessories beyond what the Product Master shows. Maintain plausible scale, gravity, tension, material behavior and contact shadows.\n\nBRAND AND LEGAL CLEANUP\nRemove all competitor logos, trademarks, distinctive competitor prints, patches, watermarks and readable brand text from the reference. Do not imitate proprietary artwork, mascots or packaging design. Apply only the approved Oaklume identity when a brand mark is genuinely visible and physically plausible. Do not place promotional copy, prices, reviews or unverified technical claims inside the image.\n\nQUALITY CONTROL\nPhotorealistic commercial photography, natural anatomy, correct fingers/hands when present, realistic material response, accurate reflections, clean color separation, high micro-detail at the focal plane, restrained sharpening, no CGI gloss, no surreal elements and no visual clutter. Deliver a single finished image at 2048 x 2048 px (or 1600 x 2000 px for on-body lifestyle scenes), sRGB, with safe crop margins for mobile and desktop."
+    },
+    {
+      "position": 4,
+      "type": "Competitor carousel image 4 of 8",
+      "description": "Competitor carousel image 4 of 8, from the vykker.com PDP.",
+      "reference_file": "Referencia de imagens - cena e prompt/oaklume-task-light/carrossel-concorrente/referencia-04.jpg",
+      "source_image_url": "https://cdn.shopify.com/s/files/1/0835/0416/9271/files/generated-1774461869324_1.jpg?v=1775089433",
+      "prompt": "Create one premium e-commerce PDP image for Oaklume. This is image 4 of 8 in the Oaklume Task Light for Puzzles & Reading carousel (scene: \"Competitor carousel image 4 of 8\").\n\nREFERENCE HIERARCHY\n1. Use the attached competitor scene reference only for composition, camera position, crop, visual rhythm, lighting logic, body pose and product-to-frame ratio.\n2. Use the separately attached Oaklume Task Light for Puzzles & Reading Product Master photographs as the sole authority for the product itself.\n3. If the two references conflict, the Product Master always wins for every physical product detail.\n\nART DIRECTION\nReproduce the composition, camera framing, crop, lighting direction and mood of the attached competitor reference image (scene: \"Competitor carousel image 4 of 8\", from vykker.com). Build a premium, confident visual language for Oaklume. The image should feel refined and intentional, never juvenile, overly technical or generic-dropship. Use the Oaklume palette naturally: #2F3A2E as the primary brand color, #F7F3EC as a clean neutral background, #4F6B45 as a controlled accent (CTAs, highlights), #C9873A only as a small pop of color (never dominating the frame).\n\nPRODUCT FIDELITY\nPreserve the exact Oaklume Task Light for Puzzles & Reading silhouette, materials, hardware, seams, colors and proportions shown in the separate Oaklume Task Light for Puzzles & Reading Product Master photographs. Show Bright, even light over the puzzle or the page, with no cable across the table.. Do not add, remove, enlarge or redesign any functional element. Do not invent pockets, closures, certifications, labels, textures, seams or accessories beyond what the Product Master shows. Maintain plausible scale, gravity, tension, material behavior and contact shadows.\n\nBRAND AND LEGAL CLEANUP\nRemove all competitor logos, trademarks, distinctive competitor prints, patches, watermarks and readable brand text from the reference. Do not imitate proprietary artwork, mascots or packaging design. Apply only the approved Oaklume identity when a brand mark is genuinely visible and physically plausible. Do not place promotional copy, prices, reviews or unverified technical claims inside the image.\n\nQUALITY CONTROL\nPhotorealistic commercial photography, natural anatomy, correct fingers/hands when present, realistic material response, accurate reflections, clean color separation, high micro-detail at the focal plane, restrained sharpening, no CGI gloss, no surreal elements and no visual clutter. Deliver a single finished image at 2048 x 2048 px (or 1600 x 2000 px for on-body lifestyle scenes), sRGB, with safe crop margins for mobile and desktop."
+    },
+    {
+      "position": 5,
+      "type": "Competitor carousel image 5 of 8",
+      "description": "Competitor carousel image 5 of 8, from the vykker.com PDP.",
+      "reference_file": "Referencia de imagens - cena e prompt/oaklume-task-light/carrossel-concorrente/referencia-05.png",
+      "source_image_url": "https://cdn.shopify.com/s/files/1/0835/0416/9271/files/picture_response_57dbae35-926f-4bd5-9a56-db4493558a89_1_3.png?v=1775089433",
+      "prompt": "Create one premium e-commerce PDP image for Oaklume. This is image 5 of 8 in the Oaklume Task Light for Puzzles & Reading carousel (scene: \"Competitor carousel image 5 of 8\").\n\nREFERENCE HIERARCHY\n1. Use the attached competitor scene reference only for composition, camera position, crop, visual rhythm, lighting logic, body pose and product-to-frame ratio.\n2. Use the separately attached Oaklume Task Light for Puzzles & Reading Product Master photographs as the sole authority for the product itself.\n3. If the two references conflict, the Product Master always wins for every physical product detail.\n\nART DIRECTION\nReproduce the composition, camera framing, crop, lighting direction and mood of the attached competitor reference image (scene: \"Competitor carousel image 5 of 8\", from vykker.com). Build a premium, confident visual language for Oaklume. The image should feel refined and intentional, never juvenile, overly technical or generic-dropship. Use the Oaklume palette naturally: #2F3A2E as the primary brand color, #F7F3EC as a clean neutral background, #4F6B45 as a controlled accent (CTAs, highlights), #C9873A only as a small pop of color (never dominating the frame).\n\nPRODUCT FIDELITY\nPreserve the exact Oaklume Task Light for Puzzles & Reading silhouette, materials, hardware, seams, colors and proportions shown in the separate Oaklume Task Light for Puzzles & Reading Product Master photographs. Show Bright, even light over the puzzle or the page, with no cable across the table.. Do not add, remove, enlarge or redesign any functional element. Do not invent pockets, closures, certifications, labels, textures, seams or accessories beyond what the Product Master shows. Maintain plausible scale, gravity, tension, material behavior and contact shadows.\n\nBRAND AND LEGAL CLEANUP\nRemove all competitor logos, trademarks, distinctive competitor prints, patches, watermarks and readable brand text from the reference. Do not imitate proprietary artwork, mascots or packaging design. Apply only the approved Oaklume identity when a brand mark is genuinely visible and physically plausible. Do not place promotional copy, prices, reviews or unverified technical claims inside the image.\n\nQUALITY CONTROL\nPhotorealistic commercial photography, natural anatomy, correct fingers/hands when present, realistic material response, accurate reflections, clean color separation, high micro-detail at the focal plane, restrained sharpening, no CGI gloss, no surreal elements and no visual clutter. Deliver a single finished image at 2048 x 2048 px (or 1600 x 2000 px for on-body lifestyle scenes), sRGB, with safe crop margins for mobile and desktop."
+    },
+    {
+      "position": 6,
+      "type": "Competitor carousel image 6 of 8",
+      "description": "Competitor carousel image 6 of 8, from the vykker.com PDP.",
+      "reference_file": "Referencia de imagens - cena e prompt/oaklume-task-light/carrossel-concorrente/referencia-06.png",
+      "source_image_url": "https://cdn.shopify.com/s/files/1/0835/0416/9271/files/picture_response_e1b36c61-7f08-4a5c-ab64-73dc2795130f_1_1.png?v=1775089433",
+      "prompt": "Create one premium e-commerce PDP image for Oaklume. This is image 6 of 8 in the Oaklume Task Light for Puzzles & Reading carousel (scene: \"Competitor carousel image 6 of 8\").\n\nREFERENCE HIERARCHY\n1. Use the attached competitor scene reference only for composition, camera position, crop, visual rhythm, lighting logic, body pose and product-to-frame ratio.\n2. Use the separately attached Oaklume Task Light for Puzzles & Reading Product Master photographs as the sole authority for the product itself.\n3. If the two references conflict, the Product Master always wins for every physical product detail.\n\nART DIRECTION\nReproduce the composition, camera framing, crop, lighting direction and mood of the attached competitor reference image (scene: \"Competitor carousel image 6 of 8\", from vykker.com). Build a premium, confident visual language for Oaklume. The image should feel refined and intentional, never juvenile, overly technical or generic-dropship. Use the Oaklume palette naturally: #2F3A2E as the primary brand color, #F7F3EC as a clean neutral background, #4F6B45 as a controlled accent (CTAs, highlights), #C9873A only as a small pop of color (never dominating the frame).\n\nPRODUCT FIDELITY\nPreserve the exact Oaklume Task Light for Puzzles & Reading silhouette, materials, hardware, seams, colors and proportions shown in the separate Oaklume Task Light for Puzzles & Reading Product Master photographs. Show Bright, even light over the puzzle or the page, with no cable across the table.. Do not add, remove, enlarge or redesign any functional element. Do not invent pockets, closures, certifications, labels, textures, seams or accessories beyond what the Product Master shows. Maintain plausible scale, gravity, tension, material behavior and contact shadows.\n\nBRAND AND LEGAL CLEANUP\nRemove all competitor logos, trademarks, distinctive competitor prints, patches, watermarks and readable brand text from the reference. Do not imitate proprietary artwork, mascots or packaging design. Apply only the approved Oaklume identity when a brand mark is genuinely visible and physically plausible. Do not place promotional copy, prices, reviews or unverified technical claims inside the image.\n\nQUALITY CONTROL\nPhotorealistic commercial photography, natural anatomy, correct fingers/hands when present, realistic material response, accurate reflections, clean color separation, high micro-detail at the focal plane, restrained sharpening, no CGI gloss, no surreal elements and no visual clutter. Deliver a single finished image at 2048 x 2048 px (or 1600 x 2000 px for on-body lifestyle scenes), sRGB, with safe crop margins for mobile and desktop."
+    },
+    {
+      "position": 7,
+      "type": "Competitor carousel image 7 of 8",
+      "description": "Competitor carousel image 7 of 8, from the vykker.com PDP.",
+      "reference_file": "Referencia de imagens - cena e prompt/oaklume-task-light/carrossel-concorrente/referencia-07.png",
+      "source_image_url": "https://cdn.shopify.com/s/files/1/0835/0416/9271/files/picture_response_bf474aac-a053-4bf5-ad01-aa929efeff2c_1.png?v=1775089433",
+      "prompt": "Create one premium e-commerce PDP image for Oaklume. This is image 7 of 8 in the Oaklume Task Light for Puzzles & Reading carousel (scene: \"Competitor carousel image 7 of 8\").\n\nREFERENCE HIERARCHY\n1. Use the attached competitor scene reference only for composition, camera position, crop, visual rhythm, lighting logic, body pose and product-to-frame ratio.\n2. Use the separately attached Oaklume Task Light for Puzzles & Reading Product Master photographs as the sole authority for the product itself.\n3. If the two references conflict, the Product Master always wins for every physical product detail.\n\nART DIRECTION\nReproduce the composition, camera framing, crop, lighting direction and mood of the attached competitor reference image (scene: \"Competitor carousel image 7 of 8\", from vykker.com). Build a premium, confident visual language for Oaklume. The image should feel refined and intentional, never juvenile, overly technical or generic-dropship. Use the Oaklume palette naturally: #2F3A2E as the primary brand color, #F7F3EC as a clean neutral background, #4F6B45 as a controlled accent (CTAs, highlights), #C9873A only as a small pop of color (never dominating the frame).\n\nPRODUCT FIDELITY\nPreserve the exact Oaklume Task Light for Puzzles & Reading silhouette, materials, hardware, seams, colors and proportions shown in the separate Oaklume Task Light for Puzzles & Reading Product Master photographs. Show Bright, even light over the puzzle or the page, with no cable across the table.. Do not add, remove, enlarge or redesign any functional element. Do not invent pockets, closures, certifications, labels, textures, seams or accessories beyond what the Product Master shows. Maintain plausible scale, gravity, tension, material behavior and contact shadows.\n\nBRAND AND LEGAL CLEANUP\nRemove all competitor logos, trademarks, distinctive competitor prints, patches, watermarks and readable brand text from the reference. Do not imitate proprietary artwork, mascots or packaging design. Apply only the approved Oaklume identity when a brand mark is genuinely visible and physically plausible. Do not place promotional copy, prices, reviews or unverified technical claims inside the image.\n\nQUALITY CONTROL\nPhotorealistic commercial photography, natural anatomy, correct fingers/hands when present, realistic material response, accurate reflections, clean color separation, high micro-detail at the focal plane, restrained sharpening, no CGI gloss, no surreal elements and no visual clutter. Deliver a single finished image at 2048 x 2048 px (or 1600 x 2000 px for on-body lifestyle scenes), sRGB, with safe crop margins for mobile and desktop."
+    },
+    {
+      "position": 8,
+      "type": "Competitor carousel image 8 of 8",
+      "description": "Competitor carousel image 8 of 8, from the vykker.com PDP.",
+      "reference_file": "Referencia de imagens - cena e prompt/oaklume-task-light/carrossel-concorrente/referencia-08.png",
+      "source_image_url": "https://cdn.shopify.com/s/files/1/0835/0416/9271/files/picture_response_4b4fba26-f9a9-4e65-a7f1-5747ecff6731_1.png?v=1775089433",
+      "prompt": "Create one premium e-commerce PDP image for Oaklume. This is image 8 of 8 in the Oaklume Task Light for Puzzles & Reading carousel (scene: \"Competitor carousel image 8 of 8\").\n\nREFERENCE HIERARCHY\n1. Use the attached competitor scene reference only for composition, camera position, crop, visual rhythm, lighting logic, body pose and product-to-frame ratio.\n2. Use the separately attached Oaklume Task Light for Puzzles & Reading Product Master photographs as the sole authority for the product itself.\n3. If the two references conflict, the Product Master always wins for every physical product detail.\n\nART DIRECTION\nReproduce the composition, camera framing, crop, lighting direction and mood of the attached competitor reference image (scene: \"Competitor carousel image 8 of 8\", from vykker.com). Build a premium, confident visual language for Oaklume. The image should feel refined and intentional, never juvenile, overly technical or generic-dropship. Use the Oaklume palette naturally: #2F3A2E as the primary brand color, #F7F3EC as a clean neutral background, #4F6B45 as a controlled accent (CTAs, highlights), #C9873A only as a small pop of color (never dominating the frame).\n\nPRODUCT FIDELITY\nPreserve the exact Oaklume Task Light for Puzzles & Reading silhouette, materials, hardware, seams, colors and proportions shown in the separate Oaklume Task Light for Puzzles & Reading Product Master photographs. Show Bright, even light over the puzzle or the page, with no cable across the table.. Do not add, remove, enlarge or redesign any functional element. Do not invent pockets, closures, certifications, labels, textures, seams or accessories beyond what the Product Master shows. Maintain plausible scale, gravity, tension, material behavior and contact shadows.\n\nBRAND AND LEGAL CLEANUP\nRemove all competitor logos, trademarks, distinctive competitor prints, patches, watermarks and readable brand text from the reference. Do not imitate proprietary artwork, mascots or packaging design. Apply only the approved Oaklume identity when a brand mark is genuinely visible and physically plausible. Do not place promotional copy, prices, reviews or unverified technical claims inside the image.\n\nQUALITY CONTROL\nPhotorealistic commercial photography, natural anatomy, correct fingers/hands when present, realistic material response, accurate reflections, clean color separation, high micro-detail at the focal plane, restrained sharpening, no CGI gloss, no surreal elements and no visual clutter. Deliver a single finished image at 2048 x 2048 px (or 1600 x 2000 px for on-body lifestyle scenes), sRGB, with safe crop margins for mobile and desktop."
+    }
+  ]
+}

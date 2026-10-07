@@ -1,0 +1,100 @@
+{
+  "portoes": [
+    {
+      "g": "G1",
+      "nome": "Demanda",
+      "st": "pass",
+      "k": "obs",
+      "o": "69.190 buscas por mês nos 9 produtos no Reino Unido, a maior do radar; rechargeable wall light com 33.100 e Trends +93% em 12 meses; piso de 26.300 vendas por mês na Amazon britânica nos 5 produtos.",
+      "src": "Planejador, Trends e Amazon do Reino Unido, 06/10/2026",
+      "resumo": "Procura medida em três fontes e subindo."
+    },
+    {
+      "g": "G2",
+      "nome": "Catálogo",
+      "st": "pass",
+      "k": "obs",
+      "o": "Os 5 produtos da Oaklume têm procura medida no Reino Unido; a luminária de parede é o herói, a segunda luminária o complemento e a cúpula o upsell.",
+      "src": "plano",
+      "resumo": "Catálogo enxuto e coerente."
+    },
+    {
+      "g": "G3",
+      "nome": "Criativos",
+      "st": "pass",
+      "k": "obs",
+      "o": "Rolagem da Biblioteca do Reino Unido: 226 anúncios em 2 termos, 177 do nicho; Stockholm-Lights com anúncio ativo há 453 dias e The Card & Tile Club em 7 países.",
+      "src": "rolagem da Biblioteca, 06/10/2026",
+      "resumo": "Há vencedor para modelar."
+    },
+    {
+      "g": "G4",
+      "nome": "Economia",
+      "st": "warn",
+      "k": "calc",
+      "o": "Luminária de parede a £ 42,90: ROAS de empate de 1,36; com o custo em dobro, ainda sobram £ 21,93 por venda.",
+      "src": "conta do pedido",
+      "resumo": "Fecha com folga, custo a conferir."
+    },
+    {
+      "g": "G5",
+      "nome": "Janela",
+      "st": "pass",
+      "k": "obs",
+      "o": "Pico de setembro a novembro nos termos de luminária recarregável no Trends do Reino Unido: a estação é agora.",
+      "src": "Trends 5 anos do Reino Unido",
+      "resumo": "A estação ajuda agora."
+    },
+    {
+      "g": "G6",
+      "nome": "Vantagem",
+      "st": "warn",
+      "k": "inf",
+      "o": "As lojas que escalam já anunciam no Reino Unido, mas em dólar; no Shopping, o varejo vende de £ 20 a 35. A vantagem é chegar em libra, com a parede no preço da Amazon e a oferta em par.",
+      "src": "Meta e Shopping do Reino Unido",
+      "resumo": "Espaço existe em libra."
+    },
+    {
+      "g": "G7",
+      "nome": "Operação",
+      "st": "warn",
+      "k": "inf",
+      "o": "Antes de anunciar: mercado britânico em libra, páginas de frete e devolução, pixel e tag do Google, licença do tema.",
+      "src": "ficha da Oaklume",
+      "resumo": "Quatro consertos antes do primeiro anúncio."
+    }
+  ],
+  "numeros_que_sustentam": [],
+  "limites_da_pesquisa": [
+    {
+      "dado": "Volume de busca",
+      "situacao": "aproximado",
+      "no_lugar": "Planejador do Google, que arredonda em escada (2.900, 3.600, 4.400)."
+    },
+    {
+      "dado": "Custo do fornecedor",
+      "situacao": "mediana de busca, não verificado",
+      "no_lugar": "Mediana dos 6 mais vendidos do AliExpress de produto parecido; o modelo usado pela Oaklume não foi conferido."
+    },
+    {
+      "dado": "Meta por termo fora dos EUA",
+      "situacao": "parcial",
+      "no_lugar": "Termo principal em todos os países; os demais só nos EUA, Alemanha, Países Baixos, Suécia e Dinamarca."
+    },
+    {
+      "dado": "Volume da luminária de parede no Reino Unido",
+      "situacao": "duas fontes discordam",
+      "no_lugar": "Planejador 33.100; o Trends, ancorado em rechargeable table lamp, sugere cerca de 18.500. Nos dois casos é o termo líder do nicho."
+    },
+    {
+      "dado": "Trends dos EUA",
+      "situacao": "sinal baixo",
+      "no_lugar": "Os termos americanos com pico em abril e +552% a +920% vêm de volume baixo no lote: não usados na decisão."
+    },
+    {
+      "dado": "Lojas no Shopping",
+      "situacao": "teto",
+      "no_lugar": "A contagem de lojas inclui linhas de leitura ruim; a lista de independentes foi limpa à mão."
+    }
+  ]
+}

@@ -1,0 +1,117 @@
+{
+  "slug": "taplight",
+  "nome": "tap-light.de",
+  "dominios": [
+    "tap-light.de"
+  ],
+  "pais": "DE",
+  "trafego": {
+    "medido": true,
+    "rotulo": "último mês do SimilarWeb",
+    "busca_paga_pct": {
+      "tap-light.de": 26.1
+    },
+    "busca_organica_pct": {
+      "tap-light.de": 16.1
+    },
+    "canal_1": "busca paga 26,1%, busca orgânica 16,1%, acesso direto 19,8%, rede social paga 1,5%",
+    "ressalva": "Estimativa do SimilarWeb (dado de extensão). Meses anteriores: 4.797 e 4.997. Não é receita.",
+    "visitas_como_escrito": {
+      "tap-light.de": "15K (último mês)"
+    },
+    "variacao_ultimo_mes_pct": 198.6
+  },
+  "catalogo": {
+    "produtos_vistos": 23,
+    "preco_mediana": {
+      "EUR": 59.99
+    },
+    "ritmo_de_lancamento": "Primeiro produto cadastrado em 2022-11-18 (Tap-light® - Retro Original), o mais novo em 2026-07-30."
+  },
+  "loja": {
+    "plataforma": "Shopify (o catálogo público respondeu)",
+    "meios_de_pagamento": [
+      "Shopify Payments e Shop Pay (vistos no código)"
+    ],
+    "frete": "Frete grátis a partir de 60 EUR com rastreio; prazo não declarado",
+    "garantia_e_troca": "30 dias de Widerruf sem justificativa",
+    "prazo_de_entrega_declarado": "Frete grátis a partir de 60 EUR com rastreio; prazo não declarado",
+    "apps": "klaviyo, loox, shopify_payments_shoppay",
+    "pixels": "gads AW-11021443509, pinterest"
+  },
+  "midia_paga": {
+    "angulos": [
+      "Anúncios ativos pela URL na Biblioteca da Meta (todos os países, 2026-10-06): 34 ativos e 846 no histórico das páginas da loja. página achada pelo censo do grupo norte (a busca pelo domínio devolve ruído); EUR, criativos \"Gratis Aktion\"; consulta pelo identificador da página em 06/10/2026"
+    ],
+    "ativos_pela_url": 34,
+    "historico_pela_url": 846,
+    "sobrevivencia_pct": 4,
+    "page_ids": [
+      "106512908719660"
+    ]
+  },
+  "top10": [
+    {
+      "handle": "retro",
+      "titulo": "Tap-light® - Retro Original",
+      "preco": 79.99,
+      "url": "https://tap-light.de/products/retro"
+    },
+    {
+      "handle": "aurora-wandleuchte",
+      "titulo": "Tap-Light® Aurora - Originals",
+      "preco": 44.99,
+      "url": "https://tap-light.de/products/aurora-wandleuchte"
+    },
+    {
+      "handle": "elo",
+      "titulo": "Tap-light® - Elo",
+      "preco": 59.99,
+      "url": "https://tap-light.de/products/elo"
+    },
+    {
+      "handle": "relo",
+      "titulo": "Tap-light® - Relo",
+      "preco": 69.99,
+      "url": "https://tap-light.de/products/relo"
+    },
+    {
+      "handle": "tap-light-solevita-moderne-led-deckenlampe-dimmbar",
+      "titulo": "Tap-Light® - Solevita",
+      "preco": 279,
+      "url": "https://tap-light.de/products/tap-light-solevita-moderne-led-deckenlampe-dimmbar"
+    }
+  ],
+  "produto_campeao": {
+    "titulo": "Tap-light® - Retro Original",
+    "preco": 79.99,
+    "moeda": "EUR",
+    "url": "https://tap-light.de/products/retro",
+    "por_que_e_o_campeao": "Primeiro produto da ordem \"mais vendido\" da própria loja, lida em 06/10/2026 (não traz quantidade vendida)."
+  },
+  "dados_nao_obtidos": [
+    {
+      "dado": "Venda e faturamento",
+      "motivo": "ninguém publica venda de loja privada",
+      "o_que_foi_tentado": "visitas por mês do SimilarWeb e preço do catálogo"
+    }
+  ],
+  "pais_origem_provavel": "Alemanha (Venture MK UG, Schorndorf)",
+  "o_que_vende": "23 produtos: luminária de mesa e de parede com bateria, marca própria Tap-Light, € 49 a 80.",
+  "classificacao": {
+    "modelo": "dropship_de_marca",
+    "veredito": "MODELAR",
+    "nivel_de_execucao": "medio",
+    "por_que": "Prova o nicho na Alemanha pelo Google: 14.921 visitas no último mês (de 4.797 dois meses antes), 100% da Alemanha e 26.1% de busca paga, com a tag do Google Ads. Vende acima da mediana do Shopping alemão (€ 25 a 30) com marca própria e página em alemão.",
+    "o_que_o_veredito_cobre": "Rota da Alemanha (terceira colocada): marca própria, página em alemão e Google pago. Não cobre o Reino Unido.",
+    "defensabilidade": "MARCA PRÓPRIA LOCAL: nome registrado (®) e empresa alemã.",
+    "scorecard": {}
+  },
+  "o_que_copiar": [
+    "Página em alemão nativo com empresa local visível",
+    "Luminária de parede com bateria como segundo herói"
+  ],
+  "o_que_nao_copiar": [
+    "Prazo de entrega não declarado na política"
+  ]
+}

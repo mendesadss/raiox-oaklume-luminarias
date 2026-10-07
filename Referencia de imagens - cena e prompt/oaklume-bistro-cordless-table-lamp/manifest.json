@@ -1,0 +1,76 @@
+{
+  "product_handle": "oaklume-bistro-cordless-table-lamp",
+  "competitor": "lightsstockholm.com",
+  "competitor_product_title": "Stockholm Table Lamp",
+  "competitor_page": "https://lightsstockholm.com/products/lamp",
+  "competitor_json": "https://lightsstockholm.com/products/lamp.js",
+  "real_carousel_count": 11,
+  "downloaded_carousel_count": 8,
+  "amostrado": true,
+  "files": [
+    {
+      "position": 1,
+      "original_index_no_carrossel_real": 1,
+      "file": "carrossel-concorrente/referencia-01.png",
+      "source_image_url": "https://cdn.shopify.com/s/files/1/0675/0437/4024/files/1_8aecda79-8659-421e-bff0-40c92168b043.png?v=1775814134",
+      "alt": null,
+      "bytes": 114819
+    },
+    {
+      "position": 2,
+      "original_index_no_carrossel_real": 2,
+      "file": "carrossel-concorrente/referencia-02.png",
+      "source_image_url": "https://cdn.shopify.com/s/files/1/0675/0437/4024/files/1_db536705-a795-45ad-9803-08da2295bdae.png?v=1775814134",
+      "alt": null,
+      "bytes": 117184
+    },
+    {
+      "position": 3,
+      "original_index_no_carrossel_real": 4,
+      "file": "carrossel-concorrente/referencia-03.png",
+      "source_image_url": "https://cdn.shopify.com/s/files/1/0675/0437/4024/files/ChatGPT_Image_Apr_10_2026_11_40_21_AM.png?v=1775814184",
+      "alt": null,
+      "bytes": 838718
+    },
+    {
+      "position": 4,
+      "original_index_no_carrossel_real": 5,
+      "file": "carrossel-concorrente/referencia-04.gif",
+      "source_image_url": "https://cdn.shopify.com/s/files/1/0675/0437/4024/files/Modern_Wireless_Table_Lamp.gif?v=1775814184",
+      "alt": "Table lamp Stockholm - Lights Stockholm -Modern cordless LED table lamp with touch sensor – Lights Stockholm(Modern trådlös LED-bordslampa med touchsensor – Luminária de mesa LED sem fio moderna com sensor de toque – Moderni langaton LED-pöytälamppu kosketusanturilla – Moderne trådløs LED-bordlampe med berøringssensor – Moderne trådløs LED-bordlampe med touch-funktion – Moderna lámpara de mesa LED inalámbrica con sensor táctil – Moderne kabellose LED-Tischlampe mit Touch-Sensor)",
+      "bytes": 13056875
+    },
+    {
+      "position": 5,
+      "original_index_no_carrossel_real": 7,
+      "file": "carrossel-concorrente/referencia-05.jpg",
+      "source_image_url": "https://cdn.shopify.com/s/files/1/0675/0437/4024/files/IMG_1993_2.jpg?v=1775814184",
+      "alt": null,
+      "bytes": 234816
+    },
+    {
+      "position": 6,
+      "original_index_no_carrossel_real": 8,
+      "file": "carrossel-concorrente/referencia-06.jpg",
+      "source_image_url": "https://cdn.shopify.com/s/files/1/0675/0437/4024/files/Modern_Wireless_Table_Lamp.jpg?v=1775814184",
+      "alt": "Table lamp Stockholm - Lights Stockholm -Modern cordless LED table lamp with touch sensor – Lights Stockholm(Modern trådlös LED-bordslampa med touchsensor – Luminária de mesa LED sem fio moderna com sensor de toque – Moderni langaton LED-pöytälamppu kosketusanturilla – Moderne trådløs LED-bordlampe med berøringssensor – Moderne trådløs LED-bordlampe med touch-funktion – Moderna lámpara de mesa LED inalámbrica con sensor táctil – Moderne kabellose LED-Tischlampe mit Touch-Sensor)",
+      "bytes": 61538
+    },
+    {
+      "position": 7,
+      "original_index_no_carrossel_real": 10,
+      "file": "carrossel-concorrente/referencia-07.png",
+      "source_image_url": "https://cdn.shopify.com/s/files/1/0675/0437/4024/files/2026-04-10_12.45.16.png?v=1775817948",
+      "alt": null,
+      "bytes": 2917202
+    },
+    {
+      "position": 8,
+      "original_index_no_carrossel_real": 11,
+      "file": "carrossel-concorrente/referencia-08.png",
+      "source_image_url": "https://cdn.shopify.com/s/files/1/0675/0437/4024/files/ChatGPT_Image_Apr_10_2026_12_10_04_PM.png?v=1775815898",
+      "alt": null,
+      "bytes": 1149385
+    }
+  ]
+}

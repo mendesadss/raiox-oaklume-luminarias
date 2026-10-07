@@ -1,0 +1,76 @@
+{
+  "product_handle": "oaklume-task-light",
+  "competitor": "vykker.com",
+  "competitor_product_title": "The EMBAR Puzzle Lamp",
+  "competitor_page": "https://vykker.com/products/embarpuzzle",
+  "competitor_json": "https://vykker.com/products/embarpuzzle.js",
+  "real_carousel_count": 13,
+  "downloaded_carousel_count": 8,
+  "amostrado": true,
+  "files": [
+    {
+      "position": 1,
+      "original_index_no_carrossel_real": 1,
+      "file": "carrossel-concorrente/referencia-01.jpg",
+      "source_image_url": "https://cdn.shopify.com/s/files/1/0835/0416/9271/files/2026-03-2608.09.14_1.jpg?v=1774537796",
+      "alt": null,
+      "bytes": 82367
+    },
+    {
+      "position": 2,
+      "original_index_no_carrossel_real": 3,
+      "file": "carrossel-concorrente/referencia-02.png",
+      "source_image_url": "https://cdn.shopify.com/s/files/1/0835/0416/9271/files/11_1.png?v=1775089433",
+      "alt": null,
+      "bytes": 353592
+    },
+    {
+      "position": 3,
+      "original_index_no_carrossel_real": 4,
+      "file": "carrossel-concorrente/referencia-03.jpg",
+      "source_image_url": "https://cdn.shopify.com/s/files/1/0835/0416/9271/files/generated-1774461870576_1.jpg?v=1775089433",
+      "alt": null,
+      "bytes": 203063
+    },
+    {
+      "position": 4,
+      "original_index_no_carrossel_real": 6,
+      "file": "carrossel-concorrente/referencia-04.jpg",
+      "source_image_url": "https://cdn.shopify.com/s/files/1/0835/0416/9271/files/generated-1774461869324_1.jpg?v=1775089433",
+      "alt": null,
+      "bytes": 82249
+    },
+    {
+      "position": 5,
+      "original_index_no_carrossel_real": 8,
+      "file": "carrossel-concorrente/referencia-05.png",
+      "source_image_url": "https://cdn.shopify.com/s/files/1/0835/0416/9271/files/picture_response_57dbae35-926f-4bd5-9a56-db4493558a89_1_3.png?v=1775089433",
+      "alt": null,
+      "bytes": 430763
+    },
+    {
+      "position": 6,
+      "original_index_no_carrossel_real": 10,
+      "file": "carrossel-concorrente/referencia-06.png",
+      "source_image_url": "https://cdn.shopify.com/s/files/1/0835/0416/9271/files/picture_response_e1b36c61-7f08-4a5c-ab64-73dc2795130f_1_1.png?v=1775089433",
+      "alt": null,
+      "bytes": 414332
+    },
+    {
+      "position": 7,
+      "original_index_no_carrossel_real": 11,
+      "file": "carrossel-concorrente/referencia-07.png",
+      "source_image_url": "https://cdn.shopify.com/s/files/1/0835/0416/9271/files/picture_response_bf474aac-a053-4bf5-ad01-aa929efeff2c_1.png?v=1775089433",
+      "alt": null,
+      "bytes": 413997
+    },
+    {
+      "position": 8,
+      "original_index_no_carrossel_real": 13,
+      "file": "carrossel-concorrente/referencia-08.png",
+      "source_image_url": "https://cdn.shopify.com/s/files/1/0835/0416/9271/files/picture_response_4b4fba26-f9a9-4e65-a7f1-5747ecff6731_1.png?v=1775089433",
+      "alt": null,
+      "bytes": 441364
+    }
+  ]
+}

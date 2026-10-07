@@ -1,0 +1,235 @@
+{
+  "data": "2026-10-06",
+  "fonte": "conector Meta Ads (ads_library_search), search_terms = domínio, sem filtro de país, ACTIVE e ALL; ativos/historico = estimated_total_count (estimativa da fonte, pode incluir páginas de terceiros que citam o domínio); mais_antigo_ativo = piso observado na amostra de até 50 anúncios (a API ordena por recência, então o piso real pode ser mais antigo); amostras ALL limitadas a 3 a 5 anúncios em parte das lojas, histórico só pela contagem",
+  "lojas": [
+    {
+      "loja": "oaklume",
+      "dominio": "oaklumehome.com",
+      "metodo": "dominio",
+      "page_ids": [
+        "1322830264253089"
+      ],
+      "tentativas": [
+        "search_terms=oaklumehome.com",
+        "ACTIVE e ALL"
+      ],
+      "reportado": {
+        "ativos": 5,
+        "historico": 5
+      },
+      "biblioteca": {
+        "ativos": 5,
+        "historico": 5
+      },
+      "nota": "5 de 5 da página Oaklume, moeda BRL (conta do Mendes); todos iniciados em 05/10/2026"
+    },
+    {
+      "loja": "lightsstockholm",
+      "dominio": "lightsstockholm.com",
+      "metodo": "dominio",
+      "page_ids": [
+        "101463322882949",
+        "480954971764670"
+      ],
+      "tentativas": [
+        "search_terms=lightsstockholm.com",
+        "ACTIVE e ALL"
+      ],
+      "reportado": {
+        "ativos": 317,
+        "historico": 11679
+      },
+      "biblioteca": {
+        "ativos": 317,
+        "historico": 11679
+      },
+      "nota": "USD, todos iniciados de 04 a 06/10/2026 na amostra de 50 (rotação diária de criativos); criativos \"Buy 1 Get 1 Free\", \"4.9/5 20.000+ clients\", Halloween"
+    },
+    {
+      "loja": "lightscordless",
+      "dominio": "lightscordless.com",
+      "metodo": "dominio",
+      "page_ids": [
+        "111378241841484"
+      ],
+      "tentativas": [
+        "search_terms=lightscordless.com",
+        "ACTIVE e ALL"
+      ],
+      "reportado": {
+        "ativos": 17,
+        "historico": 65
+      },
+      "biblioteca": {
+        "ativos": 17,
+        "historico": 65
+      },
+      "nota": "amostra 100% da página Lightscordless, USD; histórico mais antigo visto na amostra (50 de 65): 2026-01-23; criativos recentes: \"Museum Look. Renter-Friendly\", \"48-Hour Battery\", picture lights"
+    },
+    {
+      "loja": "vykker",
+      "dominio": "vykker.com",
+      "metodo": "dominio",
+      "page_ids": [
+        "989624914226494"
+      ],
+      "tentativas": [
+        "search_terms=vykker.com",
+        "ACTIVE e ALL"
+      ],
+      "reportado": {
+        "ativos": 86,
+        "historico": 1695
+      },
+      "biblioteca": {
+        "ativos": 86,
+        "historico": 1695
+      },
+      "nota": "anúncios do domínio vêm da página The Card & Tile Club (não Vykker): criativos \"No Outlet Needed\", \"Shadow-Free Puzzle Light\", USD; piso é da amostra de 50 de 86 (mais antigo visto no ALL: 2026-09-15); busca pela raiz \"vykker\" devolve o mesmo"
+    },
+    {
+      "loja": "pridola",
+      "dominio": "pridola.com",
+      "metodo": "dominio",
+      "page_ids": [
+        "201772889686546",
+        "107626672145487",
+        "287191851138110",
+        "649712804894101"
+      ],
+      "tentativas": [
+        "search_terms=pridola.com",
+        "ACTIVE e ALL"
+      ],
+      "reportado": {
+        "ativos": 0,
+        "historico": 30
+      },
+      "biblioteca": {
+        "ativos": 0,
+        "historico": 30
+      },
+      "nota": "domínio pridola.com devolve 0 ativos (a loja redireciona para pridola.co); busca \"pridola\"/\"pridola.co\" devolve cerca de 1.893 ativos, mas é busca por texto e mistura menções; páginas próprias Pridola Design e Pridola's Design, USD, criativo \"Wall Lights That Don't Wreck Your Walls\" iniciado em out/2026; histórico 30 do domínio: mais antigo na amostra 2025-10-26 (EnvieDéco FR, EUR)"
+    },
+    {
+      "loja": "luceko",
+      "dominio": "luceko.com",
+      "metodo": "dominio",
+      "page_ids": [
+        "649926298201656"
+      ],
+      "tentativas": [
+        "search_terms=luceko.com",
+        "ACTIVE e ALL"
+      ],
+      "reportado": {
+        "ativos": 72,
+        "historico": 1820
+      },
+      "biblioteca": {
+        "ativos": 72,
+        "historico": 1820
+      },
+      "nota": "amostra 100% da página Luceko, moeda AUD (alvo Austrália); criativos \"Free Mystery Gifts\", \"Make Your Home Look 10X Better\"; piso é da amostra (50 de 72), histórico 1.820 mostra rotação forte"
+    },
+    {
+      "loja": "taplight",
+      "dominio": "tap-light.de",
+      "metodo": "dominio",
+      "page_ids": [
+        "106512908719660"
+      ],
+      "tentativas": [
+        "search_terms=tap-light.de",
+        "ACTIVE e ALL"
+      ],
+      "reportado": {
+        "ativos": 34,
+        "historico": 846
+      },
+      "biblioteca": {
+        "ativos": 34,
+        "historico": 846
+      },
+      "nota": "página achada pelo censo do grupo norte (a busca pelo domínio devolve ruído); EUR, criativos \"Gratis Aktion\"; consulta pelo identificador da página em 06/10/2026"
+    }
+  ],
+  "resultado": {
+    "avaliado_em": "2026-10-06",
+    "aprovado": true,
+    "problemas": [],
+    "avisos": [],
+    "lojas": [
+      {
+        "loja": "oaklume",
+        "dominio": "oaklumehome.com",
+        "metodo": "dominio",
+        "reportado_ativos": 5,
+        "biblioteca_ativos": 5,
+        "biblioteca_historico": 5,
+        "divergencia_pct": 0,
+        "ok": true
+      },
+      {
+        "loja": "lightsstockholm",
+        "dominio": "lightsstockholm.com",
+        "metodo": "dominio",
+        "reportado_ativos": 317,
+        "biblioteca_ativos": 317,
+        "biblioteca_historico": 11679,
+        "divergencia_pct": 0,
+        "ok": true
+      },
+      {
+        "loja": "lightscordless",
+        "dominio": "lightscordless.com",
+        "metodo": "dominio",
+        "reportado_ativos": 17,
+        "biblioteca_ativos": 17,
+        "biblioteca_historico": 65,
+        "divergencia_pct": 0,
+        "ok": true
+      },
+      {
+        "loja": "vykker",
+        "dominio": "vykker.com",
+        "metodo": "dominio",
+        "reportado_ativos": 86,
+        "biblioteca_ativos": 86,
+        "biblioteca_historico": 1695,
+        "divergencia_pct": 0,
+        "ok": true
+      },
+      {
+        "loja": "pridola",
+        "dominio": "pridola.com",
+        "metodo": "dominio",
+        "reportado_ativos": 0,
+        "biblioteca_ativos": 0,
+        "biblioteca_historico": 30,
+        "divergencia_pct": 0,
+        "ok": true
+      },
+      {
+        "loja": "luceko",
+        "dominio": "luceko.com",
+        "metodo": "dominio",
+        "reportado_ativos": 72,
+        "biblioteca_ativos": 72,
+        "biblioteca_historico": 1820,
+        "divergencia_pct": 0,
+        "ok": true
+      },
+      {
+        "loja": "taplight",
+        "dominio": "tap-light.de",
+        "metodo": "dominio",
+        "reportado_ativos": 34,
+        "biblioteca_ativos": 34,
+        "biblioteca_historico": 846,
+        "divergencia_pct": 0,
+        "ok": true
+      }
+    ]
+  }
+}

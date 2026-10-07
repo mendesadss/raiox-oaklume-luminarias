@@ -1,0 +1,142 @@
+{
+  "product_handle": "oaklume-cordless-lantern",
+  "competitor": "luceko.com",
+  "competitor_product_title": "CRYSTAL LANTERN TABLE LAMP",
+  "competitor_page": "https://luceko.com/products/crystal-lantern-table-lamp",
+  "competitor_json": "https://luceko.com/products/crystal-lantern-table-lamp.js",
+  "real_carousel_count": 11,
+  "downloaded_carousel_count": 8,
+  "amostrado": true,
+  "files": [
+    {
+      "position": 1,
+      "original_index_no_carrossel_real": 1,
+      "file": "carrossel-concorrente/referencia-01.png",
+      "source_image_url": "https://cdn.shopify.com/s/files/1/0753/2478/4879/files/hf_20260713_121736_fb97b829-091d-40ce-9067-e3144e45719c.png?v=1783946389",
+      "alt": null,
+      "bytes": 3800293
+    },
+    {
+      "position": 2,
+      "original_index_no_carrossel_real": 2,
+      "file": "carrossel-concorrente/referencia-02.png",
+      "source_image_url": "https://cdn.shopify.com/s/files/1/0753/2478/4879/files/FreeEbookWIthEveryPurchase_42.png?v=1767158275",
+      "alt": null,
+      "bytes": 1108765
+    },
+    {
+      "position": 3,
+      "original_index_no_carrossel_real": 4,
+      "file": "carrossel-concorrente/referencia-03.webp",
+      "source_image_url": "https://cdn.shopify.com/s/files/1/0753/2478/4879/files/Image_7_v1.webp?v=1767158275",
+      "alt": null,
+      "bytes": 185831
+    },
+    {
+      "position": 4,
+      "original_index_no_carrossel_real": 5,
+      "file": "carrossel-concorrente/referencia-04.png",
+      "source_image_url": "https://cdn.shopify.com/s/files/1/0753/2478/4879/files/FreeEbookWIthEveryPurchase_54.png?v=1767158275",
+      "alt": null,
+      "bytes": 1550476
+    },
+    {
+      "position": 5,
+      "original_index_no_carrossel_real": 7,
+      "file": "carrossel-concorrente/referencia-05.png",
+      "source_image_url": "https://cdn.shopify.com/s/files/1/0753/2478/4879/files/FreeEbookWIthEveryPurchase_50.png?v=1767158275",
+      "alt": null,
+      "bytes": 523519
+    },
+    {
+      "position": 6,
+      "original_index_no_carrossel_real": 8,
+      "file": "carrossel-concorrente/referencia-06.png",
+      "source_image_url": "https://cdn.shopify.com/s/files/1/0753/2478/4879/files/hf_20260713_122155_91ae0815-e9fb-4470-bba2-a5ebfa1d6b82.png?v=1783946389",
+      "alt": null,
+      "bytes": 4255893
+    },
+    {
+      "position": 7,
+      "original_index_no_carrossel_real": 10,
+      "file": "carrossel-concorrente/referencia-07.png",
+      "source_image_url": "https://cdn.shopify.com/s/files/1/0753/2478/4879/files/hf_20260713_122220_502698c5-c627-4cf5-933b-c739369bcd86.png?v=1783946390",
+      "alt": null,
+      "bytes": 4132869
+    },
+    {
+      "position": 8,
+      "original_index_no_carrossel_real": 11,
+      "file": "carrossel-concorrente/referencia-08.webp",
+      "source_image_url": "https://cdn.shopify.com/s/files/1/0753/2478/4879/files/Image_11_silver_2.webp?v=1767158275",
+      "alt": null,
+      "bytes": 153251
+    }
+  ],
+  "references": [
+    {
+      "position": 1,
+      "type": "Competitor carousel image 1 of 8",
+      "description": "Competitor carousel image 1 of 8, from the luceko.com PDP.",
+      "reference_file": "Referencia de imagens - cena e prompt/oaklume-cordless-lantern/carrossel-concorrente/referencia-01.png",
+      "source_image_url": "https://cdn.shopify.com/s/files/1/0753/2478/4879/files/hf_20260713_121736_fb97b829-091d-40ce-9067-e3144e45719c.png?v=1783946389",
+      "prompt": "Create one premium e-commerce PDP image for Oaklume. This is image 1 of 8 in the Oaklume Cordless Lantern carousel (scene: \"Competitor carousel image 1 of 8\").\n\nREFERENCE HIERARCHY\n1. Use the attached competitor scene reference only for composition, camera position, crop, visual rhythm, lighting logic, body pose and product-to-frame ratio.\n2. Use the separately attached Oaklume Cordless Lantern Product Master photographs as the sole authority for the product itself.\n3. If the two references conflict, the Product Master always wins for every physical product detail.\n\nART DIRECTION\nReproduce the composition, camera framing, crop, lighting direction and mood of the attached competitor reference image (scene: \"Competitor carousel image 1 of 8\", from luceko.com). Build a premium, confident visual language for Oaklume. The image should feel refined and intentional, never juvenile, overly technical or generic-dropship. Use the Oaklume palette naturally: #2F3A2E as the primary brand color, #F7F3EC as a clean neutral background, #4F6B45 as a controlled accent (CTAs, highlights), #C9873A only as a small pop of color (never dominating the frame).\n\nPRODUCT FIDELITY\nPreserve the exact Oaklume Cordless Lantern silhouette, materials, hardware, seams, colors and proportions shown in the separate Oaklume Cordless Lantern Product Master photographs. Show A cordless lantern for the shelf, the table or the garden, with warm light on a single charge.. Do not add, remove, enlarge or redesign any functional element. Do not invent pockets, closures, certifications, labels, textures, seams or accessories beyond what the Product Master shows. Maintain plausible scale, gravity, tension, material behavior and contact shadows.\n\nBRAND AND LEGAL CLEANUP\nRemove all competitor logos, trademarks, distinctive competitor prints, patches, watermarks and readable brand text from the reference. Do not imitate proprietary artwork, mascots or packaging design. Apply only the approved Oaklume identity when a brand mark is genuinely visible and physically plausible. Do not place promotional copy, prices, reviews or unverified technical claims inside the image.\n\nQUALITY CONTROL\nPhotorealistic commercial photography, natural anatomy, correct fingers/hands when present, realistic material response, accurate reflections, clean color separation, high micro-detail at the focal plane, restrained sharpening, no CGI gloss, no surreal elements and no visual clutter. Deliver a single finished image at 2048 x 2048 px (or 1600 x 2000 px for on-body lifestyle scenes), sRGB, with safe crop margins for mobile and desktop."
+    },
+    {
+      "position": 2,
+      "type": "Competitor carousel image 2 of 8",
+      "description": "Competitor carousel image 2 of 8, from the luceko.com PDP.",
+      "reference_file": "Referencia de imagens - cena e prompt/oaklume-cordless-lantern/carrossel-concorrente/referencia-02.png",
+      "source_image_url": "https://cdn.shopify.com/s/files/1/0753/2478/4879/files/FreeEbookWIthEveryPurchase_42.png?v=1767158275",
+      "prompt": "Create one premium e-commerce PDP image for Oaklume. This is image 2 of 8 in the Oaklume Cordless Lantern carousel (scene: \"Competitor carousel image 2 of 8\").\n\nREFERENCE HIERARCHY\n1. Use the attached competitor scene reference only for composition, camera position, crop, visual rhythm, lighting logic, body pose and product-to-frame ratio.\n2. Use the separately attached Oaklume Cordless Lantern Product Master photographs as the sole authority for the product itself.\n3. If the two references conflict, the Product Master always wins for every physical product detail.\n\nART DIRECTION\nReproduce the composition, camera framing, crop, lighting direction and mood of the attached competitor reference image (scene: \"Competitor carousel image 2 of 8\", from luceko.com). Build a premium, confident visual language for Oaklume. The image should feel refined and intentional, never juvenile, overly technical or generic-dropship. Use the Oaklume palette naturally: #2F3A2E as the primary brand color, #F7F3EC as a clean neutral background, #4F6B45 as a controlled accent (CTAs, highlights), #C9873A only as a small pop of color (never dominating the frame).\n\nPRODUCT FIDELITY\nPreserve the exact Oaklume Cordless Lantern silhouette, materials, hardware, seams, colors and proportions shown in the separate Oaklume Cordless Lantern Product Master photographs. Show A cordless lantern for the shelf, the table or the garden, with warm light on a single charge.. Do not add, remove, enlarge or redesign any functional element. Do not invent pockets, closures, certifications, labels, textures, seams or accessories beyond what the Product Master shows. Maintain plausible scale, gravity, tension, material behavior and contact shadows.\n\nBRAND AND LEGAL CLEANUP\nRemove all competitor logos, trademarks, distinctive competitor prints, patches, watermarks and readable brand text from the reference. Do not imitate proprietary artwork, mascots or packaging design. Apply only the approved Oaklume identity when a brand mark is genuinely visible and physically plausible. Do not place promotional copy, prices, reviews or unverified technical claims inside the image.\n\nQUALITY CONTROL\nPhotorealistic commercial photography, natural anatomy, correct fingers/hands when present, realistic material response, accurate reflections, clean color separation, high micro-detail at the focal plane, restrained sharpening, no CGI gloss, no surreal elements and no visual clutter. Deliver a single finished image at 2048 x 2048 px (or 1600 x 2000 px for on-body lifestyle scenes), sRGB, with safe crop margins for mobile and desktop."
+    },
+    {
+      "position": 3,
+      "type": "Competitor carousel image 3 of 8",
+      "description": "Competitor carousel image 3 of 8, from the luceko.com PDP.",
+      "reference_file": "Referencia de imagens - cena e prompt/oaklume-cordless-lantern/carrossel-concorrente/referencia-03.webp",
+      "source_image_url": "https://cdn.shopify.com/s/files/1/0753/2478/4879/files/Image_7_v1.webp?v=1767158275",
+      "prompt": "Create one premium e-commerce PDP image for Oaklume. This is image 3 of 8 in the Oaklume Cordless Lantern carousel (scene: \"Competitor carousel image 3 of 8\").\n\nREFERENCE HIERARCHY\n1. Use the attached competitor scene reference only for composition, camera position, crop, visual rhythm, lighting logic, body pose and product-to-frame ratio.\n2. Use the separately attached Oaklume Cordless Lantern Product Master photographs as the sole authority for the product itself.\n3. If the two references conflict, the Product Master always wins for every physical product detail.\n\nART DIRECTION\nReproduce the composition, camera framing, crop, lighting direction and mood of the attached competitor reference image (scene: \"Competitor carousel image 3 of 8\", from luceko.com). Build a premium, confident visual language for Oaklume. The image should feel refined and intentional, never juvenile, overly technical or generic-dropship. Use the Oaklume palette naturally: #2F3A2E as the primary brand color, #F7F3EC as a clean neutral background, #4F6B45 as a controlled accent (CTAs, highlights), #C9873A only as a small pop of color (never dominating the frame).\n\nPRODUCT FIDELITY\nPreserve the exact Oaklume Cordless Lantern silhouette, materials, hardware, seams, colors and proportions shown in the separate Oaklume Cordless Lantern Product Master photographs. Show A cordless lantern for the shelf, the table or the garden, with warm light on a single charge.. Do not add, remove, enlarge or redesign any functional element. Do not invent pockets, closures, certifications, labels, textures, seams or accessories beyond what the Product Master shows. Maintain plausible scale, gravity, tension, material behavior and contact shadows.\n\nBRAND AND LEGAL CLEANUP\nRemove all competitor logos, trademarks, distinctive competitor prints, patches, watermarks and readable brand text from the reference. Do not imitate proprietary artwork, mascots or packaging design. Apply only the approved Oaklume identity when a brand mark is genuinely visible and physically plausible. Do not place promotional copy, prices, reviews or unverified technical claims inside the image.\n\nQUALITY CONTROL\nPhotorealistic commercial photography, natural anatomy, correct fingers/hands when present, realistic material response, accurate reflections, clean color separation, high micro-detail at the focal plane, restrained sharpening, no CGI gloss, no surreal elements and no visual clutter. Deliver a single finished image at 2048 x 2048 px (or 1600 x 2000 px for on-body lifestyle scenes), sRGB, with safe crop margins for mobile and desktop."
+    },
+    {
+      "position": 4,
+      "type": "Competitor carousel image 4 of 8",
+      "description": "Competitor carousel image 4 of 8, from the luceko.com PDP.",
+      "reference_file": "Referencia de imagens - cena e prompt/oaklume-cordless-lantern/carrossel-concorrente/referencia-04.png",
+      "source_image_url": "https://cdn.shopify.com/s/files/1/0753/2478/4879/files/FreeEbookWIthEveryPurchase_54.png?v=1767158275",
+      "prompt": "Create one premium e-commerce PDP image for Oaklume. This is image 4 of 8 in the Oaklume Cordless Lantern carousel (scene: \"Competitor carousel image 4 of 8\").\n\nREFERENCE HIERARCHY\n1. Use the attached competitor scene reference only for composition, camera position, crop, visual rhythm, lighting logic, body pose and product-to-frame ratio.\n2. Use the separately attached Oaklume Cordless Lantern Product Master photographs as the sole authority for the product itself.\n3. If the two references conflict, the Product Master always wins for every physical product detail.\n\nART DIRECTION\nReproduce the composition, camera framing, crop, lighting direction and mood of the attached competitor reference image (scene: \"Competitor carousel image 4 of 8\", from luceko.com). Build a premium, confident visual language for Oaklume. The image should feel refined and intentional, never juvenile, overly technical or generic-dropship. Use the Oaklume palette naturally: #2F3A2E as the primary brand color, #F7F3EC as a clean neutral background, #4F6B45 as a controlled accent (CTAs, highlights), #C9873A only as a small pop of color (never dominating the frame).\n\nPRODUCT FIDELITY\nPreserve the exact Oaklume Cordless Lantern silhouette, materials, hardware, seams, colors and proportions shown in the separate Oaklume Cordless Lantern Product Master photographs. Show A cordless lantern for the shelf, the table or the garden, with warm light on a single charge.. Do not add, remove, enlarge or redesign any functional element. Do not invent pockets, closures, certifications, labels, textures, seams or accessories beyond what the Product Master shows. Maintain plausible scale, gravity, tension, material behavior and contact shadows.\n\nBRAND AND LEGAL CLEANUP\nRemove all competitor logos, trademarks, distinctive competitor prints, patches, watermarks and readable brand text from the reference. Do not imitate proprietary artwork, mascots or packaging design. Apply only the approved Oaklume identity when a brand mark is genuinely visible and physically plausible. Do not place promotional copy, prices, reviews or unverified technical claims inside the image.\n\nQUALITY CONTROL\nPhotorealistic commercial photography, natural anatomy, correct fingers/hands when present, realistic material response, accurate reflections, clean color separation, high micro-detail at the focal plane, restrained sharpening, no CGI gloss, no surreal elements and no visual clutter. Deliver a single finished image at 2048 x 2048 px (or 1600 x 2000 px for on-body lifestyle scenes), sRGB, with safe crop margins for mobile and desktop."
+    },
+    {
+      "position": 5,
+      "type": "Competitor carousel image 5 of 8",
+      "description": "Competitor carousel image 5 of 8, from the luceko.com PDP.",
+      "reference_file": "Referencia de imagens - cena e prompt/oaklume-cordless-lantern/carrossel-concorrente/referencia-05.png",
+      "source_image_url": "https://cdn.shopify.com/s/files/1/0753/2478/4879/files/FreeEbookWIthEveryPurchase_50.png?v=1767158275",
+      "prompt": "Create one premium e-commerce PDP image for Oaklume. This is image 5 of 8 in the Oaklume Cordless Lantern carousel (scene: \"Competitor carousel image 5 of 8\").\n\nREFERENCE HIERARCHY\n1. Use the attached competitor scene reference only for composition, camera position, crop, visual rhythm, lighting logic, body pose and product-to-frame ratio.\n2. Use the separately attached Oaklume Cordless Lantern Product Master photographs as the sole authority for the product itself.\n3. If the two references conflict, the Product Master always wins for every physical product detail.\n\nART DIRECTION\nReproduce the composition, camera framing, crop, lighting direction and mood of the attached competitor reference image (scene: \"Competitor carousel image 5 of 8\", from luceko.com). Build a premium, confident visual language for Oaklume. The image should feel refined and intentional, never juvenile, overly technical or generic-dropship. Use the Oaklume palette naturally: #2F3A2E as the primary brand color, #F7F3EC as a clean neutral background, #4F6B45 as a controlled accent (CTAs, highlights), #C9873A only as a small pop of color (never dominating the frame).\n\nPRODUCT FIDELITY\nPreserve the exact Oaklume Cordless Lantern silhouette, materials, hardware, seams, colors and proportions shown in the separate Oaklume Cordless Lantern Product Master photographs. Show A cordless lantern for the shelf, the table or the garden, with warm light on a single charge.. Do not add, remove, enlarge or redesign any functional element. Do not invent pockets, closures, certifications, labels, textures, seams or accessories beyond what the Product Master shows. Maintain plausible scale, gravity, tension, material behavior and contact shadows.\n\nBRAND AND LEGAL CLEANUP\nRemove all competitor logos, trademarks, distinctive competitor prints, patches, watermarks and readable brand text from the reference. Do not imitate proprietary artwork, mascots or packaging design. Apply only the approved Oaklume identity when a brand mark is genuinely visible and physically plausible. Do not place promotional copy, prices, reviews or unverified technical claims inside the image.\n\nQUALITY CONTROL\nPhotorealistic commercial photography, natural anatomy, correct fingers/hands when present, realistic material response, accurate reflections, clean color separation, high micro-detail at the focal plane, restrained sharpening, no CGI gloss, no surreal elements and no visual clutter. Deliver a single finished image at 2048 x 2048 px (or 1600 x 2000 px for on-body lifestyle scenes), sRGB, with safe crop margins for mobile and desktop."
+    },
+    {
+      "position": 6,
+      "type": "Competitor carousel image 6 of 8",
+      "description": "Competitor carousel image 6 of 8, from the luceko.com PDP.",
+      "reference_file": "Referencia de imagens - cena e prompt/oaklume-cordless-lantern/carrossel-concorrente/referencia-06.png",
+      "source_image_url": "https://cdn.shopify.com/s/files/1/0753/2478/4879/files/hf_20260713_122155_91ae0815-e9fb-4470-bba2-a5ebfa1d6b82.png?v=1783946389",
+      "prompt": "Create one premium e-commerce PDP image for Oaklume. This is image 6 of 8 in the Oaklume Cordless Lantern carousel (scene: \"Competitor carousel image 6 of 8\").\n\nREFERENCE HIERARCHY\n1. Use the attached competitor scene reference only for composition, camera position, crop, visual rhythm, lighting logic, body pose and product-to-frame ratio.\n2. Use the separately attached Oaklume Cordless Lantern Product Master photographs as the sole authority for the product itself.\n3. If the two references conflict, the Product Master always wins for every physical product detail.\n\nART DIRECTION\nReproduce the composition, camera framing, crop, lighting direction and mood of the attached competitor reference image (scene: \"Competitor carousel image 6 of 8\", from luceko.com). Build a premium, confident visual language for Oaklume. The image should feel refined and intentional, never juvenile, overly technical or generic-dropship. Use the Oaklume palette naturally: #2F3A2E as the primary brand color, #F7F3EC as a clean neutral background, #4F6B45 as a controlled accent (CTAs, highlights), #C9873A only as a small pop of color (never dominating the frame).\n\nPRODUCT FIDELITY\nPreserve the exact Oaklume Cordless Lantern silhouette, materials, hardware, seams, colors and proportions shown in the separate Oaklume Cordless Lantern Product Master photographs. Show A cordless lantern for the shelf, the table or the garden, with warm light on a single charge.. Do not add, remove, enlarge or redesign any functional element. Do not invent pockets, closures, certifications, labels, textures, seams or accessories beyond what the Product Master shows. Maintain plausible scale, gravity, tension, material behavior and contact shadows.\n\nBRAND AND LEGAL CLEANUP\nRemove all competitor logos, trademarks, distinctive competitor prints, patches, watermarks and readable brand text from the reference. Do not imitate proprietary artwork, mascots or packaging design. Apply only the approved Oaklume identity when a brand mark is genuinely visible and physically plausible. Do not place promotional copy, prices, reviews or unverified technical claims inside the image.\n\nQUALITY CONTROL\nPhotorealistic commercial photography, natural anatomy, correct fingers/hands when present, realistic material response, accurate reflections, clean color separation, high micro-detail at the focal plane, restrained sharpening, no CGI gloss, no surreal elements and no visual clutter. Deliver a single finished image at 2048 x 2048 px (or 1600 x 2000 px for on-body lifestyle scenes), sRGB, with safe crop margins for mobile and desktop."
+    },
+    {
+      "position": 7,
+      "type": "Competitor carousel image 7 of 8",
+      "description": "Competitor carousel image 7 of 8, from the luceko.com PDP.",
+      "reference_file": "Referencia de imagens - cena e prompt/oaklume-cordless-lantern/carrossel-concorrente/referencia-07.png",
+      "source_image_url": "https://cdn.shopify.com/s/files/1/0753/2478/4879/files/hf_20260713_122220_502698c5-c627-4cf5-933b-c739369bcd86.png?v=1783946390",
+      "prompt": "Create one premium e-commerce PDP image for Oaklume. This is image 7 of 8 in the Oaklume Cordless Lantern carousel (scene: \"Competitor carousel image 7 of 8\").\n\nREFERENCE HIERARCHY\n1. Use the attached competitor scene reference only for composition, camera position, crop, visual rhythm, lighting logic, body pose and product-to-frame ratio.\n2. Use the separately attached Oaklume Cordless Lantern Product Master photographs as the sole authority for the product itself.\n3. If the two references conflict, the Product Master always wins for every physical product detail.\n\nART DIRECTION\nReproduce the composition, camera framing, crop, lighting direction and mood of the attached competitor reference image (scene: \"Competitor carousel image 7 of 8\", from luceko.com). Build a premium, confident visual language for Oaklume. The image should feel refined and intentional, never juvenile, overly technical or generic-dropship. Use the Oaklume palette naturally: #2F3A2E as the primary brand color, #F7F3EC as a clean neutral background, #4F6B45 as a controlled accent (CTAs, highlights), #C9873A only as a small pop of color (never dominating the frame).\n\nPRODUCT FIDELITY\nPreserve the exact Oaklume Cordless Lantern silhouette, materials, hardware, seams, colors and proportions shown in the separate Oaklume Cordless Lantern Product Master photographs. Show A cordless lantern for the shelf, the table or the garden, with warm light on a single charge.. Do not add, remove, enlarge or redesign any functional element. Do not invent pockets, closures, certifications, labels, textures, seams or accessories beyond what the Product Master shows. Maintain plausible scale, gravity, tension, material behavior and contact shadows.\n\nBRAND AND LEGAL CLEANUP\nRemove all competitor logos, trademarks, distinctive competitor prints, patches, watermarks and readable brand text from the reference. Do not imitate proprietary artwork, mascots or packaging design. Apply only the approved Oaklume identity when a brand mark is genuinely visible and physically plausible. Do not place promotional copy, prices, reviews or unverified technical claims inside the image.\n\nQUALITY CONTROL\nPhotorealistic commercial photography, natural anatomy, correct fingers/hands when present, realistic material response, accurate reflections, clean color separation, high micro-detail at the focal plane, restrained sharpening, no CGI gloss, no surreal elements and no visual clutter. Deliver a single finished image at 2048 x 2048 px (or 1600 x 2000 px for on-body lifestyle scenes), sRGB, with safe crop margins for mobile and desktop."
+    },
+    {
+      "position": 8,
+      "type": "Competitor carousel image 8 of 8",
+      "description": "Competitor carousel image 8 of 8, from the luceko.com PDP.",
+      "reference_file": "Referencia de imagens - cena e prompt/oaklume-cordless-lantern/carrossel-concorrente/referencia-08.webp",
+      "source_image_url": "https://cdn.shopify.com/s/files/1/0753/2478/4879/files/Image_11_silver_2.webp?v=1767158275",
+      "prompt": "Create one premium e-commerce PDP image for Oaklume. This is image 8 of 8 in the Oaklume Cordless Lantern carousel (scene: \"Competitor carousel image 8 of 8\").\n\nREFERENCE HIERARCHY\n1. Use the attached competitor scene reference only for composition, camera position, crop, visual rhythm, lighting logic, body pose and product-to-frame ratio.\n2. Use the separately attached Oaklume Cordless Lantern Product Master photographs as the sole authority for the product itself.\n3. If the two references conflict, the Product Master always wins for every physical product detail.\n\nART DIRECTION\nReproduce the composition, camera framing, crop, lighting direction and mood of the attached competitor reference image (scene: \"Competitor carousel image 8 of 8\", from luceko.com). Build a premium, confident visual language for Oaklume. The image should feel refined and intentional, never juvenile, overly technical or generic-dropship. Use the Oaklume palette naturally: #2F3A2E as the primary brand color, #F7F3EC as a clean neutral background, #4F6B45 as a controlled accent (CTAs, highlights), #C9873A only as a small pop of color (never dominating the frame).\n\nPRODUCT FIDELITY\nPreserve the exact Oaklume Cordless Lantern silhouette, materials, hardware, seams, colors and proportions shown in the separate Oaklume Cordless Lantern Product Master photographs. Show A cordless lantern for the shelf, the table or the garden, with warm light on a single charge.. Do not add, remove, enlarge or redesign any functional element. Do not invent pockets, closures, certifications, labels, textures, seams or accessories beyond what the Product Master shows. Maintain plausible scale, gravity, tension, material behavior and contact shadows.\n\nBRAND AND LEGAL CLEANUP\nRemove all competitor logos, trademarks, distinctive competitor prints, patches, watermarks and readable brand text from the reference. Do not imitate proprietary artwork, mascots or packaging design. Apply only the approved Oaklume identity when a brand mark is genuinely visible and physically plausible. Do not place promotional copy, prices, reviews or unverified technical claims inside the image.\n\nQUALITY CONTROL\nPhotorealistic commercial photography, natural anatomy, correct fingers/hands when present, realistic material response, accurate reflections, clean color separation, high micro-detail at the focal plane, restrained sharpening, no CGI gloss, no surreal elements and no visual clutter. Deliver a single finished image at 2048 x 2048 px (or 1600 x 2000 px for on-body lifestyle scenes), sRGB, with safe crop margins for mobile and desktop."
+    }
+  ]
+}

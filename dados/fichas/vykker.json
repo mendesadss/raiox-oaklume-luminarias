@@ -1,0 +1,149 @@
+{
+  "slug": "vykker",
+  "nome": "vykker.com",
+  "dominios": [
+    "vykker.com"
+  ],
+  "pais": "US",
+  "trafego": {
+    "medido": true,
+    "rotulo": "último mês do SimilarWeb",
+    "busca_paga_pct": {
+      "vykker.com": 8.3
+    },
+    "busca_organica_pct": {
+      "vykker.com": 33.9
+    },
+    "canal_1": "busca paga 8,3%, busca orgânica 33,9%, acesso direto 22,5%, rede social paga 4,5%",
+    "ressalva": "Estimativa do SimilarWeb (dado de extensão). Meses anteriores: 4.263 e 3.086. Não é receita.",
+    "visitas_como_escrito": {
+      "vykker.com": "3K (último mês)"
+    },
+    "variacao_ultimo_mes_pct": 2.2
+  },
+  "catalogo": {
+    "produtos_vistos": 18,
+    "preco_mediana": {
+      "USD": 49
+    },
+    "ritmo_de_lancamento": "Primeiro produto cadastrado em 2025-12-31 (The EMBAR Lamp), o mais novo em 2026-09-10."
+  },
+  "loja": {
+    "plataforma": "Shopify (o catálogo público respondeu)",
+    "meios_de_pagamento": [
+      "Shopify Payments e Shop Pay (vistos no código)"
+    ],
+    "frete": "Frete grátis nos EUA; manuseio 4 a 5 dias úteis + trânsito 4 a 7 = 8 a 12 dias úteis",
+    "garantia_e_troca": "Defeito ou dano reportado em até 5 dias após a entrega, com foto ou vídeo",
+    "prazo_de_entrega_declarado": "Frete grátis nos EUA; manuseio 4 a 5 dias úteis + trânsito 4 a 7 = 8 a 12 dias úteis",
+    "apps": "klaviyo, loox, reconvert, shopify_payments_shoppay",
+    "pixels": "gads AW-18032060252"
+  },
+  "midia_paga": {
+    "angulos": [
+      "Anúncios ativos pela URL na Biblioteca da Meta (todos os países, 2026-10-06): 86 ativos e 1695 no histórico das páginas da loja. anúncios do domínio vêm da página The Card & Tile Club (não Vykker): criativos \"No Outlet Needed\", \"Shadow-Free Puzzle Light\", USD; piso é da amostra de 50 de 86 (mais antigo visto no ALL: 2026-09-15); busca pela raiz \"vykker\" devolve o mesmo"
+    ],
+    "ativos_pela_url": 86,
+    "historico_pela_url": 1695,
+    "sobrevivencia_pct": 5.1,
+    "page_ids": [
+      "989624914226494"
+    ]
+  },
+  "top10": [
+    {
+      "handle": "embargame",
+      "titulo": "The EMBAR Game Lamp",
+      "preco": 49,
+      "url": "https://vykker.com/products/embargame"
+    },
+    {
+      "handle": "embarpuzzle2",
+      "titulo": "EMBAR Cordless Puzzle Light",
+      "preco": 49,
+      "url": "https://vykker.com/products/embarpuzzle2"
+    },
+    {
+      "handle": "embarpuzzle",
+      "titulo": "The EMBAR Puzzle Lamp",
+      "preco": 49,
+      "url": "https://vykker.com/products/embarpuzzle"
+    },
+    {
+      "handle": "embarlamplist",
+      "titulo": "The EMBAR Lamp.",
+      "preco": 49,
+      "url": "https://vykker.com/products/embarlamplist"
+    },
+    {
+      "handle": "embarlamplist2",
+      "titulo": "The Embar Lamp..",
+      "preco": 49,
+      "url": "https://vykker.com/products/embarlamplist2"
+    },
+    {
+      "handle": "embar-game-lamp",
+      "titulo": "Add Another EMBAR Lamp",
+      "preco": 45,
+      "url": "https://vykker.com/products/embar-game-lamp"
+    },
+    {
+      "handle": "gamenight",
+      "titulo": "Embar Game Night Lamp",
+      "preco": 49,
+      "url": "https://vykker.com/products/gamenight"
+    },
+    {
+      "handle": "embar",
+      "titulo": "The EMBAR Lamp",
+      "preco": 49,
+      "url": "https://vykker.com/products/embar"
+    },
+    {
+      "handle": "embarbogo",
+      "titulo": "BOGO.- EMBAR Cordless Puzzle Light",
+      "preco": 50,
+      "url": "https://vykker.com/products/embarbogo"
+    },
+    {
+      "handle": "a-stroll-through-montmartre-1-000-piece-puzzle",
+      "titulo": "A Stroll Through Montmartre - 1,000 Piece Puzzle",
+      "preco": 25,
+      "url": "https://vykker.com/products/a-stroll-through-montmartre-1-000-piece-puzzle"
+    }
+  ],
+  "produto_campeao": {
+    "titulo": "The EMBAR Game Lamp",
+    "preco": 49,
+    "moeda": "USD",
+    "url": "https://vykker.com/products/embargame",
+    "por_que_e_o_campeao": "Primeiro produto da ordem \"mais vendido\" da própria loja, lida em 06/10/2026 (não traz quantidade vendida)."
+  },
+  "dados_nao_obtidos": [
+    {
+      "dado": "Venda e faturamento",
+      "motivo": "ninguém publica venda de loja privada",
+      "o_que_foi_tentado": "visitas por mês do SimilarWeb e preço do catálogo"
+    }
+  ],
+  "pais_origem_provavel": "Estados Unidos",
+  "o_que_vende": "18 itens de um produto só: EMBAR, luz sem fio para quebra-cabeça, artesanato e jogo de tabuleiro, US$ 25 a 50.",
+  "classificacao": {
+    "modelo": "dropship_puro",
+    "veredito": "MODELAR",
+    "nivel_de_execucao": "iniciante",
+    "por_que": "Concorrente direto da luminária de leitura da Oaklume: 86 anúncios ativos e 1.695 no histórico pela página \"The Card & Tile Club\", presente no Reino Unido, Canadá, Austrália, Irlanda e Europa. Um produto, vários ângulos (quebra-cabeça, artesanato, jogo) e \"compre 1, leve 2\".",
+    "o_que_o_veredito_cobre": "Um produto vendido por ângulo de uso (puzzle, craft, game) com página de clube como anunciante. Não cobre o prazo de 8 a 12 dias úteis.",
+    "defensabilidade": "ARBITRAGEM: produto único, sem marca de fábrica.",
+    "scorecard": {}
+  },
+  "o_que_copiar": [
+    "Uma página de produto por ângulo de uso (puzzle, craft, game)",
+    "Anunciante com nome de clube de hobby",
+    "Oferta \"compre 1, leve 2\""
+  ],
+  "o_que_nao_copiar": [
+    "Devolução só para defeito em até 5 dias",
+    "Prazo de 8 a 12 dias úteis sem dizer na página do produto"
+  ]
+}

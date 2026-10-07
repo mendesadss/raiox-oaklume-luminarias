@@ -1,0 +1,76 @@
+{
+  "product_handle": "oaklume-cordless-lantern",
+  "competitor": "luceko.com",
+  "competitor_product_title": "CRYSTAL LANTERN TABLE LAMP",
+  "competitor_page": "https://luceko.com/products/crystal-lantern-table-lamp",
+  "competitor_json": "https://luceko.com/products/crystal-lantern-table-lamp.js",
+  "real_carousel_count": 11,
+  "downloaded_carousel_count": 8,
+  "amostrado": true,
+  "files": [
+    {
+      "position": 1,
+      "original_index_no_carrossel_real": 1,
+      "file": "carrossel-concorrente/referencia-01.png",
+      "source_image_url": "https://cdn.shopify.com/s/files/1/0753/2478/4879/files/hf_20260713_121736_fb97b829-091d-40ce-9067-e3144e45719c.png?v=1783946389",
+      "alt": null,
+      "bytes": 3800293
+    },
+    {
+      "position": 2,
+      "original_index_no_carrossel_real": 2,
+      "file": "carrossel-concorrente/referencia-02.png",
+      "source_image_url": "https://cdn.shopify.com/s/files/1/0753/2478/4879/files/FreeEbookWIthEveryPurchase_42.png?v=1767158275",
+      "alt": null,
+      "bytes": 1108765
+    },
+    {
+      "position": 3,
+      "original_index_no_carrossel_real": 4,
+      "file": "carrossel-concorrente/referencia-03.webp",
+      "source_image_url": "https://cdn.shopify.com/s/files/1/0753/2478/4879/files/Image_7_v1.webp?v=1767158275",
+      "alt": null,
+      "bytes": 185831
+    },
+    {
+      "position": 4,
+      "original_index_no_carrossel_real": 5,
+      "file": "carrossel-concorrente/referencia-04.png",
+      "source_image_url": "https://cdn.shopify.com/s/files/1/0753/2478/4879/files/FreeEbookWIthEveryPurchase_54.png?v=1767158275",
+      "alt": null,
+      "bytes": 1550476
+    },
+    {
+      "position": 5,
+      "original_index_no_carrossel_real": 7,
+      "file": "carrossel-concorrente/referencia-05.png",
+      "source_image_url": "https://cdn.shopify.com/s/files/1/0753/2478/4879/files/FreeEbookWIthEveryPurchase_50.png?v=1767158275",
+      "alt": null,
+      "bytes": 523519
+    },
+    {
+      "position": 6,
+      "original_index_no_carrossel_real": 8,
+      "file": "carrossel-concorrente/referencia-06.png",
+      "source_image_url": "https://cdn.shopify.com/s/files/1/0753/2478/4879/files/hf_20260713_122155_91ae0815-e9fb-4470-bba2-a5ebfa1d6b82.png?v=1783946389",
+      "alt": null,
+      "bytes": 4255893
+    },
+    {
+      "position": 7,
+      "original_index_no_carrossel_real": 10,
+      "file": "carrossel-concorrente/referencia-07.png",
+      "source_image_url": "https://cdn.shopify.com/s/files/1/0753/2478/4879/files/hf_20260713_122220_502698c5-c627-4cf5-933b-c739369bcd86.png?v=1783946390",
+      "alt": null,
+      "bytes": 4132869
+    },
+    {
+      "position": 8,
+      "original_index_no_carrossel_real": 11,
+      "file": "carrossel-concorrente/referencia-08.webp",
+      "source_image_url": "https://cdn.shopify.com/s/files/1/0753/2478/4879/files/Image_11_silver_2.webp?v=1767158275",
+      "alt": null,
+      "bytes": 153251
+    }
+  ]
+}

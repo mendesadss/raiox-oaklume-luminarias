@@ -1,0 +1,122 @@
+{
+  "slug": "oaklume",
+  "nome": "oaklumehome.com",
+  "dominios": [
+    "oaklumehome.com"
+  ],
+  "pais": "nao_verificado",
+  "trafego": {
+    "medido": false,
+    "motivo_leitor": "o SimilarWeb não tem dado deste domínio (tráfego abaixo do limiar da fonte)",
+    "rotulo": "não medido"
+  },
+  "catalogo": {
+    "produtos_vistos": 7,
+    "preco_mediana": {
+      "USD": 57
+    },
+    "ritmo_de_lancamento": "Primeiro produto cadastrado em 2026-09-21 (Oaklume Dome Cordless Table Lamp), o mais novo em 2026-09-30."
+  },
+  "loja": {
+    "plataforma": "Shopify (o catálogo público respondeu)",
+    "meios_de_pagamento": [
+      "Shopify Payments e Shop Pay (vistos no código)"
+    ],
+    "frete": "Frete grátis acima de US$ 60; prazo de entrega não declarado (páginas de política em outro caminho, /policies deu 404)",
+    "garantia_e_troca": "30 noites de teste em casa (garantia de satisfação)",
+    "prazo_de_entrega_declarado": "Frete grátis acima de US$ 60; prazo de entrega não declarado (páginas de política em outro caminho, /policies deu 404)",
+    "apps": "klaviyo, judge.me, shopify_payments_shoppay",
+    "pixels": "nenhum visto no código da página"
+  },
+  "midia_paga": {
+    "angulos": [
+      "Anúncios ativos pela URL na Biblioteca da Meta (todos os países, 2026-10-06): 5 ativos e 5 no histórico das páginas da loja. 5 de 5 da página Oaklume, moeda BRL (conta do Mendes); todos iniciados em 05/10/2026"
+    ],
+    "ativos_pela_url": 5,
+    "historico_pela_url": 5,
+    "sobrevivencia_pct": 100,
+    "page_ids": [
+      "1322830264253089"
+    ]
+  },
+  "top10": [
+    {
+      "handle": "oaklume-dome-cordless-table-lamp",
+      "titulo": "Oaklume Dome Cordless Table Lamp",
+      "preco": 79,
+      "url": "https://oaklumehome.com/products/oaklume-dome-cordless-table-lamp"
+    },
+    {
+      "handle": "oaklume-cordless-lantern",
+      "titulo": "Oaklume Cordless Lantern",
+      "preco": 89,
+      "url": "https://oaklumehome.com/products/oaklume-cordless-lantern"
+    },
+    {
+      "handle": "oaklume-peel-and-stick-wall-light",
+      "titulo": "Oaklume Peel-and-Stick Wall Light",
+      "preco": 57,
+      "url": "https://oaklumehome.com/products/oaklume-peel-and-stick-wall-light"
+    },
+    {
+      "handle": "oaklume-task-light",
+      "titulo": "Oaklume Task Light for Puzzles & Reading",
+      "preco": 49,
+      "url": "https://oaklumehome.com/products/oaklume-task-light"
+    },
+    {
+      "handle": "oaklume-bistro-cordless-table-lamp",
+      "titulo": "Oaklume Bistro Cordless Table Lamp",
+      "preco": 69,
+      "url": "https://oaklumehome.com/products/oaklume-bistro-cordless-table-lamp"
+    },
+    {
+      "handle": "oaklume-usb-c-charging-cable",
+      "titulo": "Oaklume Extra USB-C Charging Cable",
+      "preco": 9,
+      "url": "https://oaklumehome.com/products/oaklume-usb-c-charging-cable"
+    }
+  ],
+  "produto_campeao": {
+    "titulo": "Oaklume Dome Cordless Table Lamp",
+    "preco": 79,
+    "moeda": "USD",
+    "url": "https://oaklumehome.com/products/oaklume-dome-cordless-table-lamp",
+    "por_que_e_o_campeao": "Primeiro produto da ordem \"mais vendido\" da própria loja, lida em 06/10/2026 (não traz quantidade vendida)."
+  },
+  "dados_nao_obtidos": [
+    {
+      "dado": "Venda e faturamento",
+      "motivo": "ninguém publica venda de loja privada",
+      "o_que_foi_tentado": "visitas por mês do SimilarWeb e preço do catálogo"
+    }
+  ],
+  "pais_origem_provavel": "Loja analisada: mira os Estados Unidos (preço em US$), operada do Brasil (os 5 anúncios ativos da Meta estão em reais)",
+  "o_que_vende": "5 luminárias sem fio recarregáveis de US$ 49 a 89, mais cabo USB-C extra (US$ 9) e proteção de pedido (US$ 0,25).",
+  "classificacao": {
+    "modelo": "dropship_de_marca",
+    "veredito": "OBSERVAR",
+    "nivel_de_execucao": "iniciante",
+    "por_que": "É a loja que a pesquisa avalia, não um molde. Catálogo enxuto e bem escolhido (os 5 produtos têm procura medida), mas a loja tem 15 dias, tráfego abaixo do limiar do SimilarWeb e problemas que travam o Google e pedem conserto antes de escalar (lista abaixo).",
+    "o_que_o_veredito_cobre": "O catálogo de 5 produtos e o preço de US$ 49 a 89 servem de base para o Reino Unido. Antes de anunciar lá, corrigir os pontos da seção de problemas.",
+    "defensabilidade": "MARCA PRÓPRIA EM FORMAÇÃO: nome próprio em todos os produtos, sem marca de terceiros nos títulos.",
+    "scorecard": {}
+  },
+  "problemas": [
+    "Tema Impact sem o registro da loja oficial de temas da Shopify (o código da página não traz o número do tema da loja oficial): risco de bloqueio no Shopify Payments, como já visto em outra loja de mentorado",
+    "Políticas de frete e devolução sem página pública no caminho padrão (/policies/shipping-policy e /policies/refund-policy deram 404): o Merchant reprova loja sem política de frete e devolução visível",
+    "Nenhuma tag do Google (GA4 ou Google Ads) nem pixel da Meta no código da home: sem medir conversão, o Performance Max e o Meta otimizam às cegas (o pixel pode estar no app da Shopify, que não aparece no código; conferir no painel)",
+    "Proteção de pedido vendida como produto de US$ 0,25: preço simbólico vira item do feed e é risco no Merchant",
+    "Só dólar americano: para o Reino Unido, ativar o mercado britânico em libra, com frete e prazo próprios",
+    "5 anúncios ativos na Meta desde 05/10/2026, em reais, ainda sem dado de resultado"
+  ],
+  "o_que_copiar": [
+    "Nome próprio em todos os produtos (Oaklume Dome, Oaklume Bistro)",
+    "Teste de 30 noites em casa como garantia",
+    "Cabo USB-C extra como complemento barato"
+  ],
+  "o_que_nao_copiar": [
+    "Proteção de pedido como produto no catálogo",
+    "Loja sem política de frete e devolução pública"
+  ]
+}

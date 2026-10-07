@@ -1,0 +1,76 @@
+{
+  "custo_por_clique": {
+    "status": "faixa de lance de topo de página de rechargeable wall light no Planejador do Reino Unido (não é custo por clique pago), convertida de reais pelo câmbio do BCE; o alto é a mediana do lance de topo mais alto dos 13 termos",
+    "fonte": "Planejador de palavras-chave, conta Mendes Youtube, 06/10/2026",
+    "por_pais": {
+      "GB": {
+        "medio": 0.34,
+        "minimo": 0.16,
+        "maximo": 0.51,
+        "periodo": "faixa de lance lida em 06/10/2026"
+      }
+    }
+  },
+  "cenarios_reino_unido": {
+    "premissas": "preço = preço atual da Oaklume em dólar convertido a £ 1 = US$ 1,3276 (BCE de 06/10/2026), arredondado para terminar em ,90; custo do fornecedor = o maior entre os países com 5 ou mais anúncios no AliExpress (Reino Unido, EUA, Alemanha, Países Baixos e França convertidos); abaixo de £ 10 soma £ 2,99 de frete; taxa de pagamento de 4,5% do preço; clique: faixa de lance de topo de página do Planejador do Reino Unido convertida de reais (R$ 1,07 a 3,37 em rechargeable wall light); não é o custo por clique pago nem o da Meta; aceite da escada não medido (10% e 5%); pedido médio projetado de £ 49,18; meta de US$ 3 a 5 mil convertida pelo BCE",
+    "tabela": [
+      {
+        "cenario": "clique baixo (£ 0,16)",
+        "valor_do_pedido": 42.9,
+        "custo_faixa": [
+          9.52,
+          19.04
+        ],
+        "cpa_de_empate_faixa": [
+          21.93,
+          31.45
+        ],
+        "cpa_de_empate_central": 31.45,
+        "conversao_para_empatar_pct": 0.51
+      },
+      {
+        "cenario": "clique medio (£ 0,34)",
+        "valor_do_pedido": 42.9,
+        "custo_faixa": [
+          9.52,
+          19.04
+        ],
+        "cpa_de_empate_faixa": [
+          21.93,
+          31.45
+        ],
+        "cpa_de_empate_central": 31.45,
+        "conversao_para_empatar_pct": 1.08
+      },
+      {
+        "cenario": "clique alto (£ 0,51)",
+        "valor_do_pedido": 42.9,
+        "custo_faixa": [
+          9.52,
+          19.04
+        ],
+        "cpa_de_empate_faixa": [
+          21.93,
+          31.45
+        ],
+        "cpa_de_empate_central": 31.45,
+        "conversao_para_empatar_pct": 1.62
+      }
+    ]
+  },
+  "precos_locais": {
+    "reino_unido": {
+      "faixa": [
+        36.9,
+        66.9
+      ],
+      "rotulo": "preço dos 5 produtos"
+    }
+  },
+  "custo_do_teste": {
+    "por_pais": {
+      "GB": null
+    },
+    "leitura": "verba do teste não informada: decisão sua"
+  }
+}

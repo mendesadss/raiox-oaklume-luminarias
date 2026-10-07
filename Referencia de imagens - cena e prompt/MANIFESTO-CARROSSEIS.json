@@ -1,0 +1,386 @@
+{
+  "generated_at": "2026-10-06T20:24:28.592Z",
+  "rule": "Carrossel completo da PDP do concorrente campeão escolhido por produto. Se o carrossel real tiver mais que o teto (8, ou o \"cap\" declarado no build.json pra esse produto), a amostra é espaçada (primeiro + último inclusos), declarada em amostrado/total_real.",
+  "products": [
+    {
+      "product_handle": "oaklume-peel-and-stick-wall-light",
+      "competitor": "pridola.com",
+      "competitor_product_title": "WIRELESS WALL SCONCES (SET OF 2)",
+      "competitor_page": "https://pridola.com/products/wall-sconces",
+      "competitor_json": "https://pridola.com/products/wall-sconces.js",
+      "real_carousel_count": 57,
+      "downloaded_carousel_count": 8,
+      "amostrado": true,
+      "files": [
+        {
+          "position": 1,
+          "original_index_no_carrossel_real": 1,
+          "file": "carrossel-concorrente/referencia-01.png",
+          "source_image_url": "https://cdn.shopify.com/s/files/1/0797/7405/6790/files/V2Wallsconcesgold_3.png?v=1730974475",
+          "alt": null,
+          "bytes": 1218322
+        },
+        {
+          "position": 2,
+          "original_index_no_carrossel_real": 9,
+          "file": "carrossel-concorrente/referencia-02.png",
+          "source_image_url": "https://cdn.shopify.com/s/files/1/0797/7405/6790/files/Entry_Hall.png?v=1760599564",
+          "alt": null,
+          "bytes": 1833217
+        },
+        {
+          "position": 3,
+          "original_index_no_carrossel_real": 17,
+          "file": "carrossel-concorrente/referencia-03.png",
+          "source_image_url": "https://cdn.shopify.com/s/files/1/0797/7405/6790/files/Lamp_og_white_updv1.png?v=1770669491",
+          "alt": null,
+          "bytes": 3007944
+        },
+        {
+          "position": 4,
+          "original_index_no_carrossel_real": 25,
+          "file": "carrossel-concorrente/referencia-04.png",
+          "source_image_url": "https://cdn.shopify.com/s/files/1/0797/7405/6790/files/Cylindrical_sconces_gold_5efaf6d7-9542-4057-a357-603a648080c4.png?v=1788770615",
+          "alt": null,
+          "bytes": 1301669
+        },
+        {
+          "position": 5,
+          "original_index_no_carrossel_real": 33,
+          "file": "carrossel-concorrente/referencia-05.png",
+          "source_image_url": "https://cdn.shopify.com/s/files/1/0797/7405/6790/files/hf_20260825_062006_008239f4-fbbf-4b1d-97d1-7740c7e31587.png?v=1788770864",
+          "alt": null,
+          "bytes": 5548488
+        },
+        {
+          "position": 6,
+          "original_index_no_carrossel_real": 41,
+          "file": "carrossel-concorrente/referencia-06.png",
+          "source_image_url": "https://cdn.shopify.com/s/files/1/0797/7405/6790/files/Shade4black_9d33525e-7804-45e5-a6d8-2f8977340fe9.png?v=1788771261",
+          "alt": null,
+          "bytes": 1534401
+        },
+        {
+          "position": 7,
+          "original_index_no_carrossel_real": 49,
+          "file": "carrossel-concorrente/referencia-07.jpg",
+          "source_image_url": "https://cdn.shopify.com/s/files/1/0797/7405/6790/files/2.3_d12a99b7-760f-42ef-b2d0-ff97c90402b9.jpg?v=1788771552",
+          "alt": null,
+          "bytes": 950596
+        },
+        {
+          "position": 8,
+          "original_index_no_carrossel_real": 57,
+          "file": "carrossel-concorrente/referencia-08.png",
+          "source_image_url": "https://cdn.shopify.com/s/files/1/0797/7405/6790/files/Shade5silver2_f76f2106-9428-4b0f-929b-5b0bb31e3b0f.png?v=1788771802",
+          "alt": null,
+          "bytes": 1289850
+        }
+      ]
+    },
+    {
+      "product_handle": "oaklume-dome-cordless-table-lamp",
+      "competitor": "lightscordless.com",
+      "competitor_product_title": "Kendal™",
+      "competitor_page": "https://lightscordless.com/products/cordless-table-lamp",
+      "competitor_json": "https://lightscordless.com/products/cordless-table-lamp.js",
+      "real_carousel_count": 19,
+      "downloaded_carousel_count": 8,
+      "amostrado": true,
+      "files": [
+        {
+          "position": 1,
+          "original_index_no_carrossel_real": 1,
+          "file": "carrossel-concorrente/referencia-01.jpg",
+          "source_image_url": "https://cdn.shopify.com/s/files/1/0699/1678/6978/products/kendallightscordless-896703.jpg?v=1681615846",
+          "alt": "Kendal™ - Lightscordless",
+          "bytes": 133263
+        },
+        {
+          "position": 2,
+          "original_index_no_carrossel_real": 4,
+          "file": "carrossel-concorrente/referencia-02.jpg",
+          "source_image_url": "https://cdn.shopify.com/s/files/1/0699/1678/6978/products/kendallightscordless-120041.jpg?v=1681615846",
+          "alt": "Kendal™ - Lightscordless",
+          "bytes": 256928
+        },
+        {
+          "position": 3,
+          "original_index_no_carrossel_real": 6,
+          "file": "carrossel-concorrente/referencia-03.jpg",
+          "source_image_url": "https://cdn.shopify.com/s/files/1/0699/1678/6978/products/kendallightscordless-291558.jpg?v=1681615846",
+          "alt": "Kendal™ - Lightscordless",
+          "bytes": 101566
+        },
+        {
+          "position": 4,
+          "original_index_no_carrossel_real": 9,
+          "file": "carrossel-concorrente/referencia-04.jpg",
+          "source_image_url": "https://cdn.shopify.com/s/files/1/0699/1678/6978/products/kendallightscordless-924944.jpg?v=1681615846",
+          "alt": "Kendal™ - Lightscordless",
+          "bytes": 187001
+        },
+        {
+          "position": 5,
+          "original_index_no_carrossel_real": 11,
+          "file": "carrossel-concorrente/referencia-05.jpg",
+          "source_image_url": "https://cdn.shopify.com/s/files/1/0699/1678/6978/products/kendallightscordless-696685.jpg?v=1681615846",
+          "alt": "Kendal™ - Lightscordless",
+          "bytes": 101094
+        },
+        {
+          "position": 6,
+          "original_index_no_carrossel_real": 14,
+          "file": "carrossel-concorrente/referencia-06.jpg",
+          "source_image_url": "https://cdn.shopify.com/s/files/1/0699/1678/6978/products/O1CN01Bd2u2h27BftN9OrXO__2215530947759-0-cib.jpg?v=1681793650",
+          "alt": null,
+          "bytes": 78096
+        },
+        {
+          "position": 7,
+          "original_index_no_carrossel_real": 16,
+          "file": "carrossel-concorrente/referencia-07.png",
+          "source_image_url": "https://cdn.shopify.com/s/files/1/0699/1678/6978/products/Goldchm3a.png?v=1681794149",
+          "alt": null,
+          "bytes": 618442
+        },
+        {
+          "position": 8,
+          "original_index_no_carrossel_real": 19,
+          "file": "carrossel-concorrente/referencia-08.png",
+          "source_image_url": "https://cdn.shopify.com/s/files/1/0699/1678/6978/products/goldchm3a_1.png?v=1681794404",
+          "alt": null,
+          "bytes": 487364
+        }
+      ]
+    },
+    {
+      "product_handle": "oaklume-task-light",
+      "competitor": "vykker.com",
+      "competitor_product_title": "The EMBAR Puzzle Lamp",
+      "competitor_page": "https://vykker.com/products/embarpuzzle",
+      "competitor_json": "https://vykker.com/products/embarpuzzle.js",
+      "real_carousel_count": 13,
+      "downloaded_carousel_count": 8,
+      "amostrado": true,
+      "files": [
+        {
+          "position": 1,
+          "original_index_no_carrossel_real": 1,
+          "file": "carrossel-concorrente/referencia-01.jpg",
+          "source_image_url": "https://cdn.shopify.com/s/files/1/0835/0416/9271/files/2026-03-2608.09.14_1.jpg?v=1774537796",
+          "alt": null,
+          "bytes": 82367
+        },
+        {
+          "position": 2,
+          "original_index_no_carrossel_real": 3,
+          "file": "carrossel-concorrente/referencia-02.png",
+          "source_image_url": "https://cdn.shopify.com/s/files/1/0835/0416/9271/files/11_1.png?v=1775089433",
+          "alt": null,
+          "bytes": 353592
+        },
+        {
+          "position": 3,
+          "original_index_no_carrossel_real": 4,
+          "file": "carrossel-concorrente/referencia-03.jpg",
+          "source_image_url": "https://cdn.shopify.com/s/files/1/0835/0416/9271/files/generated-1774461870576_1.jpg?v=1775089433",
+          "alt": null,
+          "bytes": 203063
+        },
+        {
+          "position": 4,
+          "original_index_no_carrossel_real": 6,
+          "file": "carrossel-concorrente/referencia-04.jpg",
+          "source_image_url": "https://cdn.shopify.com/s/files/1/0835/0416/9271/files/generated-1774461869324_1.jpg?v=1775089433",
+          "alt": null,
+          "bytes": 82249
+        },
+        {
+          "position": 5,
+          "original_index_no_carrossel_real": 8,
+          "file": "carrossel-concorrente/referencia-05.png",
+          "source_image_url": "https://cdn.shopify.com/s/files/1/0835/0416/9271/files/picture_response_57dbae35-926f-4bd5-9a56-db4493558a89_1_3.png?v=1775089433",
+          "alt": null,
+          "bytes": 430763
+        },
+        {
+          "position": 6,
+          "original_index_no_carrossel_real": 10,
+          "file": "carrossel-concorrente/referencia-06.png",
+          "source_image_url": "https://cdn.shopify.com/s/files/1/0835/0416/9271/files/picture_response_e1b36c61-7f08-4a5c-ab64-73dc2795130f_1_1.png?v=1775089433",
+          "alt": null,
+          "bytes": 414332
+        },
+        {
+          "position": 7,
+          "original_index_no_carrossel_real": 11,
+          "file": "carrossel-concorrente/referencia-07.png",
+          "source_image_url": "https://cdn.shopify.com/s/files/1/0835/0416/9271/files/picture_response_bf474aac-a053-4bf5-ad01-aa929efeff2c_1.png?v=1775089433",
+          "alt": null,
+          "bytes": 413997
+        },
+        {
+          "position": 8,
+          "original_index_no_carrossel_real": 13,
+          "file": "carrossel-concorrente/referencia-08.png",
+          "source_image_url": "https://cdn.shopify.com/s/files/1/0835/0416/9271/files/picture_response_4b4fba26-f9a9-4e65-a7f1-5747ecff6731_1.png?v=1775089433",
+          "alt": null,
+          "bytes": 441364
+        }
+      ]
+    },
+    {
+      "product_handle": "oaklume-bistro-cordless-table-lamp",
+      "competitor": "lightsstockholm.com",
+      "competitor_product_title": "Stockholm Table Lamp",
+      "competitor_page": "https://lightsstockholm.com/products/lamp",
+      "competitor_json": "https://lightsstockholm.com/products/lamp.js",
+      "real_carousel_count": 11,
+      "downloaded_carousel_count": 8,
+      "amostrado": true,
+      "files": [
+        {
+          "position": 1,
+          "original_index_no_carrossel_real": 1,
+          "file": "carrossel-concorrente/referencia-01.png",
+          "source_image_url": "https://cdn.shopify.com/s/files/1/0675/0437/4024/files/1_8aecda79-8659-421e-bff0-40c92168b043.png?v=1775814134",
+          "alt": null,
+          "bytes": 114819
+        },
+        {
+          "position": 2,
+          "original_index_no_carrossel_real": 2,
+          "file": "carrossel-concorrente/referencia-02.png",
+          "source_image_url": "https://cdn.shopify.com/s/files/1/0675/0437/4024/files/1_db536705-a795-45ad-9803-08da2295bdae.png?v=1775814134",
+          "alt": null,
+          "bytes": 117184
+        },
+        {
+          "position": 3,
+          "original_index_no_carrossel_real": 4,
+          "file": "carrossel-concorrente/referencia-03.png",
+          "source_image_url": "https://cdn.shopify.com/s/files/1/0675/0437/4024/files/ChatGPT_Image_Apr_10_2026_11_40_21_AM.png?v=1775814184",
+          "alt": null,
+          "bytes": 838718
+        },
+        {
+          "position": 4,
+          "original_index_no_carrossel_real": 5,
+          "file": "carrossel-concorrente/referencia-04.gif",
+          "source_image_url": "https://cdn.shopify.com/s/files/1/0675/0437/4024/files/Modern_Wireless_Table_Lamp.gif?v=1775814184",
+          "alt": "Table lamp Stockholm - Lights Stockholm -Modern cordless LED table lamp with touch sensor – Lights Stockholm(Modern trådlös LED-bordslampa med touchsensor – Luminária de mesa LED sem fio moderna com sensor de toque – Moderni langaton LED-pöytälamppu kosketusanturilla – Moderne trådløs LED-bordlampe med berøringssensor – Moderne trådløs LED-bordlampe med touch-funktion – Moderna lámpara de mesa LED inalámbrica con sensor táctil – Moderne kabellose LED-Tischlampe mit Touch-Sensor)",
+          "bytes": 13056875
+        },
+        {
+          "position": 5,
+          "original_index_no_carrossel_real": 7,
+          "file": "carrossel-concorrente/referencia-05.jpg",
+          "source_image_url": "https://cdn.shopify.com/s/files/1/0675/0437/4024/files/IMG_1993_2.jpg?v=1775814184",
+          "alt": null,
+          "bytes": 234816
+        },
+        {
+          "position": 6,
+          "original_index_no_carrossel_real": 8,
+          "file": "carrossel-concorrente/referencia-06.jpg",
+          "source_image_url": "https://cdn.shopify.com/s/files/1/0675/0437/4024/files/Modern_Wireless_Table_Lamp.jpg?v=1775814184",
+          "alt": "Table lamp Stockholm - Lights Stockholm -Modern cordless LED table lamp with touch sensor – Lights Stockholm(Modern trådlös LED-bordslampa med touchsensor – Luminária de mesa LED sem fio moderna com sensor de toque – Moderni langaton LED-pöytälamppu kosketusanturilla – Moderne trådløs LED-bordlampe med berøringssensor – Moderne trådløs LED-bordlampe med touch-funktion – Moderna lámpara de mesa LED inalámbrica con sensor táctil – Moderne kabellose LED-Tischlampe mit Touch-Sensor)",
+          "bytes": 61538
+        },
+        {
+          "position": 7,
+          "original_index_no_carrossel_real": 10,
+          "file": "carrossel-concorrente/referencia-07.png",
+          "source_image_url": "https://cdn.shopify.com/s/files/1/0675/0437/4024/files/2026-04-10_12.45.16.png?v=1775817948",
+          "alt": null,
+          "bytes": 2917202
+        },
+        {
+          "position": 8,
+          "original_index_no_carrossel_real": 11,
+          "file": "carrossel-concorrente/referencia-08.png",
+          "source_image_url": "https://cdn.shopify.com/s/files/1/0675/0437/4024/files/ChatGPT_Image_Apr_10_2026_12_10_04_PM.png?v=1775815898",
+          "alt": null,
+          "bytes": 1149385
+        }
+      ]
+    },
+    {
+      "product_handle": "oaklume-cordless-lantern",
+      "competitor": "luceko.com",
+      "competitor_product_title": "CRYSTAL LANTERN TABLE LAMP",
+      "competitor_page": "https://luceko.com/products/crystal-lantern-table-lamp",
+      "competitor_json": "https://luceko.com/products/crystal-lantern-table-lamp.js",
+      "real_carousel_count": 11,
+      "downloaded_carousel_count": 8,
+      "amostrado": true,
+      "files": [
+        {
+          "position": 1,
+          "original_index_no_carrossel_real": 1,
+          "file": "carrossel-concorrente/referencia-01.png",
+          "source_image_url": "https://cdn.shopify.com/s/files/1/0753/2478/4879/files/hf_20260713_121736_fb97b829-091d-40ce-9067-e3144e45719c.png?v=1783946389",
+          "alt": null,
+          "bytes": 3800293
+        },
+        {
+          "position": 2,
+          "original_index_no_carrossel_real": 2,
+          "file": "carrossel-concorrente/referencia-02.png",
+          "source_image_url": "https://cdn.shopify.com/s/files/1/0753/2478/4879/files/FreeEbookWIthEveryPurchase_42.png?v=1767158275",
+          "alt": null,
+          "bytes": 1108765
+        },
+        {
+          "position": 3,
+          "original_index_no_carrossel_real": 4,
+          "file": "carrossel-concorrente/referencia-03.webp",
+          "source_image_url": "https://cdn.shopify.com/s/files/1/0753/2478/4879/files/Image_7_v1.webp?v=1767158275",
+          "alt": null,
+          "bytes": 185831
+        },
+        {
+          "position": 4,
+          "original_index_no_carrossel_real": 5,
+          "file": "carrossel-concorrente/referencia-04.png",
+          "source_image_url": "https://cdn.shopify.com/s/files/1/0753/2478/4879/files/FreeEbookWIthEveryPurchase_54.png?v=1767158275",
+          "alt": null,
+          "bytes": 1550476
+        },
+        {
+          "position": 5,
+          "original_index_no_carrossel_real": 7,
+          "file": "carrossel-concorrente/referencia-05.png",
+          "source_image_url": "https://cdn.shopify.com/s/files/1/0753/2478/4879/files/FreeEbookWIthEveryPurchase_50.png?v=1767158275",
+          "alt": null,
+          "bytes": 523519
+        },
+        {
+          "position": 6,
+          "original_index_no_carrossel_real": 8,
+          "file": "carrossel-concorrente/referencia-06.png",
+          "source_image_url": "https://cdn.shopify.com/s/files/1/0753/2478/4879/files/hf_20260713_122155_91ae0815-e9fb-4470-bba2-a5ebfa1d6b82.png?v=1783946389",
+          "alt": null,
+          "bytes": 4255893
+        },
+        {
+          "position": 7,
+          "original_index_no_carrossel_real": 10,
+          "file": "carrossel-concorrente/referencia-07.png",
+          "source_image_url": "https://cdn.shopify.com/s/files/1/0753/2478/4879/files/hf_20260713_122220_502698c5-c627-4cf5-933b-c739369bcd86.png?v=1783946390",
+          "alt": null,
+          "bytes": 4132869
+        },
+        {
+          "position": 8,
+          "original_index_no_carrossel_real": 11,
+          "file": "carrossel-concorrente/referencia-08.webp",
+          "source_image_url": "https://cdn.shopify.com/s/files/1/0753/2478/4879/files/Image_11_silver_2.webp?v=1767158275",
+          "alt": null,
+          "bytes": 153251
+        }
+      ]
+    }
+  ]
+}
